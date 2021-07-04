@@ -1,0 +1,3117 @@
+{
+  "guild": {
+    "id": "768556386404794448",
+    "name": "Eco",
+    "iconUrl": "https://cdn.discordapp.com/icons/768556386404794448/a_5952c62185fa7c5bf807b9528e205896.png"
+  },
+  "channel": {
+    "id": "837619319986847744",
+    "type": "GuildTextChat",
+    "categoryId": "817629678385889300",
+    "category": "OTHER LANGUAGES",
+    "name": "\uD83C\uDDFB\uD83C\uDDF3vt-eco",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "837650161119133716",
+      "type": "Default",
+      "timestamp": "2021-04-30T11:22:41.198+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hello!!! Welcome to ECO community!",
+      "author": {
+        "id": "361850248328642560",
+        "name": "DetoxJuice",
+        "discriminator": "7642",
+        "nickname": "DetoxJuice",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/361850248328642560/a793a86c2e86371227d13b047e547046.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "837650516439466005",
+      "type": "Default",
+      "timestamp": "2021-04-30T11:24:05.913+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hello here !",
+      "author": {
+        "id": "347809649073979402",
+        "name": "AkaKwak\uD83E\uDD86",
+        "discriminator": "8686",
+        "nickname": "AkaKwak\uD83E\uDD86",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/347809649073979402/5a89642fc3912169fd47ed8f1d16c079.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "837670323951239189",
+      "type": "Default",
+      "timestamp": "2021-04-30T12:42:48.392+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "so excited",
+      "author": {
+        "id": "768554690480701472",
+        "name": "Andy | Eco",
+        "discriminator": "0001",
+        "nickname": "Andy | Eco",
+        "color": "#3498DB",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/768554690480701472/f8595b1bf1392b8a59f41cb730746695.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "837671512923439104",
+      "type": "Default",
+      "timestamp": "2021-04-30T12:47:31.865+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Keeping the pace with injecting translations ! I'll need some testers and correctors after ! \n\nFirst i'm doing words, then i'll be doing links",
+      "author": {
+        "id": "347809649073979402",
+        "name": "AkaKwak\uD83E\uDD86",
+        "discriminator": "8686",
+        "nickname": "AkaKwak\uD83E\uDD86",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/347809649073979402/5a89642fc3912169fd47ed8f1d16c079.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "837680889877889084",
+      "type": "Default",
+      "timestamp": "2021-04-30T13:24:47.505+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Xin chào mọi người!!!!",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "837681041123835954",
+      "type": "Default",
+      "timestamp": "2021-04-30T13:25:23.565+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":eco_hand_splayed: :eco_hand_splayed: :eco_hand_splayed:",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "819721366503948318",
+            "name": "eco_thumbs_up",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721366503948318.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "837715796410892379",
+      "type": "Default",
+      "timestamp": "2021-04-30T15:43:29.871+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hi @cRekto  :eco_heart:",
+      "author": {
+        "id": "200356389061656586",
+        "name": "passenger",
+        "discriminator": "5420",
+        "nickname": "passenger",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/200356389061656586/b7813d1e59583bf49a4b38e9a0a461e0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "760124072843018260",
+          "name": "cRekto",
+          "discriminator": "2423",
+          "nickname": "cRekto",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "837720824399790120",
+      "type": "Default",
+      "timestamp": "2021-04-30T16:03:28.637+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hello!!! Can't wait to see more Vietnamese chat here",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "837730593189396480",
+      "type": "Default",
+      "timestamp": "2021-04-30T16:42:17.698+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Full translation up to date on my github",
+      "author": {
+        "id": "347809649073979402",
+        "name": "AkaKwak\uD83E\uDD86",
+        "discriminator": "8686",
+        "nickname": "AkaKwak\uD83E\uDD86",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/347809649073979402/5a89642fc3912169fd47ed8f1d16c079.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "837730597472305233",
+      "type": "Default",
+      "timestamp": "2021-04-30T16:42:18.719+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://github.com/eco-community/website-translations/compare/master...AkaKwak:master",
+      "author": {
+        "id": "347809649073979402",
+        "name": "AkaKwak\uD83E\uDD86",
+        "discriminator": "8686",
+        "nickname": "AkaKwak\uD83E\uDD86",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/347809649073979402/5a89642fc3912169fd47ed8f1d16c079.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "837730752266764368",
+      "type": "Default",
+      "timestamp": "2021-04-30T16:42:55.625+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Waiting for pull request and corrections ! I need also to fix the links",
+      "author": {
+        "id": "347809649073979402",
+        "name": "AkaKwak\uD83E\uDD86",
+        "discriminator": "8686",
+        "nickname": "AkaKwak\uD83E\uDD86",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/347809649073979402/5a89642fc3912169fd47ed8f1d16c079.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "837730810777436220",
+      "type": "Default",
+      "timestamp": "2021-04-30T16:43:09.575+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Andy | Eco :eco_pulse:",
+      "author": {
+        "id": "347809649073979402",
+        "name": "AkaKwak\uD83E\uDD86",
+        "discriminator": "8686",
+        "nickname": "AkaKwak\uD83E\uDD86",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/347809649073979402/5a89642fc3912169fd47ed8f1d16c079.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "768554690480701472",
+          "name": "Andy | Eco",
+          "discriminator": "0001",
+          "nickname": "Andy | Eco",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "837730871459971102",
+      "type": "Default",
+      "timestamp": "2021-04-30T16:43:24.043+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":eco_heart:",
+      "author": {
+        "id": "347809649073979402",
+        "name": "AkaKwak\uD83E\uDD86",
+        "discriminator": "8686",
+        "nickname": "AkaKwak\uD83E\uDD86",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/347809649073979402/5a89642fc3912169fd47ed8f1d16c079.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "837730988045369394",
+      "type": "Default",
+      "timestamp": "2021-04-30T16:43:51.839+00:00",
+      "timestampEdited": "2021-04-30T16:45:31.419+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thank you @cRekto for full translations \uD83D\uDE42\nHelping out to fix things this afternoon also \uD83D\uDE04",
+      "author": {
+        "id": "347809649073979402",
+        "name": "AkaKwak\uD83E\uDD86",
+        "discriminator": "8686",
+        "nickname": "AkaKwak\uD83E\uDD86",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/347809649073979402/5a89642fc3912169fd47ed8f1d16c079.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "760124072843018260",
+          "name": "cRekto",
+          "discriminator": "2423",
+          "nickname": "cRekto",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "837732690131812393",
+      "type": "Default",
+      "timestamp": "2021-04-30T16:50:37.648+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "My pleasure!!!!",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "837788852709490699",
+      "type": "Default",
+      "timestamp": "2021-04-30T20:33:47.85+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@cRekto, I just merge the PR of Akakwak, so you can have a look at the progess here : \nhttps://eco-community.github.io/website-translations/vn/",
+      "author": {
+        "id": "209855484637741066",
+        "name": "Jeremie",
+        "discriminator": "7539",
+        "nickname": "Jeremie",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/209855484637741066/e8003f11f5e039d2aeee90d68fa3896f.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "819721366503948318",
+            "name": "eco_thumbs_up",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721366503948318.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "760124072843018260",
+          "name": "cRekto",
+          "discriminator": "2423",
+          "nickname": "cRekto",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "837789021962502144",
+      "type": "Default",
+      "timestamp": "2021-04-30T20:34:28.203+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "if you can provide me a translation for the Red header bar, I will update it",
+      "author": {
+        "id": "209855484637741066",
+        "name": "Jeremie",
+        "discriminator": "7539",
+        "nickname": "Jeremie",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/209855484637741066/e8003f11f5e039d2aeee90d68fa3896f.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "837789259619631124",
+      "type": "Default",
+      "timestamp": "2021-04-30T20:35:24.865+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Dave | Eco I don't have the right to post picture here. Can you have a look  \uD83D\uDE4F  ?",
+      "author": {
+        "id": "209855484637741066",
+        "name": "Jeremie",
+        "discriminator": "7539",
+        "nickname": "Jeremie",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/209855484637741066/e8003f11f5e039d2aeee90d68fa3896f.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "344148051973373952",
+          "name": "Dave | Eco",
+          "discriminator": "2900",
+          "nickname": "Dave | Eco",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "837791764361904179",
+      "type": "Default",
+      "timestamp": "2021-04-30T20:45:22.042+00:00",
+      "timestampEdited": "2021-04-30T21:14:12.086+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "update : now you can :D// Please do not naviguate onto the website using hyperlink :troll:",
+      "author": {
+        "id": "347809649073979402",
+        "name": "AkaKwak\uD83E\uDD86",
+        "discriminator": "8686",
+        "nickname": "AkaKwak\uD83E\uDD86",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/347809649073979402/5a89642fc3912169fd47ed8f1d16c079.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "837812948436910081",
+      "type": "Default",
+      "timestamp": "2021-04-30T22:09:32.719+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!!",
+      "author": {
+        "id": "768554690480701472",
+        "name": "Andy | Eco",
+        "discriminator": "0001",
+        "nickname": "Andy | Eco",
+        "color": "#3498DB",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/768554690480701472/f8595b1bf1392b8a59f41cb730746695.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "837812975191982140",
+      "type": "Default",
+      "timestamp": "2021-04-30T22:09:39.098+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "is it final for now, or are you still working on it?",
+      "author": {
+        "id": "768554690480701472",
+        "name": "Andy | Eco",
+        "discriminator": "0001",
+        "nickname": "Andy | Eco",
+        "color": "#3498DB",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/768554690480701472/f8595b1bf1392b8a59f41cb730746695.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "837816356618371104",
+      "type": "Default",
+      "timestamp": "2021-04-30T22:23:05.293+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "You can naviguate into it ^^",
+      "author": {
+        "id": "347809649073979402",
+        "name": "AkaKwak\uD83E\uDD86",
+        "discriminator": "8686",
+        "nickname": "AkaKwak\uD83E\uDD86",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/347809649073979402/5a89642fc3912169fd47ed8f1d16c079.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "837817155612966942",
+      "type": "Default",
+      "timestamp": "2021-04-30T22:26:15.788+00:00",
+      "timestampEdited": "2021-04-30T22:26:21.367+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "There is still few translations to fix for FAQ ^^",
+      "author": {
+        "id": "347809649073979402",
+        "name": "AkaKwak\uD83E\uDD86",
+        "discriminator": "8686",
+        "nickname": "AkaKwak\uD83E\uDD86",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/347809649073979402/5a89642fc3912169fd47ed8f1d16c079.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "837834412779110410",
+      "type": "Default",
+      "timestamp": "2021-04-30T23:34:50.217+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi everyone, once I get back from vacation, I will help to fix the translation \uD83D\uDE4F\uD83D\uDE4F\uD83D\uDE4F",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDD25",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f525.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "838208501574139944",
+      "type": "Default",
+      "timestamp": "2021-05-02T00:21:19.936+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "amazing",
+      "author": {
+        "id": "768554690480701472",
+        "name": "Andy | Eco",
+        "discriminator": "0001",
+        "nickname": "Andy | Eco",
+        "color": "#3498DB",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/768554690480701472/f8595b1bf1392b8a59f41cb730746695.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "838208515398565909",
+      "type": "Default",
+      "timestamp": "2021-05-02T00:21:23.232+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ping us when it's done!",
+      "author": {
+        "id": "768554690480701472",
+        "name": "Andy | Eco",
+        "discriminator": "0001",
+        "nickname": "Andy | Eco",
+        "color": "#3498DB",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/768554690480701472/f8595b1bf1392b8a59f41cb730746695.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "838208541541662752",
+      "type": "Default",
+      "timestamp": "2021-05-02T00:21:29.465+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "we'll award points to everyone who contributed!",
+      "author": {
+        "id": "768554690480701472",
+        "name": "Andy | Eco",
+        "discriminator": "0001",
+        "nickname": "Andy | Eco",
+        "color": "#3498DB",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/768554690480701472/f8595b1bf1392b8a59f41cb730746695.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "838214170197360681",
+      "type": "Default",
+      "timestamp": "2021-05-02T00:43:51.441+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi",
+      "author": {
+        "id": "785548765846962186",
+        "name": "Dyral",
+        "discriminator": "2216",
+        "nickname": "Dyral",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "838706095874506792",
+      "type": "Reply",
+      "timestamp": "2021-05-03T09:18:35.662+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sure thinggg!!!!!",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "768554690480701472",
+          "name": "Andy | Eco",
+          "discriminator": "0001",
+          "nickname": "Andy | Eco",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "838208515398565909",
+        "channelId": "837619319986847744",
+        "guildId": null
+      }
+    },
+    {
+      "id": "838706118335004713",
+      "type": "Reply",
+      "timestamp": "2021-05-03T09:18:41.017+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi bạn",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "785548765846962186",
+          "name": "Dyral",
+          "discriminator": "2216",
+          "nickname": "Dyral",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "838214170197360681",
+        "channelId": "837619319986847744",
+        "guildId": null
+      }
+    },
+    {
+      "id": "838707220631257088",
+      "type": "Default",
+      "timestamp": "2021-05-03T09:23:03.825+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi",
+      "author": {
+        "id": "785548765846962186",
+        "name": "Dyral",
+        "discriminator": "2216",
+        "nickname": "Dyral",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "838707577100566528",
+      "type": "Default",
+      "timestamp": "2021-05-03T09:24:28.814+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@cRekto \uD83D\uDC4D",
+      "author": {
+        "id": "785548765846962186",
+        "name": "Dyral",
+        "discriminator": "2216",
+        "nickname": "Dyral",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "760124072843018260",
+          "name": "cRekto",
+          "discriminator": "2423",
+          "nickname": "cRekto",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "838707962498383892",
+      "type": "Reply",
+      "timestamp": "2021-05-03T09:26:00.7+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "bạn là người Việt hả",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "785548765846962186",
+          "name": "Dyral",
+          "discriminator": "2216",
+          "nickname": "Dyral",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "838707220631257088",
+        "channelId": "837619319986847744",
+        "guildId": null
+      }
+    },
+    {
+      "id": "838710384440639508",
+      "type": "Default",
+      "timestamp": "2021-05-03T09:35:38.136+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Um",
+      "author": {
+        "id": "785548765846962186",
+        "name": "Dyral",
+        "discriminator": "2216",
+        "nickname": "Dyral",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "838710510215495690",
+      "type": "Default",
+      "timestamp": "2021-05-03T09:36:08.123+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Cũng mới tham gia crypto vô đây hóng mà k biết sao nữa",
+      "author": {
+        "id": "785548765846962186",
+        "name": "Dyral",
+        "discriminator": "2216",
+        "nickname": "Dyral",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "838789803804852265",
+      "type": "Default",
+      "timestamp": "2021-05-03T14:51:13.188+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "cám ơn bạn đã chia sẻ",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "838789866430660608",
+      "type": "Reply",
+      "timestamp": "2021-05-03T14:51:28.119+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "bạn làm nhiều nhiệm vụ vào ik, sau đó sẽ đc thưởng",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "785548765846962186",
+          "name": "Dyral",
+          "discriminator": "2216",
+          "nickname": "Dyral",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "838710510215495690",
+        "channelId": "837619319986847744",
+        "guildId": null
+      }
+    },
+    {
+      "id": "838792897087668224",
+      "type": "Default",
+      "timestamp": "2021-05-03T15:03:30.684+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Làm nhiệm vụ gì vậy bạn , hướng dẫn mình với",
+      "author": {
+        "id": "785548765846962186",
+        "name": "Dyral",
+        "discriminator": "2216",
+        "nickname": "Dyral",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "838795870006804570",
+      "type": "Reply",
+      "timestamp": "2021-05-03T15:15:19.483+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "bạn đọc qua trang Eco.com trc ik. Sau đó đóng góp cho cộng đồng á. Có gì khó thì google dịch",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "785548765846962186",
+          "name": "Dyral",
+          "discriminator": "2216",
+          "nickname": "Dyral",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "838792897087668224",
+        "channelId": "837619319986847744",
+        "guildId": null
+      }
+    },
+    {
+      "id": "838795912385921034",
+      "type": "Default",
+      "timestamp": "2021-05-03T15:15:29.587+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hoặc nhờ mình cũng đc",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "838805961832661022",
+      "type": "Default",
+      "timestamp": "2021-05-03T15:55:25.562+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Bạn là ad bên này ak",
+      "author": {
+        "id": "785548765846962186",
+        "name": "Dyral",
+        "discriminator": "2216",
+        "nickname": "Dyral",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "839354709806678016",
+      "type": "Default",
+      "timestamp": "2021-05-05T04:15:57.274+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "xin chào các bạn!",
+      "author": {
+        "id": "692575136229883954",
+        "name": "whale",
+        "discriminator": "6701",
+        "nickname": "whale",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/692575136229883954/8fccc2ec99e1320002f680e55813452b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "839775326514184213",
+      "type": "Default",
+      "timestamp": "2021-05-06T08:07:20.112+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi các bạn",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "839775361503723551",
+      "type": "Default",
+      "timestamp": "2021-05-06T08:07:28.454+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "mình sẽ hỗ trợ cộng đồng Việt Nam",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "819721366503948318",
+            "name": "eco_thumbs_up",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721366503948318.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "840088727731830795",
+      "type": "Default",
+      "timestamp": "2021-05-07T04:52:40.785+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hi @Andy | Eco :eco_victory_hand:",
+      "author": {
+        "id": "587353328145530920",
+        "name": "Laborant",
+        "discriminator": "2139",
+        "nickname": "Laborant",
+        "color": "#979C9F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4B",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44b.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "768554690480701472",
+          "name": "Andy | Eco",
+          "discriminator": "0001",
+          "nickname": "Andy | Eco",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "840731359994839040",
+      "type": "Default",
+      "timestamp": "2021-05-08T23:26:16.256+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ad cho em hỏi khi nào eco mở bán với ạ",
+      "author": {
+        "id": "436531197103964162",
+        "name": "thangctk7",
+        "discriminator": "2116",
+        "nickname": "thangctk7",
+        "color": "#979C9F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/436531197103964162/00a50ae865cdd25a4a32d4e27460a36c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "841279706863108106",
+      "type": "Default",
+      "timestamp": "2021-05-10T11:45:12.337+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chưa bik á bạn ơi",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "841279736344346624",
+      "type": "Default",
+      "timestamp": "2021-05-10T11:45:19.366+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chưa set thời gian nữa",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "841466931605274664",
+      "type": "Reply",
+      "timestamp": "2021-05-11T00:09:10.194+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "bạn ơi ik là gì vậy?",
+      "author": {
+        "id": "820461587806683166",
+        "name": "longt28",
+        "discriminator": "3706",
+        "nickname": "longt28",
+        "color": "#979C9F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "760124072843018260",
+          "name": "cRekto",
+          "discriminator": "2423",
+          "nickname": "cRekto",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "838789866430660608",
+        "channelId": "837619319986847744",
+        "guildId": null
+      }
+    },
+    {
+      "id": "841467084105449522",
+      "type": "Reply",
+      "timestamp": "2021-05-11T00:09:46.553+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Là đi á",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "820461587806683166",
+          "name": "longt28",
+          "discriminator": "3706",
+          "nickname": "longt28",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "841466931605274664",
+        "channelId": "837619319986847744",
+        "guildId": null
+      }
+    },
+    {
+      "id": "841467263894028320",
+      "type": "Default",
+      "timestamp": "2021-05-11T00:10:29.418+00:00",
+      "timestampEdited": "2021-05-11T00:17:03.281+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Jeremie @AkaKwak\uD83E\uDD86 Hi frens, I finished what to correct. Plz check \uD83D\uDE1B",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "819721366503948318",
+            "name": "eco_thumbs_up",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721366503948318.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "209855484637741066",
+          "name": "Jeremie",
+          "discriminator": "7539",
+          "nickname": "Jeremie",
+          "isBot": false
+        },
+        {
+          "id": "347809649073979402",
+          "name": "AkaKwak\uD83E\uDD86",
+          "discriminator": "8686",
+          "nickname": "AkaKwak\uD83E\uDD86",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "841611615206899712",
+      "type": "Default",
+      "timestamp": "2021-05-11T09:44:05.453+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@cRekto Finished to correct and adjusts few things ! It's available on my fork here => \nhttps://github.com/AkaKwak/website-translations/tree/master/vn",
+      "author": {
+        "id": "347809649073979402",
+        "name": "AkaKwak\uD83E\uDD86",
+        "discriminator": "8686",
+        "nickname": "AkaKwak\uD83E\uDD86",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/347809649073979402/5a89642fc3912169fd47ed8f1d16c079.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "760124072843018260",
+          "name": "cRekto",
+          "discriminator": "2423",
+          "nickname": "cRekto",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "841611770061914125",
+      "type": "Default",
+      "timestamp": "2021-05-11T09:44:42.373+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "or you can check the pull request directly here => \nhttps://github.com/eco-community/website-translations/pull/65",
+      "author": {
+        "id": "347809649073979402",
+        "name": "AkaKwak\uD83E\uDD86",
+        "discriminator": "8686",
+        "nickname": "AkaKwak\uD83E\uDD86",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/347809649073979402/5a89642fc3912169fd47ed8f1d16c079.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "812531599438512129",
+            "name": "ecox",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/812531599438512129.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "841613021725851678",
+      "type": "Default",
+      "timestamp": "2021-05-11T09:49:40.793+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thank you @AkaKwak\uD83E\uDD86 !!!",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "347809649073979402",
+          "name": "AkaKwak\uD83E\uDD86",
+          "discriminator": "8686",
+          "nickname": "AkaKwak\uD83E\uDD86",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "841736392827600947",
+      "type": "Default",
+      "timestamp": "2021-05-11T17:59:54.756+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@AkaKwak\uD83E\uDD86 I'm merge your commit. If someone help to check the broken link, here's the Vietnamese website : \nhttps://eco-community.github.io/website-translations/vn",
+      "author": {
+        "id": "209855484637741066",
+        "name": "Jeremie",
+        "discriminator": "7539",
+        "nickname": "Jeremie",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/209855484637741066/e8003f11f5e039d2aeee90d68fa3896f.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "347809649073979402",
+          "name": "AkaKwak\uD83E\uDD86",
+          "discriminator": "8686",
+          "nickname": "AkaKwak\uD83E\uDD86",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "841892576760299550",
+      "type": "Default",
+      "timestamp": "2021-05-12T04:20:31.907+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Early Access button is noice now",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "841892613857476628",
+      "type": "Default",
+      "timestamp": "2021-05-12T04:20:40.752+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDE0D \uD83D\uDE0D \uD83D\uDE0D",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "841966392609603605",
+      "type": "Default",
+      "timestamp": "2021-05-12T09:13:50.977+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Haha ^^",
+      "author": {
+        "id": "347809649073979402",
+        "name": "AkaKwak\uD83E\uDD86",
+        "discriminator": "8686",
+        "nickname": "AkaKwak\uD83E\uDD86",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/347809649073979402/5a89642fc3912169fd47ed8f1d16c079.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "841966415745253376",
+      "type": "Default",
+      "timestamp": "2021-05-12T09:13:56.493+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":eco_parrot:",
+      "author": {
+        "id": "347809649073979402",
+        "name": "AkaKwak\uD83E\uDD86",
+        "discriminator": "8686",
+        "nickname": "AkaKwak\uD83E\uDD86",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/347809649073979402/5a89642fc3912169fd47ed8f1d16c079.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "842588996763648011",
+      "type": "Default",
+      "timestamp": "2021-05-14T02:27:51.375+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi guys, I wonder if the Vietnamese translation is up now?",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "842589076267991050",
+      "type": "Default",
+      "timestamp": "2021-05-14T02:28:10.33+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "So I can share with my friends and invite them",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "842589117258530827",
+      "type": "Default",
+      "timestamp": "2021-05-14T02:28:20.103+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":peepohappy:",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "842774933687369728",
+      "type": "Default",
+      "timestamp": "2021-05-14T14:46:42.192+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://eco-community.github.io/website-translations/vn",
+      "author": {
+        "id": "347809649073979402",
+        "name": "AkaKwak\uD83E\uDD86",
+        "discriminator": "8686",
+        "nickname": "AkaKwak\uD83E\uDD86",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/347809649073979402/5a89642fc3912169fd47ed8f1d16c079.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "842774963974438912",
+      "type": "Default",
+      "timestamp": "2021-05-14T14:46:49.413+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This is the online website",
+      "author": {
+        "id": "347809649073979402",
+        "name": "AkaKwak\uD83E\uDD86",
+        "discriminator": "8686",
+        "nickname": "AkaKwak\uD83E\uDD86",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/347809649073979402/5a89642fc3912169fd47ed8f1d16c079.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "842774986740858901",
+      "type": "Default",
+      "timestamp": "2021-05-14T14:46:54.841+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@cRekto",
+      "author": {
+        "id": "347809649073979402",
+        "name": "AkaKwak\uD83E\uDD86",
+        "discriminator": "8686",
+        "nickname": "AkaKwak\uD83E\uDD86",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/347809649073979402/5a89642fc3912169fd47ed8f1d16c079.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "760124072843018260",
+          "name": "cRekto",
+          "discriminator": "2423",
+          "nickname": "cRekto",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "842775134199742464",
+      "type": "Default",
+      "timestamp": "2021-05-14T14:47:29.998+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If anything is not working, links, translation or whatever please let me know and i'll try to fix it asap \uD83D\uDE42",
+      "author": {
+        "id": "347809649073979402",
+        "name": "AkaKwak\uD83E\uDD86",
+        "discriminator": "8686",
+        "nickname": "AkaKwak\uD83E\uDD86",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/347809649073979402/5a89642fc3912169fd47ed8f1d16c079.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "842803899903639567",
+      "type": "Default",
+      "timestamp": "2021-05-14T16:41:48.276+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I know links doesn't work for now, waiting the merge and check from @Jeremie  \uD83D\uDE07",
+      "author": {
+        "id": "347809649073979402",
+        "name": "AkaKwak\uD83E\uDD86",
+        "discriminator": "8686",
+        "nickname": "AkaKwak\uD83E\uDD86",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/347809649073979402/5a89642fc3912169fd47ed8f1d16c079.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "209855484637741066",
+          "name": "Jeremie",
+          "discriminator": "7539",
+          "nickname": "Jeremie",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "842831445613346826",
+      "type": "Default",
+      "timestamp": "2021-05-14T18:31:15.685+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@cRekto, I've merged @AkaKwak\uD83E\uDD86  Pull request.",
+      "author": {
+        "id": "209855484637741066",
+        "name": "Jeremie",
+        "discriminator": "7539",
+        "nickname": "Jeremie",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/209855484637741066/e8003f11f5e039d2aeee90d68fa3896f.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "811681675326128169",
+            "name": "hogan",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/811681675326128169.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "838383667968475137",
+            "name": "aKaKwak",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/838383667968475137.gif"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "347809649073979402",
+          "name": "AkaKwak\uD83E\uDD86",
+          "discriminator": "8686",
+          "nickname": "AkaKwak\uD83E\uDD86",
+          "isBot": false
+        },
+        {
+          "id": "760124072843018260",
+          "name": "cRekto",
+          "discriminator": "2423",
+          "nickname": "cRekto",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "843020513781874716",
+      "type": "Default",
+      "timestamp": "2021-05-15T07:02:33.049+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Wow",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "843020662493937694",
+      "type": "Default",
+      "timestamp": "2021-05-15T07:03:08.505+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "So now the website will automatically turn to Vietnamese am I right?",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "843020925938040882",
+      "type": "Reply",
+      "timestamp": "2021-05-15T07:04:11.315+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Nice I see it! Let's goooo",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "347809649073979402",
+          "name": "AkaKwak\uD83E\uDD86",
+          "discriminator": "8686",
+          "nickname": "AkaKwak\uD83E\uDD86",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "842774933687369728",
+        "channelId": "837619319986847744",
+        "guildId": null
+      }
+    },
+    {
+      "id": "844219984058384384",
+      "type": "Default",
+      "timestamp": "2021-05-18T14:28:49.048+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@nguyenmung chào bạn",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "842601905603346463",
+          "name": "nguyenmung",
+          "discriminator": "0072",
+          "nickname": "nguyenmung",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "844220151687544892",
+      "type": "Default",
+      "timestamp": "2021-05-18T14:29:29.014+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Bạn có thể kiếm Eco point bằng nhiều cách. Nhưng dễ nhất là cống hiến cho cộng đồng và làm bounty nha",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "844221817346064384",
+      "type": "Default",
+      "timestamp": "2021-05-18T14:36:06.138+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Bạn dạy M dc ko",
+      "author": {
+        "id": "842601905603346463",
+        "name": "nguyenmung",
+        "discriminator": "0072",
+        "nickname": "nguyenmung",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "844221841103257630",
+      "type": "Default",
+      "timestamp": "2021-05-18T14:36:11.802+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "M k biết làm ntn",
+      "author": {
+        "id": "842601905603346463",
+        "name": "nguyenmung",
+        "discriminator": "0072",
+        "nickname": "nguyenmung",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "844553212027207711",
+      "type": "Reply",
+      "timestamp": "2021-05-19T12:32:56.787+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What can I do to contribute ?",
+      "author": {
+        "id": "842601905603346463",
+        "name": "nguyenmung",
+        "discriminator": "0072",
+        "nickname": "nguyenmung",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "768554690480701472",
+          "name": "Andy | Eco",
+          "discriminator": "0001",
+          "nickname": "Andy | Eco",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "838208541541662752",
+        "channelId": "837619319986847744",
+        "guildId": null
+      }
+    },
+    {
+      "id": "845116539057209355",
+      "type": "Reply",
+      "timestamp": "2021-05-21T01:51:24.417+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "In case you're wondering what the points in here are all about: Eco points are currently just for fun and for research purposes only but they may have a function in the future.\n\nHere's how you can earn points:\n\n:eco_backhand_right: Community Participation: be an active member of the community, help other members if they have a question, welcome them to the community -> just be helpful, kind and good spirited!\n:eco_backhand_right: Bounty Challenges: Eco hosts a variety of different bounties. Have a look at #\uD83C\uDFC5content-bounties and #\uD83C\uDFC6other-bounties. By participating in these bounties and by providing quality submissions, you can quickly earn Eco Points\n:eco_backhand_right: Eco App: Users of the Eco app are rewarded for their usage. Right now, the app is available for iPhone users in some states in the US. \n:eco_backhand_right: Initiatives: Just start an initiative on your own or with other members. If it provides value to the ecosystem, you will most definitely be rewarded!\n:eco_backhand_right: Helping out others: if you're active in here, you will notice members offering rewards if you help them with something.\n:eco_backhand_right: Invite people to the project and they can thank you in the #invite-thank-yous section. Only users with a large number of invitees will get points",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "842601905603346463",
+          "name": "nguyenmung",
+          "discriminator": "0072",
+          "nickname": "nguyenmung",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "844553212027207711",
+        "channelId": "837619319986847744",
+        "guildId": null
+      }
+    },
+    {
+      "id": "845116975785181184",
+      "type": "Default",
+      "timestamp": "2021-05-21T01:53:08.541+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Bạn có thể: giúp đỡ cách thành viên khác, chào mừng họ, tham gia vào bounty tại kênh #\uD83C\uDFC5content-bounties  và  #\uD83C\uDFC6other-bounties, tải Eco App, làm event, giúp đỡ các thành viên khác thì họ sẽ tặng điểm cho bạn, mời bạn bè vào dự án. Chỉ những ai mời nhiều thành viên thì mới được tính",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "845152677775671336",
+      "type": "Default",
+      "timestamp": "2021-05-21T04:15:00.559+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Xin chào",
+      "author": {
+        "id": "387479790635974663",
+        "name": "BeaconChain",
+        "discriminator": "8571",
+        "nickname": "BeaconChain",
+        "color": "#979C9F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/387479790635974663/381abc09346f258cf6acb80dcf3813bf.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "848522998432661514",
+      "type": "Reply",
+      "timestamp": "2021-05-30T11:27:27.621+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chào bạn",
+      "author": {
+        "id": "812651286059155487",
+        "name": "darisss",
+        "discriminator": "0051",
+        "nickname": "darisss",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/812651286059155487/343319e1e6b6d7838517b98733c7beb1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "387479790635974663",
+          "name": "BeaconChain",
+          "discriminator": "8571",
+          "nickname": "BeaconChain",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "845152677775671336",
+        "channelId": "837619319986847744",
+        "guildId": null
+      }
+    },
+    {
+      "id": "848845601234747402",
+      "type": "Default",
+      "timestamp": "2021-05-31T08:49:22.123+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi everyone here ! The last update for community translation VN website has been pushed ! \nHave a look \uD83D\uDE42",
+      "author": {
+        "id": "347809649073979402",
+        "name": "AkaKwak\uD83E\uDD86",
+        "discriminator": "8686",
+        "nickname": "AkaKwak\uD83E\uDD86",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/347809649073979402/5a89642fc3912169fd47ed8f1d16c079.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "848845638090227762",
+      "type": "Default",
+      "timestamp": "2021-05-31T08:49:30.91+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Feel free to tell me if anything is broken or missing !",
+      "author": {
+        "id": "347809649073979402",
+        "name": "AkaKwak\uD83E\uDD86",
+        "discriminator": "8686",
+        "nickname": "AkaKwak\uD83E\uDD86",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/347809649073979402/5a89642fc3912169fd47ed8f1d16c079.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "848845640725037056",
+      "type": "Default",
+      "timestamp": "2021-05-31T08:49:31.538+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://eco-community.github.io/website-translations/vn/",
+      "author": {
+        "id": "347809649073979402",
+        "name": "AkaKwak\uD83E\uDD86",
+        "discriminator": "8686",
+        "nickname": "AkaKwak\uD83E\uDD86",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/347809649073979402/5a89642fc3912169fd47ed8f1d16c079.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "848846527685197845",
+      "type": "Default",
+      "timestamp": "2021-05-31T08:53:03.006+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "4 pages need some more work it's on the VN notion",
+      "author": {
+        "id": "347809649073979402",
+        "name": "AkaKwak\uD83E\uDD86",
+        "discriminator": "8686",
+        "nickname": "AkaKwak\uD83E\uDD86",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/347809649073979402/5a89642fc3912169fd47ed8f1d16c079.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "848847572251836436",
+      "type": "Default",
+      "timestamp": "2021-05-31T08:57:12.05+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@cRekto @DetoxJuice",
+      "author": {
+        "id": "347809649073979402",
+        "name": "AkaKwak\uD83E\uDD86",
+        "discriminator": "8686",
+        "nickname": "AkaKwak\uD83E\uDD86",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/347809649073979402/5a89642fc3912169fd47ed8f1d16c079.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "361850248328642560",
+          "name": "DetoxJuice",
+          "discriminator": "7642",
+          "nickname": "DetoxJuice",
+          "isBot": false
+        },
+        {
+          "id": "760124072843018260",
+          "name": "cRekto",
+          "discriminator": "2423",
+          "nickname": "cRekto",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "848941607306788874",
+      "type": "Default",
+      "timestamp": "2021-05-31T15:10:51.754+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Got it ser @AkaKwak\uD83E\uDD86",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "347809649073979402",
+          "name": "AkaKwak\uD83E\uDD86",
+          "discriminator": "8686",
+          "nickname": "AkaKwak\uD83E\uDD86",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "849462804674379796",
+      "type": "Default",
+      "timestamp": "2021-06-02T01:41:54.89+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Eco có Twitter không ad ơi",
+      "author": {
+        "id": "827597123909976095",
+        "name": "TRAN THI THUY LINH",
+        "discriminator": "0413",
+        "nickname": "TRAN THI THUY LINH",
+        "color": "#979C9F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "849577121047117854",
+      "type": "Reply",
+      "timestamp": "2021-06-02T09:16:10.037+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "có á bạn ơi",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "827597123909976095",
+          "name": "TRAN THI THUY LINH",
+          "discriminator": "0413",
+          "nickname": "TRAN THI THUY LINH",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "849462804674379796",
+        "channelId": "837619319986847744",
+        "guildId": null
+      }
+    },
+    {
+      "id": "849577293127090186",
+      "type": "Default",
+      "timestamp": "2021-06-02T09:16:51.064+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://twitter.com/eco",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "849577305356894288",
+      "type": "Default",
+      "timestamp": "2021-06-02T09:16:53.98+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "đây bạn xem nha",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "849577368976228398",
+      "type": "Default",
+      "timestamp": "2021-06-02T09:17:09.148+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "trong tương lai mình sẽ mở thêm 1 Twitter chỉ có tiếng Việt Nam",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "849577509049466901",
+      "type": "Default",
+      "timestamp": "2021-06-02T09:17:42.544+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@AkaKwak\uD83E\uDD86 I'm done with the translation ser! Please check",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "347809649073979402",
+          "name": "AkaKwak\uD83E\uDD86",
+          "discriminator": "8686",
+          "nickname": "AkaKwak\uD83E\uDD86",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "849578042678312960",
+      "type": "Reply",
+      "timestamp": "2021-06-02T09:19:49.771+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi \uD83D\uDC4B ! Alright Fren ! I'll be injecting it very soon on local website, then push it asap \uD83D\uDE42",
+      "author": {
+        "id": "347809649073979402",
+        "name": "AkaKwak\uD83E\uDD86",
+        "discriminator": "8686",
+        "nickname": "AkaKwak\uD83E\uDD86",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/347809649073979402/5a89642fc3912169fd47ed8f1d16c079.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "760124072843018260",
+          "name": "cRekto",
+          "discriminator": "2423",
+          "nickname": "cRekto",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "849577509049466901",
+        "channelId": "837619319986847744",
+        "guildId": null
+      }
+    },
+    {
+      "id": "849578196034912256",
+      "type": "Reply",
+      "timestamp": "2021-06-02T09:20:26.334+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thank you ser! Please tell me if there is any problem",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "347809649073979402",
+          "name": "AkaKwak\uD83E\uDD86",
+          "discriminator": "8686",
+          "nickname": "AkaKwak\uD83E\uDD86",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "849578042678312960",
+        "channelId": "837619319986847744",
+        "guildId": null
+      }
+    },
+    {
+      "id": "849578300862758912",
+      "type": "Default",
+      "timestamp": "2021-06-02T09:20:51.327+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":aKaKwak:",
+      "author": {
+        "id": "347809649073979402",
+        "name": "AkaKwak\uD83E\uDD86",
+        "discriminator": "8686",
+        "nickname": "AkaKwak\uD83E\uDD86",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/347809649073979402/5a89642fc3912169fd47ed8f1d16c079.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "849578398832394281",
+      "type": "Default",
+      "timestamp": "2021-06-02T09:21:14.685+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":eco_heart: :ecox: :peepohappy:",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "849587786570530826",
+      "type": "Default",
+      "timestamp": "2021-06-02T09:58:32.896+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Bạn @darisss ơi, bạn check các bounty hiện có tại kênh #Current Bounties nhé",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "812651286059155487",
+          "name": "darisss",
+          "discriminator": "0051",
+          "nickname": "darisss",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "849621963822333972",
+      "type": "Default",
+      "timestamp": "2021-06-02T12:14:21.388+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yes sir",
+      "author": {
+        "id": "812651286059155487",
+        "name": "darisss",
+        "discriminator": "0051",
+        "nickname": "darisss",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/812651286059155487/343319e1e6b6d7838517b98733c7beb1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "849621976472354817",
+      "type": "Default",
+      "timestamp": "2021-06-02T12:14:24.404+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I will do it",
+      "author": {
+        "id": "812651286059155487",
+        "name": "darisss",
+        "discriminator": "0051",
+        "nickname": "darisss",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/812651286059155487/343319e1e6b6d7838517b98733c7beb1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "849621998760886292",
+      "type": "Default",
+      "timestamp": "2021-06-02T12:14:29.718+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thank you verymuch",
+      "author": {
+        "id": "812651286059155487",
+        "name": "darisss",
+        "discriminator": "0051",
+        "nickname": "darisss",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/812651286059155487/343319e1e6b6d7838517b98733c7beb1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "849622110149935135",
+      "type": "Reply",
+      "timestamp": "2021-06-02T12:14:56.275+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Chúc mừng bạn kiếm được điểm Eco đầu tiên nha",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "812651286059155487",
+          "name": "darisss",
+          "discriminator": "0051",
+          "nickname": "darisss",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "849621998760886292",
+        "channelId": "837619319986847744",
+        "guildId": null
+      }
+    },
+    {
+      "id": "849622149479923723",
+      "type": "Default",
+      "timestamp": "2021-06-02T12:15:05.652+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "còn rất nhiều sự kiện khác",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "849622179011756063",
+      "type": "Default",
+      "timestamp": "2021-06-02T12:15:12.693+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://eco-community.github.io/website-translations/vn/",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "849622204642885673",
+      "type": "Default",
+      "timestamp": "2021-06-02T12:15:18.804+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Bạn có thể đọc thêm thông tin tại đây",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "849622313007972382",
+      "type": "Default",
+      "timestamp": "2021-06-02T12:15:44.64+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Có gì bạn cứ hỏi mình",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "849622320158212108",
+      "type": "Default",
+      "timestamp": "2021-06-02T12:15:46.345+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ko sao cả",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "849622355876642828",
+      "type": "Default",
+      "timestamp": "2021-06-02T12:15:54.861+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDC7B",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "849622383194275850",
+      "type": "Default",
+      "timestamp": "2021-06-02T12:16:01.374+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Cảm ơn bạn vì nguồn thông tin quý giá này",
+      "author": {
+        "id": "812651286059155487",
+        "name": "darisss",
+        "discriminator": "0051",
+        "nickname": "darisss",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/812651286059155487/343319e1e6b6d7838517b98733c7beb1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "849622479815049276",
+      "type": "Default",
+      "timestamp": "2021-06-02T12:16:24.41+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hy vọng mình có thể đóng góp cho cộng đồng ECO Việt Nam nói riêng và ECO nói chung nhiều giá trị hơn",
+      "author": {
+        "id": "812651286059155487",
+        "name": "darisss",
+        "discriminator": "0051",
+        "nickname": "darisss",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/812651286059155487/343319e1e6b6d7838517b98733c7beb1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "849626863416770590",
+      "type": "Default",
+      "timestamp": "2021-06-02T12:33:49.542+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Vâng bạn, hy vọng Eco sẽ được sử dụng rộng rãi",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "850411994230161418",
+      "type": "Default",
+      "timestamp": "2021-06-04T16:33:39.315+00:00",
+      "timestampEdited": "2021-06-04T16:33:56.398+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hello everyone ! Here is the full release for the VN website ! \nThank you to@cRekto that have been doing some awesome translation work :aKaKwak:  !\nThank you also @Jeremie  that is coordinating behind the scene with the Eco-community github\n\nYou can see the full website here : \nhttps://eco-community.github.io/website-translations/vn/\n\n@Dave | Eco :hogan: this is done now ! Could you add this to #\uD83D\uDD17helpful-links \n\n:dorito:  Longue vie à Eco ! :eco_parrot:",
+      "author": {
+        "id": "347809649073979402",
+        "name": "AkaKwak\uD83E\uDD86",
+        "discriminator": "8686",
+        "nickname": "AkaKwak\uD83E\uDD86",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/347809649073979402/5a89642fc3912169fd47ed8f1d16c079.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "819721366503948318",
+            "name": "eco_thumbs_up",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721366503948318.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": [
+        {
+          "id": "344148051973373952",
+          "name": "Dave | Eco",
+          "discriminator": "2900",
+          "nickname": "Dave | Eco",
+          "isBot": false
+        },
+        {
+          "id": "209855484637741066",
+          "name": "Jeremie",
+          "discriminator": "7539",
+          "nickname": "Jeremie",
+          "isBot": false
+        },
+        {
+          "id": "760124072843018260",
+          "name": "cRekto",
+          "discriminator": "2423",
+          "nickname": "cRekto",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "850421726155112488",
+      "type": "Default",
+      "timestamp": "2021-06-04T17:12:19.587+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Good job guys!!!\uD83E\uDD73",
+      "author": {
+        "id": "209855484637741066",
+        "name": "Jeremie",
+        "discriminator": "7539",
+        "nickname": "Jeremie",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/209855484637741066/e8003f11f5e039d2aeee90d68fa3896f.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "850462416609083402",
+      "type": "Default",
+      "timestamp": "2021-06-04T19:54:00.947+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Incredible work @AkaKwak\uD83E\uDD86 and @cRekto \uD83C\uDDFB\uD83C\uDDF3 :eco_heart:",
+      "author": {
+        "id": "344148051973373952",
+        "name": "Dave | Eco",
+        "discriminator": "2900",
+        "nickname": "Dave | Eco",
+        "color": "#3498DB",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/344148051973373952/36a74cd90ff1801132be950b74a6935e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "815573725910925314",
+            "name": "pandalove",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/815573725910925314.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "838383667968475137",
+            "name": "aKaKwak",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/838383667968475137.gif"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "347809649073979402",
+          "name": "AkaKwak\uD83E\uDD86",
+          "discriminator": "8686",
+          "nickname": "AkaKwak\uD83E\uDD86",
+          "isBot": false
+        },
+        {
+          "id": "760124072843018260",
+          "name": "cRekto",
+          "discriminator": "2423",
+          "nickname": "cRekto",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "850719704346787840",
+      "type": "Default",
+      "timestamp": "2021-06-05T12:56:23.124+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Let reach the attention of a new community \uD83D\uDE1B",
+      "author": {
+        "id": "760124072843018260",
+        "name": "cRekto",
+        "discriminator": "2423",
+        "nickname": "cRekto",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760124072843018260/630374472113ef0056f3d5d4612eeb85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "850779081515335690",
+      "type": "Reply",
+      "timestamp": "2021-06-05T16:52:19.744+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks you sir \uD83E\uDD29",
+      "author": {
+        "id": "812651286059155487",
+        "name": "darisss",
+        "discriminator": "0051",
+        "nickname": "darisss",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/812651286059155487/343319e1e6b6d7838517b98733c7beb1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "838383667968475137",
+            "name": "aKaKwak",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/838383667968475137.gif"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "815573725910925314",
+            "name": "pandalove",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/815573725910925314.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "347809649073979402",
+          "name": "AkaKwak\uD83E\uDD86",
+          "discriminator": "8686",
+          "nickname": "AkaKwak\uD83E\uDD86",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "850411994230161418",
+        "channelId": "837619319986847744",
+        "guildId": "768556386404794448"
+      }
+    }
+  ],
+  "messageCount": 115
+}

@@ -1,0 +1,446 @@
+{
+  "guild": {
+    "id": "768556386404794448",
+    "name": "Eco",
+    "iconUrl": "https://cdn.discordapp.com/icons/768556386404794448/a_5952c62185fa7c5bf807b9528e205896.png"
+  },
+  "channel": {
+    "id": "809043464964014100",
+    "type": "GuildTextChat",
+    "categoryId": "809043345090805770",
+    "category": "WELCOME",
+    "name": "\uD83C\uDFC1start-here",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "834452990097489970",
+      "type": "Default",
+      "timestamp": "2021-04-21T15:38:16.226+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "810502261724807208",
+        "name": "Eco",
+        "discriminator": "4048",
+        "nickname": "Eco",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/810502261724807208/b29750f053a88d38faabe9207cf27d1a.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "The **Eco App** is the first financial product that gives everyday people real-world benefits powered by crypto, but without putting the technology front-and-center or exposing them to confusion and volatility. It’s a single wallet for everyday saving and spending — the Eco App gives users 2.5% (and up to 5%) APY on deposits, plus 5% cashback at Amazon, Uber, and others (with many more features to come, like paying your bills and sending money to friends).\n\nThousands of hours of user feedback have shown that the world is ready for Eco, and with over 160,000 users on the waitlist, we have no doubt that we’ve made something special. \uD83D\uDE80 \n\nThe Eco App keeps the parts of the old financial system that work and has rebuilt from the ground up the parts that don’t. \n\n**This is where you come in.**\n\nWe believe the best way to bring Eco to the non-crypto world is through you — a community of aligned, crypto-savvy evangelists. \uD83E\uDD1D We’re not launching like a normal application because we’re not a normal application. Our mission is so much larger than that.\n\nOne of our values is “*blow people's minds one step at a time.*” \uD83E\uDD2F The Eco App is our first step... and we’re excited to be taking that first step with you.",
+          "color": "#5AC0DE",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD86",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f986.png"
+          },
+          "count": 283
+        },
+        {
+          "emoji": {
+            "id": "815580452412325898",
+            "name": "chad",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/815580452412325898.png"
+          },
+          "count": 156
+        },
+        {
+          "emoji": {
+            "id": "818932956177367041",
+            "name": "eco_heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/818932956177367041.png"
+          },
+          "count": 297
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 193
+        },
+        {
+          "emoji": {
+            "id": "812531599089729590",
+            "name": "eco",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/812531599089729590.png"
+          },
+          "count": 326
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEA\uD83C\uDDF8",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1ea-1f1f8.png"
+          },
+          "count": 28
+        },
+        {
+          "emoji": {
+            "id": "815580638354735106",
+            "name": "yellen",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/815580638354735106.png"
+          },
+          "count": 24
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDE6\uD83C\uDDF7",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1e6-1f1f7.png"
+          },
+          "count": 22
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDE8\uD83C\uDDF4",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1e8-1f1f4.png"
+          },
+          "count": 20
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEB\uD83C\uDDF7",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1eb-1f1f7.png"
+          },
+          "count": 31
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF0\uD83C\uDDF7",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f0-1f1f7.png"
+          },
+          "count": 51
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF7\uD83C\uDDFA",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f7-1f1fa.png"
+          },
+          "count": 108
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDFA\uD83C\uDDF8",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1fa-1f1f8.png"
+          },
+          "count": 29
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF8\uD83C\uDDEA",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f8-1f1ea.png"
+          },
+          "count": 15
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDE8\uD83C\uDDF3",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1e8-1f1f3.png"
+          },
+          "count": 13
+        },
+        {
+          "emoji": {
+            "id": "815573725784309771",
+            "name": "hattip",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/815573725784309771.png"
+          },
+          "count": 18
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF9\uD83C\uDDF7",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f9-1f1f7.png"
+          },
+          "count": 64
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDE8\uD83C\uDDE6",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1e8-1f1e6.png"
+          },
+          "count": 15
+        },
+        {
+          "emoji": {
+            "id": "832955801974079529",
+            "name": "eco_jp",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/832955801974079529.png"
+          },
+          "count": 26
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF3\uD83C\uDDF4",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f3-1f1f4.png"
+          },
+          "count": 12
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "834453368884953227",
+      "type": "Default",
+      "timestamp": "2021-04-21T15:39:46.536+00:00",
+      "timestampEdited": "2021-04-21T16:22:59.564+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "810502261724807208",
+        "name": "Eco",
+        "discriminator": "4048",
+        "nickname": "Eco",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/810502261724807208/b29750f053a88d38faabe9207cf27d1a.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "**Welcome to the Eco-mmunity**\n\nSince our launch in March, we have managed to build something really special here in our Eco Discord. Tens of thousands of community members from around the world \uD83C\uDF0E  have joined together here because they believe and want to participate in Eco’s mission of putting your money back to work for you. \n\nCommunity members engage with each other, participate in in #\uD83C\uDFC5content-bounties , discuss everything from #\uD83E\uDDEEeco-nomics  to #\uD83D\uDCC8crypto-chat  and earn :points: Points for their contributions and ideas. \n\nWhat are these Points? As we always say: *“they’re for research purposes only.”* But we also like to remind new users that some of the most important developments in history [started out as a toy.](https://cdixon.org/2010/01/03/the-next-big-thing-will-start-out-looking-like-a-toy) And we’d also remind you: “our earliest users win with us.” \uD83C\uDFC6 So feel free to jump in, say hello and get involved.\n\nTap the :eco: below and we’ll upgrade you from “Layer 0” to “Layer 1.” Who knows what that might do for you down the road",
+          "color": "#5AC0DE",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "812531599089729590",
+            "name": "eco",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/812531599089729590.png"
+          },
+          "count": 2043
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 684
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC40",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f440.png"
+          },
+          "count": 304
+        },
+        {
+          "emoji": {
+            "id": "815580452412325898",
+            "name": "chad",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/815580452412325898.png"
+          },
+          "count": 185
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDF74",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f374.png"
+          },
+          "count": 151
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCAF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f4af.png"
+          },
+          "count": 169
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE06",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f606.png"
+          },
+          "count": 120
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEA\uD83C\uDDF8",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1ea-1f1f8.png"
+          },
+          "count": 74
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF9\uD83C\uDDF7",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f9-1f1f7.png"
+          },
+          "count": 164
+        },
+        {
+          "emoji": {
+            "id": "819648258112225316",
+            "name": "points",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819648258112225316.png"
+          },
+          "count": 101
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF0\uD83C\uDDF7",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f0-1f1f7.png"
+          },
+          "count": 142
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDFA\uD83C\uDDE6",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1fa-1f1e6.png"
+          },
+          "count": 128
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDE6\uD83C\uDDFA",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1e6-1f1fa.png"
+          },
+          "count": 49
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDE8\uD83C\uDDF4",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1e8-1f1f4.png"
+          },
+          "count": 45
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDE9\uD83C\uDDEA",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1e9-1f1ea.png"
+          },
+          "count": 58
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDFF\uD83C\uDDE6",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1ff-1f1e6.png"
+          },
+          "count": 42
+        },
+        {
+          "emoji": {
+            "id": "815580593110122496",
+            "name": "moon100k",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/815580593110122496.png"
+          },
+          "count": 55
+        },
+        {
+          "emoji": {
+            "id": "819724912130129930",
+            "name": "i_love_eco",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819724912130129930.png"
+          },
+          "count": 119
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDF7\uD83C\uDDFA",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1f7-1f1fa.png"
+          },
+          "count": 185
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDFB\uD83C\uDDEA",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1fb-1f1ea.png"
+          },
+          "count": 36
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 2
+}

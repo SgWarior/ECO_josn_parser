@@ -1,0 +1,53 @@
+{
+  "guild": {
+    "id": "768556386404794448",
+    "name": "Eco",
+    "iconUrl": "https://cdn.discordapp.com/icons/768556386404794448/a_5952c62185fa7c5bf807b9528e205896.png"
+  },
+  "channel": {
+    "id": "818173147282014219",
+    "type": "GuildTextChat",
+    "categoryId": "809043345090805770",
+    "category": "WELCOME",
+    "name": "\uD83D\uDD17helpful-links",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "850456237811302410",
+      "type": "Default",
+      "timestamp": "2021-06-04T19:29:27.807+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "***About Eco:***  :eco: \n\n**Website** https://www.eco.com/\n**Twitter** https://twitter.com/eco\n**Instagram** [@eco](https://www.instagram.com/eco/)\n**Email** [support@eco.com](support@eco.com)\n\n***Down the rabbithole…*** \uD83D\uDC30 \n\n**Introducing Eco:** https://www.eco.com/introducing-eco\n**From Old Money to Smart Money:** \nhttps://www.eco.com/posts/old-money-to-smart-money\n\n***In The Press:*** \uD83D\uDCF0 \n\n**Fortune** - [Uber visionary’s crypto app raises $26 million after fintech pivot.](https://fortune.com/2021/03/05/uber-crypto-app-eco-fintech/)\n**Decrypt** - [Crypto Cashback App Eco Raises $26 Million in Funding Round Led by Andreessen Horowitz](https://decrypt.co/60385/crypto-cashback-eco-funding-round-andreessen-horowitz)\n**CoinDesk**- [Rewards-Focused Startup Eco Raises $26M in Round Led by a16z Crypto](https://www.coindesk.com/rewards-focused-startup-eco-raises-26m-in-round-led-by-a16z-crypto)\n\n***Discord:*** :eco_discord: \n\n**In any public channel simply type:**\n*faq.help* - A list of basic commands for the faq BOT\n*faq.eco* - Basic information about the Eco. \n*faq.points* -What are :points: Points and how to earn them?\n*faq.navigation* - Help navigate the Eco server and a list of the main channels.\n*faq.pinned* - Hints for new users on how to locate pinned messages in Discord. \n\n***Eco Translations (unofficial):*** \uD83C\uDF0F \n\n[Online Wiki](https://www.eco-faq.online/)\n[Website (Russian)](https://eco-cis.com/)\n[Website (Korean)](https://eco-community.github.io/website-translations/ko/)\n[Website (French)](https://eco-community.github.io/website-translations/fr/)\n[Twitter (Russian)](https://twitter.com/eco_ru_)\n[Twitter (Turkey)](https://twitter.com/ecoTurkey)\n[Twitter (Japan)](https://twitter.com/ecojapanese)\n[Twitter (Vietnam)](https://twitter.com/ecovn_fan)\n\n[The Eco Academy](https://eco.vg) - A community produced educational platform that provides resources and information related to the Eco App and community.",
+          "color": "#5AC0DE",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 1
+}

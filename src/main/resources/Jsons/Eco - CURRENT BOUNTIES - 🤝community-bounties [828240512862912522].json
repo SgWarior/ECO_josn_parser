@@ -1,0 +1,325 @@
+{
+  "guild": {
+    "id": "768556386404794448",
+    "name": "Eco",
+    "iconUrl": "https://cdn.discordapp.com/icons/768556386404794448/a_5952c62185fa7c5bf807b9528e205896.png"
+  },
+  "channel": {
+    "id": "828240512862912522",
+    "type": "GuildTextChat",
+    "categoryId": "826995747701653504",
+    "category": "CURRENT BOUNTIES",
+    "name": "\uD83E\uDD1Dcommunity-bounties",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "828242002436161578",
+      "type": "Default",
+      "timestamp": "2021-04-04T12:18:01.373+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "First community bounty suggested by @one2fckU:\n\n\uD83D\uDCA5 \uD83D\uDCA5 \uD83D\uDCA5ECO TIKTOK DANCE CHALLENGE is still ongoing!!!!!!!!\uD83D\uDCA5 \uD83D\uDCA5 \uD83D\uDCA5 \n‼️ First prize could be yours ‼️ \n You know how to spent your weekends \uD83D\uDE01\n\n\uD83D\uDC83\uD83D\uDC83\uD83D\uDC83 We are introducing Eco's signature dance \uD83D\uDC83\uD83D\uDC83\uD83D\uDC83 \nIt's about having fun near or inside any bank office, destroying your credit card and drawing Eco logo while dancing. \n\nHere are the rules:\n1️⃣ repeat the very similar or exactly this dance (key steps: eco logo drawing movements, credit card destroying movement, stomp movements); you can do it in one take or few takes clip; \n2️⃣  you have to dance near or inside any bank and destroy your credit card;\n3️⃣  use this music sample: https://drive.google.com/file/d/1dEfQ8rTqdRPwyeu6R6qDxTaGBffYCZg7/view?usp=sharing ;\n4️⃣ share your video on TIK TOK and add #ECO #ECOdance #ECOchallenge #ECOisnotabank #nomoneyinbank #duckthefees hashtags;\n5️⃣ send the link to your video in #\uD83D\uDCF9marketing-materials and tag me.\n\n⏰ Deadline:  April 7th 2021, 11:59 PM UTC\n\n\uD83C\uDFC6 Here are the prizes\uD83C\uDFC6 :\n1st dancer will get 60 :points:!\n2nd dancer will get 50 :points:!\n3rd dancer will get 40 :points:!\n4-10th dancers will get 30 :points: each!\n11-20th dancers will get 20 :points: each!\n\n☝️ P.S. you can win a prize only if you meet all the rules; one prize for one person.\n☝️ P.P.S. If you need our one take clip for reference, just DM me.\n\n:eco_laser: Let's promote Eco on TikTok in creative way! :eco_laser:\n\nOriginal video on TikTok: https://vm.tiktok.com/ZSJjrrCNf/\n\nOur team: @sofochain and me :diamondhands:",
+      "author": {
+        "id": "804530443188961300",
+        "name": "Hen | Eco",
+        "discriminator": "7458",
+        "nickname": "Hen | Eco",
+        "color": "#3498DB",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/804530443188961300/0fd2936a9ee69fe87126d8f16b4900ac.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Eco dance challenge music.mp3",
+          "url": "https://drive.google.com/file/d/1dEfQ8rTqdRPwyeu6R6qDxTaGBffYCZg7/view?usp=sharing",
+          "timestamp": null,
+          "description": "",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "810973900305334273",
+          "name": "sofochain",
+          "discriminator": "2691",
+          "nickname": "sofochain",
+          "isBot": false
+        },
+        {
+          "id": "664162702666760212",
+          "name": "one2fckU",
+          "discriminator": "6431",
+          "nickname": "one2fckU",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "828242045604724757",
+      "type": "Default",
+      "timestamp": "2021-04-04T12:18:11.665+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.com/channels/@me/821187696453091369/828232854739484672",
+      "author": {
+        "id": "804530443188961300",
+        "name": "Hen | Eco",
+        "discriminator": "7458",
+        "nickname": "Hen | Eco",
+        "color": "#3498DB",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/804530443188961300/0fd2936a9ee69fe87126d8f16b4900ac.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "828247064306909184",
+      "type": "Default",
+      "timestamp": "2021-04-04T12:38:08.217+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Feel free to post submissions in the #\uD83D\uDCE6i-tiktok-card-dance channel too! \uD83D\uDE42",
+      "author": {
+        "id": "344148051973373952",
+        "name": "Dave | Eco",
+        "discriminator": "2900",
+        "nickname": "Dave | Eco",
+        "color": "#3498DB",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/344148051973373952/36a74cd90ff1801132be950b74a6935e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "815573725994680360",
+            "name": "peepohappy",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/815573725994680360.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "834738619025457152",
+      "type": "Default",
+      "timestamp": "2021-04-22T10:33:15.469+00:00",
+      "timestampEdited": "2021-04-22T10:40:07.586+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Second #\uD83E\uDD1Dcommunity-bounties proposed by @zafkiv :\n\n\uD83D\uDEAF   **Help Make Your Community Beautiful!** \uD83D\uDEAF \n\nhttps://discord.com/channels/768556386404794448/803404854697525278/834470519406592001\n\nFrom @zafkiv  : *I think it would be great to run the bounty contest for trash pickup! It's really important right now, lots of dirt after winter. We can clean up the streets, beaches, yards. If everyone makes at least a small contribution, it would be great! If everyone would clean up at least their own street or yard, the world would be at least a little cleaner and better*\n\nWe agree!! :eco_heart: \n\n**Rules:**\n1️⃣ Choose a place in or around your community and help make it more beautiful by picking up trash and cleaning it up!\n2️⃣ Document your efforts with before & after  :Framed_Picture:  images and \uD83D\uDCF9videos then upload them to the #\uD83D\uDCE6ii-trash-pickup-challenge \n\n:Trophy: **Prizes** \uD83C\uDFC6 \nAccepted and verified submissions will be granted between 20-250 :points: depending on the effort put in and the amount of trash collected! *Note: We're going to be a little selective so effort is key!* \uD83D\uDE09\n\n:Alarm_Clock: Closing Date: May 07 2021 (We're running this for while to give everyone who wants a chance to participate to do so.)  \n\nGood Luck!",
+      "author": {
+        "id": "344148051973373952",
+        "name": "Dave | Eco",
+        "discriminator": "2900",
+        "nickname": "Dave | Eco",
+        "color": "#3498DB",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/344148051973373952/36a74cd90ff1801132be950b74a6935e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "819721366503948318",
+            "name": "eco_thumbs_up",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721366503948318.png"
+          },
+          "count": 17
+        },
+        {
+          "emoji": {
+            "id": "811681675326128169",
+            "name": "hogan",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/811681675326128169.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "754097979073232906",
+          "name": "zafkiv",
+          "discriminator": "0648",
+          "nickname": "zafkiv",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "845659001789743105",
+      "type": "Default",
+      "timestamp": "2021-05-22T13:46:57.611+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Third #\uD83E\uDD1Dcommunity-bounties proposed by @vinco  (and similarly @Nina Ch.  more recently): \n\n:eco_heart: \uD83C\uDF0E **Eco For Life** \uD83C\uDF0D :eco_heart: \n\nhttps://discord.com/channels/768556386404794448/836998394065059930/837000368285810689 \nFrom @vinco  *\"Eco for life\". The idea of bounty is to try to save other lives: donate blood, help shelters with animals that need food or veterinarian help; buy blankets in the elderly etc…*\n\nhttps://discord.com/channels/768556386404794448/836998394065059930/845652496541286420 \nFrom @Nina Ch.  *Hi everybody, I was thinking in a contest to encourage people to donate blood as the international blood day is coming and like that we can save lifes.*\n\nThis is a pretty open ended challenge. Similar to the previous challenge this is all about helping make the world around you a better place to live. How you choose to do that is up to you!\n\n **Rules**: \n1️⃣ You must be the one performing the act.\n2️⃣  It must be ***well documented ***with pictures or videos.\n3️⃣  Show off an :eco: Eco Logo  in the documentation.\n4️⃣ Attach a 3-4 sentence description of what you are doing to help, why it’s important to your community and why this cause is meaningful to you.\n \n\n\uD83C\uDFC6 **Prize** \uD83C\uDFC6 : \nAccepted and verified submissions will be granted between 20-250 :points:  depending on the effort put in, the documentation and the description.\n\n:points: **Will be distributed after the close of the challenge** :points: \n\n\n⏰  **Closing Date: May 31 2021 at 12 midnight** ⏰ \n\nGood Luck and thank you for helping make our world a better place!",
+      "author": {
+        "id": "344148051973373952",
+        "name": "Dave | Eco",
+        "discriminator": "2900",
+        "nickname": "Dave | Eco",
+        "color": "#3498DB",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/344148051973373952/36a74cd90ff1801132be950b74a6935e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "819721366503948318",
+            "name": "eco_thumbs_up",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721366503948318.png"
+          },
+          "count": 15
+        },
+        {
+          "emoji": {
+            "id": "818932956177367041",
+            "name": "eco_heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/818932956177367041.png"
+          },
+          "count": 8
+        },
+        {
+          "emoji": {
+            "id": "819721366612738079",
+            "name": "eco_vulcan_salute",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721366612738079.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": [
+        {
+          "id": "377859992943853578",
+          "name": "vinco",
+          "discriminator": "8755",
+          "nickname": "vinco",
+          "isBot": false
+        },
+        {
+          "id": "818114169868910612",
+          "name": "Nina Ch.",
+          "discriminator": "4404",
+          "nickname": "Nina Ch.",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "850767758207746098",
+      "type": "Default",
+      "timestamp": "2021-06-05T16:07:20.057+00:00",
+      "timestampEdited": "2021-06-05T16:07:49.51+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Third #\uD83E\uDD1Dcommunity-bounties proposed by @Mark Tishkin :\n\n\uD83D\uDE86 :Airplane: \uD83C\uDFCE️ \uD83C\uDF88Ecomotion \uD83C\uDF88 \uD83C\uDFCE️  ✈️ \uD83D\uDE86 \n\nhttps://discord.com/channels/768556386404794448/836998394065059930/839973598059560960\nFrom @Mark Tishkin :\n\n *Eco is all about :eco_heart: innovation, development, creativity and motion...:eco_heart: . So that is where this bounty stems from.\nMy idea about bounty ECONOVATION (possibly it can take more than a week, who knows):\nTo create any physical self-moving and handmade pilot model (prototype of ANY kind of vehicle in miniature) decorated in Eco-style. \nPossible ideas of ECONOVATIONcould be following but not limited to these: \n•    In terms of models it could be car-types, boats, balloons, submarines, planes, robots, any form etc…\n•    In terms of propulsion could include any kind of ever known to humankind: steam, electrical engine, heated air, gasoline, water jet, sail, rubber engine, Arduino, coolers for PC motherboard etc.\nParticipants should:\n1.    Make video presentation of the model and its functionality decorated with Eco-style.\n2.    Possibly include in video details of model production\n3.    Could be with remote-controlled or without any.\nOther conditions: \n•    Safety – it should not be dangerous in any kind to any living being or property.\n•    Fabricated 3d party ready drones or robots are excluded but could be included if modified or used in combination.\nExample: https://ok.ru/video/1277277767135\nAssessment: 1. Creativity 2. Efforts (not money)*",
+      "author": {
+        "id": "344148051973373952",
+        "name": "Dave | Eco",
+        "discriminator": "2900",
+        "nickname": "Dave | Eco",
+        "color": "#3498DB",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/344148051973373952/36a74cd90ff1801132be950b74a6935e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "819721366294888500",
+            "name": "eco_underlined",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721366294888500.gif"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "811680526066253855",
+            "name": "alert",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/811680526066253855.gif"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "415909333931524098",
+          "name": "Mark Tishkin",
+          "discriminator": "9749",
+          "nickname": "Mark Tishkin",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "850767831854350397",
+      "type": "Default",
+      "timestamp": "2021-06-05T16:07:37.616+00:00",
+      "timestampEdited": "2021-06-05T16:08:03.022+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Rules**\n\n1️⃣ Build custom mode of transportation (or a heavily modified existing mode of transport) and move an :eco: logo from a point \"A\" to point \"B\"\n2️⃣  Nothing you submit can be dangerous or polluting (and cannot result in trash or garbage being produced) If your submission is a balloon or air device users must collect it at the end. (with proof).\n3️⃣ Documentation must include a description, plans, construction, your vehicle in motion and proof that it was reclaimed at the end.\n\n\uD83C\uDFC6 **Prizes** \uD83C\uDFC6 \n\nAwards will be granted based on:\n\uD83C\uDDE6 Distance travelled. \n\uD83C\uDDE7 Unique design \n\uD83C\uDDE8 Overall Creativity\nAccepted and verified submissions will be granted up to 1000 :points: depending on the effort put in and the amount of trash collected! Note: We're going to be a little selective so effort is key! \uD83D\uDE09\n\n⏰  Closing Date: June 19 2021 (We're running this for while to give everyone the time to build something really cool!) ⏰ \n\n:Airplane: \uD83D\uDE86 \uD83D\uDE80 \uD83C\uDFCE️ \uD83D\uDE8C :Robot:\nGood Luck!",
+      "author": {
+        "id": "344148051973373952",
+        "name": "Dave | Eco",
+        "discriminator": "2900",
+        "nickname": "Dave | Eco",
+        "color": "#3498DB",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/344148051973373952/36a74cd90ff1801132be950b74a6935e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "819721366294888500",
+            "name": "eco_underlined",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721366294888500.gif"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "811680526066253855",
+            "name": "alert",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/811680526066253855.gif"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 7
+}

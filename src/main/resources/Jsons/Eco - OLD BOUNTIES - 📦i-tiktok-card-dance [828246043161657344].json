@@ -1,0 +1,991 @@
+{
+  "guild": {
+    "id": "768556386404794448",
+    "name": "Eco",
+    "iconUrl": "https://cdn.discordapp.com/icons/768556386404794448/a_5952c62185fa7c5bf807b9528e205896.png"
+  },
+  "channel": {
+    "id": "828246043161657344",
+    "type": "GuildTextChat",
+    "categoryId": "818903396286988328",
+    "category": "OLD BOUNTIES",
+    "name": "\uD83D\uDCE6i-tiktok-card-dance",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "828334684093546506",
+      "type": "Default",
+      "timestamp": "2021-04-04T18:26:18.402+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "First community bounty suggested by @one2fckU:\n\n\uD83D\uDCA5 \uD83D\uDCA5 \uD83D\uDCA5ECO TIKTOK DANCE CHALLENGE is still ongoing!!!!!!!!\uD83D\uDCA5 \uD83D\uDCA5 \uD83D\uDCA5 \n‼️ First prize could be yours ‼️ \n You know how to spent your weekends \uD83D\uDE01\n\n\uD83D\uDC83\uD83D\uDC83\uD83D\uDC83 We are introducing Eco's signature dance \uD83D\uDC83\uD83D\uDC83\uD83D\uDC83 \nIt's about having fun near or inside any bank office, destroying your credit card and drawing Eco logo while dancing. \n\nHere are the rules:\n1️⃣ repeat the very similar or exactly this dance (key steps: eco logo drawing movements, credit card destroying movement, stomp movements); you can do it in one take or few takes clip; \n2️⃣  you have to dance near or inside any bank and destroy your credit card;\n3️⃣  use this music sample: https://drive.google.com/file/d/1dEfQ8rTqdRPwyeu6R6qDxTaGBffYCZg7/view?usp=sharing ;\n4️⃣ share your video on TIK TOK and add #ECO #ECOdance #ECOchallenge #ECOisnotabank #nomoneyinbank #duckthefees hashtags;\n5️⃣ send the link to your video in #\uD83D\uDCF9marketing-materials and tag me.\n\n⏰ Deadline:  April 7th 2021, 11:59 PM UTC\n\n\uD83C\uDFC6 Here are the prizes\uD83C\uDFC6 :\n1st dancer will get 60 :points:!\n2nd dancer will get 50 :points:!\n3rd dancer will get 40 :points:!\n4-10th dancers will get 30 :points: each!\n11-20th dancers will get 20 :points: each!\n\n☝️ P.S. you can win a prize only if you meet all the rules; one prize for one person.\n☝️ P.P.S. If you need our one take clip for reference, just DM me.\n\n:eco_laser: Let's promote Eco on TikTok in creative way! :eco_laser:\n\nOriginal video on TikTok: https://vm.tiktok.com/ZSJjrrCNf/\n\nOur team: @sofochain and me :diamondhands:\nGoogle Docs\nEco dance challenge music.mp3\nhttps://discord.com/channels/@me/821187696453091369/828232854739484672",
+      "author": {
+        "id": "344148051973373952",
+        "name": "Dave | Eco",
+        "discriminator": "2900",
+        "nickname": "Dave | Eco",
+        "color": "#3498DB",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/344148051973373952/36a74cd90ff1801132be950b74a6935e.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Eco dance challenge music.mp3",
+          "url": "https://drive.google.com/file/d/1dEfQ8rTqdRPwyeu6R6qDxTaGBffYCZg7/view?usp=sharing",
+          "timestamp": null,
+          "description": "",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "819721366503948318",
+            "name": "eco_thumbs_up",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721366503948318.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "810973900305334273",
+          "name": "sofochain",
+          "discriminator": "2691",
+          "nickname": "sofochain",
+          "isBot": false
+        },
+        {
+          "id": "664162702666760212",
+          "name": "one2fckU",
+          "discriminator": "6431",
+          "nickname": "one2fckU",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "828336323956965418",
+      "type": "ChannelPinnedMessage",
+      "timestamp": "2021-04-04T18:32:49.376+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pinned a message.",
+      "author": {
+        "id": "768554690480701472",
+        "name": "Andy | Eco",
+        "discriminator": "0001",
+        "nickname": "Andy | Eco",
+        "color": "#3498DB",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/768554690480701472/f8595b1bf1392b8a59f41cb730746695.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "828334684093546506",
+        "channelId": "828246043161657344",
+        "guildId": null
+      }
+    },
+    {
+      "id": "828355226439516231",
+      "type": "Reply",
+      "timestamp": "2021-04-04T19:47:56.079+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "And we have our first winner: https://discord.com/channels/768556386404794448/818513110821503018/827927513938395196\nCan't wait to look at next dancers :eco_callme:",
+      "author": {
+        "id": "664162702666760212",
+        "name": "one2fckU",
+        "discriminator": "6431",
+        "nickname": "one2fckU",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/664162702666760212/fed3672c6aa85f2b62a2669dfed0e5c2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "819721366503948318",
+            "name": "eco_thumbs_up",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721366503948318.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "819721365099642880",
+            "name": "eco_callme",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721365099642880.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDFC6",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f3c6.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "344148051973373952",
+          "name": "Dave | Eco",
+          "discriminator": "2900",
+          "nickname": "Dave | Eco",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "828334684093546506",
+        "channelId": "828246043161657344",
+        "guildId": null
+      }
+    },
+    {
+      "id": "828560969714237440",
+      "type": "Default",
+      "timestamp": "2021-04-05T09:25:29.098+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Dave | Eco , @Andy | Eco ... How about COOKING BOUNTY?",
+      "author": {
+        "id": "555150886385614873",
+        "name": "Art",
+        "discriminator": "9744",
+        "nickname": "Art",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/555150886385614873/aca29752d523dc207510f2d2966f742b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "768554690480701472",
+          "name": "Andy | Eco",
+          "discriminator": "0001",
+          "nickname": "Andy | Eco",
+          "isBot": false
+        },
+        {
+          "id": "344148051973373952",
+          "name": "Dave | Eco",
+          "discriminator": "2900",
+          "nickname": "Dave | Eco",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "828994271570165831",
+      "type": "Reply",
+      "timestamp": "2021-04-06T14:07:16.311+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83E\uDD14 what would that look like @Art",
+      "author": {
+        "id": "344148051973373952",
+        "name": "Dave | Eco",
+        "discriminator": "2900",
+        "nickname": "Dave | Eco",
+        "color": "#3498DB",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/344148051973373952/36a74cd90ff1801132be950b74a6935e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "555150886385614873",
+          "name": "Art",
+          "discriminator": "9744",
+          "nickname": "Art",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "828560969714237440",
+        "channelId": "828246043161657344",
+        "guildId": null
+      }
+    },
+    {
+      "id": "829002402739781674",
+      "type": "Reply",
+      "timestamp": "2021-04-06T14:39:34.933+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Short video or series of photo with process of cooking interesting food, that should contain ECO logo. Cakes, eggs, coffee, soups, cookies e.t.c. Whatever it can be the main goal is to cook smth unique and having fun during process)",
+      "author": {
+        "id": "555150886385614873",
+        "name": "Art",
+        "discriminator": "9744",
+        "nickname": "Art",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/555150886385614873/aca29752d523dc207510f2d2966f742b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "819721366503948318",
+            "name": "eco_thumbs_up",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721366503948318.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "811702023502299156",
+            "name": "3798_WallStreetBets",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/811702023502299156.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "344148051973373952",
+          "name": "Dave | Eco",
+          "discriminator": "2900",
+          "nickname": "Dave | Eco",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "828994271570165831",
+        "channelId": "828246043161657344",
+        "guildId": null
+      }
+    },
+    {
+      "id": "829006111906332692",
+      "type": "Reply",
+      "timestamp": "2021-04-06T14:54:19.267+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This is me when I managed to cook food",
+      "author": {
+        "id": "804426495077908531",
+        "name": "parallacs",
+        "discriminator": "9904",
+        "nickname": "parallacs",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/804426495077908531/62d40f31b5372f690f17a9596a3f4b22.png"
+      },
+      "attachments": [
+        {
+          "id": "829006106104954880",
+          "url": "https://cdn.discordapp.com/attachments/828246043161657344/829006106104954880/98287a89b23cb707.mp4",
+          "fileName": "98287a89b23cb707.mp4",
+          "fileSizeBytes": 21576926
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE06",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f606.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "344148051973373952",
+          "name": "Dave | Eco",
+          "discriminator": "2900",
+          "nickname": "Dave | Eco",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "828994271570165831",
+        "channelId": "828246043161657344",
+        "guildId": null
+      }
+    },
+    {
+      "id": "829012318985650176",
+      "type": "Default",
+      "timestamp": "2021-04-06T15:18:59.15+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hahaha that would be a fun challenge!",
+      "author": {
+        "id": "344148051973373952",
+        "name": "Dave | Eco",
+        "discriminator": "2900",
+        "nickname": "Dave | Eco",
+        "color": "#3498DB",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/344148051973373952/36a74cd90ff1801132be950b74a6935e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "810314953030500423",
+            "name": "this_is_fine",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/810314953030500423.gif"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "819721366503948318",
+            "name": "eco_thumbs_up",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721366503948318.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "829444194165981224",
+      "type": "Reply",
+      "timestamp": "2021-04-07T19:55:06.217+00:00",
+      "timestampEdited": "2021-04-09T16:36:33.459+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@one2fckU \nWell,  i thought it would be easier \uD83D\uDE05  \nMy GF isn't familiar with the ECO, but she is very familiar with the rhytm! CHECK IT OUT :eco: \nhttps://vm.tiktok.com/ZSJMWsy65/",
+      "author": {
+        "id": "820257870675312710",
+        "name": "flylofi",
+        "discriminator": "7216",
+        "nickname": "flylofi",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/820257870675312710/f8a6bba63d01313d900e17c3de268009.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "344148051973373952",
+          "name": "Dave | Eco",
+          "discriminator": "2900",
+          "nickname": "Dave | Eco",
+          "isBot": false
+        },
+        {
+          "id": "664162702666760212",
+          "name": "one2fckU",
+          "discriminator": "6431",
+          "nickname": "one2fckU",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "828334684093546506",
+        "channelId": "828246043161657344",
+        "guildId": null
+      }
+    },
+    {
+      "id": "829632363695702038",
+      "type": "Reply",
+      "timestamp": "2021-04-08T08:22:49.329+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Well done! Nice dance, not exactly the same, but you did all the required steps! :eco_thumbs_up: \n@Andy | Eco, @passenger, Our 2nd dancer is here!",
+      "author": {
+        "id": "664162702666760212",
+        "name": "one2fckU",
+        "discriminator": "6431",
+        "nickname": "one2fckU",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/664162702666760212/fed3672c6aa85f2b62a2669dfed0e5c2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "819721366064201729",
+            "name": "eco_victory_hand",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721366064201729.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "768554690480701472",
+          "name": "Andy | Eco",
+          "discriminator": "0001",
+          "nickname": "Andy | Eco",
+          "isBot": false
+        },
+        {
+          "id": "200356389061656586",
+          "name": "passenger",
+          "discriminator": "5420",
+          "nickname": "passenger",
+          "isBot": false
+        },
+        {
+          "id": "820257870675312710",
+          "name": "flylofi",
+          "discriminator": "7216",
+          "nickname": "flylofi",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "829444194165981224",
+        "channelId": "828246043161657344",
+        "guildId": null
+      }
+    },
+    {
+      "id": "829634409262088284",
+      "type": "Reply",
+      "timestamp": "2021-04-08T08:30:57.03+00:00",
+      "timestampEdited": "2021-04-08T08:31:11.968+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDEA8\uD83D\uDC83And deadline passed! First community challenge is over!\uD83D\uDD7A\uD83D\uDEA8\n\nWe had only 2 participants , hope we'll see more activity in next community challenges  :yum:",
+      "author": {
+        "id": "664162702666760212",
+        "name": "one2fckU",
+        "discriminator": "6431",
+        "nickname": "one2fckU",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/664162702666760212/fed3672c6aa85f2b62a2669dfed0e5c2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "818932956177367041",
+            "name": "eco_heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/818932956177367041.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "344148051973373952",
+          "name": "Dave | Eco",
+          "discriminator": "2900",
+          "nickname": "Dave | Eco",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "828334684093546506",
+        "channelId": "828246043161657344",
+        "guildId": null
+      }
+    },
+    {
+      "id": "830079373343457291",
+      "type": "Default",
+      "timestamp": "2021-04-09T13:59:04.734+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!grant @one2fckU 110 points to send to the participants!",
+      "author": {
+        "id": "768554690480701472",
+        "name": "Andy | Eco",
+        "discriminator": "0001",
+        "nickname": "Andy | Eco",
+        "color": "#3498DB",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/768554690480701472/f8595b1bf1392b8a59f41cb730746695.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "✅",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2705.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "664162702666760212",
+          "name": "one2fckU",
+          "discriminator": "6431",
+          "nickname": "one2fckU",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "830079424568229928",
+      "type": "Default",
+      "timestamp": "2021-04-09T13:59:16.947+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!grant @one2fckU 110 extra points for suggesting the first ever community bounty!",
+      "author": {
+        "id": "768554690480701472",
+        "name": "Andy | Eco",
+        "discriminator": "0001",
+        "nickname": "Andy | Eco",
+        "color": "#3498DB",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/768554690480701472/f8595b1bf1392b8a59f41cb730746695.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "✅",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2705.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "819721365312503810",
+            "name": "eco_love_you",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721365312503810.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "664162702666760212",
+          "name": "one2fckU",
+          "discriminator": "6431",
+          "nickname": "one2fckU",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "830085021070393445",
+      "type": "Reply",
+      "timestamp": "2021-04-09T14:21:31.257+00:00",
+      "timestampEdited": "2021-04-09T14:26:24.208+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Link doesn't work... I will send points if you fix the link.",
+      "author": {
+        "id": "664162702666760212",
+        "name": "one2fckU",
+        "discriminator": "6431",
+        "nickname": "one2fckU",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/664162702666760212/fed3672c6aa85f2b62a2669dfed0e5c2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "820257870675312710",
+          "name": "flylofi",
+          "discriminator": "7216",
+          "nickname": "flylofi",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "829444194165981224",
+        "channelId": "828246043161657344",
+        "guildId": null
+      }
+    },
+    {
+      "id": "830086412216303635",
+      "type": "Default",
+      "timestamp": "2021-04-09T14:27:02.932+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!send @LuckyShmot 60 points for 1st place!",
+      "author": {
+        "id": "664162702666760212",
+        "name": "one2fckU",
+        "discriminator": "6431",
+        "nickname": "one2fckU",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/664162702666760212/fed3672c6aa85f2b62a2669dfed0e5c2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "✅",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2705.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "468764581855232010",
+          "name": "LuckyShmot",
+          "discriminator": "1779",
+          "nickname": "LuckyShmot",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "830119485062512670",
+      "type": "Reply",
+      "timestamp": "2021-04-09T16:38:28.113+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "some problems with tik tok moderation i think, i updated the link: https://vm.tiktok.com/ZSJMWsy65/",
+      "author": {
+        "id": "820257870675312710",
+        "name": "flylofi",
+        "discriminator": "7216",
+        "nickname": "flylofi",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/820257870675312710/f8a6bba63d01313d900e17c3de268009.png"
+      },
+      "attachments": [
+        {
+          "id": "830119485217964032",
+          "url": "https://cdn.discordapp.com/attachments/828246043161657344/830119485217964032/download.mp4",
+          "fileName": "download.mp4",
+          "fileSizeBytes": 1631991
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "819721366503948318",
+            "name": "eco_thumbs_up",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721366503948318.png"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": [
+        {
+          "id": "664162702666760212",
+          "name": "one2fckU",
+          "discriminator": "6431",
+          "nickname": "one2fckU",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "830085021070393445",
+        "channelId": "828246043161657344",
+        "guildId": null
+      }
+    },
+    {
+      "id": "830124082660900914",
+      "type": "Default",
+      "timestamp": "2021-04-09T16:56:44.266+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!send @flylofi 50 points for 2nd place!",
+      "author": {
+        "id": "664162702666760212",
+        "name": "one2fckU",
+        "discriminator": "6431",
+        "nickname": "one2fckU",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/664162702666760212/fed3672c6aa85f2b62a2669dfed0e5c2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "✅",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2705.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "819721366064201729",
+            "name": "eco_victory_hand",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721366064201729.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "820257870675312710",
+          "name": "flylofi",
+          "discriminator": "7216",
+          "nickname": "flylofi",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "830256454278840351",
+      "type": "Default",
+      "timestamp": "2021-04-10T01:42:44.119+00:00",
+      "timestampEdited": "2021-04-10T01:42:51.445+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!send @flylofi 100 second and last tiktok bounty participant :eco_heart:",
+      "author": {
+        "id": "200356389061656586",
+        "name": "passenger",
+        "discriminator": "5420",
+        "nickname": "passenger",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/200356389061656586/b7813d1e59583bf49a4b38e9a0a461e0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "✅",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2705.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "819721366064201729",
+            "name": "eco_victory_hand",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721366064201729.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "820257870675312710",
+          "name": "flylofi",
+          "discriminator": "7216",
+          "nickname": "flylofi",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "830334853747965952",
+      "type": "Reply",
+      "timestamp": "2021-04-10T06:54:16.009+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://media.discordapp.net/attachments/818237158620004365/824367513739329536/701222761330245752.gif",
+      "author": {
+        "id": "745287787502108700",
+        "name": "KingSuper",
+        "discriminator": "3702",
+        "nickname": "KingSuper",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://media.discordapp.net/attachments/818237158620004365/824367513739329536/701222761330245752.gif",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://media.discordapp.net/attachments/818237158620004365/824367513739329536/701222761330245752.gif",
+            "width": 64,
+            "height": 37
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "819721366064201729",
+            "name": "eco_victory_hand",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721366064201729.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "820257870675312710",
+          "name": "flylofi",
+          "discriminator": "7216",
+          "nickname": "flylofi",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "830119485062512670",
+        "channelId": "828246043161657344",
+        "guildId": null
+      }
+    },
+    {
+      "id": "830379637967814668",
+      "type": "Default",
+      "timestamp": "2021-04-10T09:52:13.399+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDC83",
+      "author": {
+        "id": "804426495077908531",
+        "name": "parallacs",
+        "discriminator": "9904",
+        "nickname": "parallacs",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/804426495077908531/62d40f31b5372f690f17a9596a3f4b22.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "819721366064201729",
+            "name": "eco_victory_hand",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721366064201729.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "830905902735294534",
+      "type": "Default",
+      "timestamp": "2021-04-11T20:43:24.697+00:00",
+      "timestampEdited": "2021-04-11T21:35:51.44+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "For posterity at the request of @one2fckU and submitted by @Jeremie  \uD83D\uDE42 https://vm.tiktok.com/ZMemD3ffn/\nhttps://youtu.be/wnuT4Gz2ryU",
+      "author": {
+        "id": "344148051973373952",
+        "name": "Dave | Eco",
+        "discriminator": "2900",
+        "nickname": "Dave | Eco",
+        "color": "#3498DB",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/344148051973373952/36a74cd90ff1801132be950b74a6935e.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Eco is not a bank, it's better !",
+          "url": "https://www.youtube.com/watch?v=wnuT4Gz2ryU",
+          "timestamp": null,
+          "description": "Eco is one of these big projects,  which will change the word for a better. It has the ambition to be a better global alternative to banks. Power by crypto, kept simple for everybody to join !\n\n5% cash back, up to 5% APY and NO fee.\n\nWe need more project like that !\n\nGo check https://eco.com\n\n#decentralization #web3",
+          "color": "#FF0000",
+          "author": {
+            "name": "Jeremie OLIVIER",
+            "url": "https://www.youtube.com/channel/UCIKNRSpA6ndNMRUznYzFeKg"
+          },
+          "thumbnail": {
+            "url": "https://i.ytimg.com/vi/wnuT4Gz2ryU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "209855484637741066",
+          "name": "Jeremie",
+          "discriminator": "7539",
+          "nickname": "Jeremie",
+          "isBot": false
+        },
+        {
+          "id": "664162702666760212",
+          "name": "one2fckU",
+          "discriminator": "6431",
+          "nickname": "one2fckU",
+          "isBot": false
+        }
+      ]
+    }
+  ],
+  "messageCount": 21
+}

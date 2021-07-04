@@ -1,0 +1,5454 @@
+{
+  "guild": {
+    "id": "768556386404794448",
+    "name": "Eco",
+    "iconUrl": "https://cdn.discordapp.com/icons/768556386404794448/a_5952c62185fa7c5bf807b9528e205896.png"
+  },
+  "channel": {
+    "id": "821728019047514132",
+    "type": "GuildTextChat",
+    "categoryId": "821746803372064768",
+    "category": "Eco Audio",
+    "name": "\uD83C\uDF99state-of-the-discord-chat",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "821751449671303168",
+      "type": "Default",
+      "timestamp": "2021-03-17T14:26:53.005+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":eco:",
+      "author": {
+        "id": "273858152712372225",
+        "name": "RomanMain",
+        "discriminator": "2484",
+        "nickname": "RomanMain",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "821751614402068480",
+      "type": "Default",
+      "timestamp": "2021-03-17T14:27:32.28+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/wow-amazed-astounded-cool-eyes-gif-10354881",
+      "author": {
+        "id": "522487709336338442",
+        "name": "YarikPalmer",
+        "discriminator": "1216",
+        "nickname": "YarikPalmer",
+        "color": "#979C9F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Обалдеть Вау Вот это да Круто Кунг-фу панда Панда",
+          "url": "https://tenor.com/view/wow-amazed-astounded-cool-eyes-gif-10354881",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://media.tenor.co/images/d74dadf5a68d89c4848a2f10fe281635/tenor.png",
+            "width": 498,
+            "height": 210
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "821751906916630539",
+      "type": "Default",
+      "timestamp": "2021-03-17T14:28:42.021+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Where do you see Eco discord community in 1 month from now?",
+      "author": {
+        "id": "200356389061656586",
+        "name": "passenger",
+        "discriminator": "5420",
+        "nickname": "passenger",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/200356389061656586/b7813d1e59583bf49a4b38e9a0a461e0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "815578620110176256",
+            "name": "Math",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/815578620110176256.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "821752802446409768",
+      "type": "Default",
+      "timestamp": "2021-03-17T14:32:15.532+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "1. What's the reason for an average American to get into the details of tech side of the project that isn't FDIC insured and risk her or his money in such a manner? What is the selling point for now, without any details on the value of points earned in the app?\n2. What is the durable competitive advantage of ECO in comparison to existing or future competitors?",
+      "author": {
+        "id": "818185538552463410",
+        "name": "uzhakbas",
+        "discriminator": "2044",
+        "nickname": "uzhakbas",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/818185538552463410/06f5b44bb5015cff1f0a8dd907ac0c00.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "821753034019045446",
+      "type": "Default",
+      "timestamp": "2021-03-17T14:33:10.743+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "so excited to answer everyone's questions on saturday \uD83D\uDE42",
+      "author": {
+        "id": "768554690480701472",
+        "name": "Andy | Eco",
+        "discriminator": "0001",
+        "nickname": "Andy | Eco",
+        "color": "#3498DB",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/768554690480701472/f8595b1bf1392b8a59f41cb730746695.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "821753071977365546",
+      "type": "Default",
+      "timestamp": "2021-03-17T14:33:19.793+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "tempting to just respond in here but I'll leave them for now...",
+      "author": {
+        "id": "768554690480701472",
+        "name": "Andy | Eco",
+        "discriminator": "0001",
+        "nickname": "Andy | Eco",
+        "color": "#3498DB",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/768554690480701472/f8595b1bf1392b8a59f41cb730746695.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "821753560969904139",
+      "type": "Default",
+      "timestamp": "2021-03-17T14:35:16.378+00:00",
+      "timestampEdited": "2021-03-17T14:35:26.91+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Andy | Eco I may sound going hard on you guys, but these are the questions I myself get from our team and I don't have sound answers. Just my belief you know, that feeling the team will deliver.",
+      "author": {
+        "id": "818185538552463410",
+        "name": "uzhakbas",
+        "discriminator": "2044",
+        "nickname": "uzhakbas",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/818185538552463410/06f5b44bb5015cff1f0a8dd907ac0c00.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "768554690480701472",
+          "name": "Andy | Eco",
+          "discriminator": "0001",
+          "nickname": "Andy | Eco",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "821753680625532939",
+      "type": "Default",
+      "timestamp": "2021-03-17T14:35:44.906+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "we love hard questions!",
+      "author": {
+        "id": "768554690480701472",
+        "name": "Andy | Eco",
+        "discriminator": "0001",
+        "nickname": "Andy | Eco",
+        "color": "#3498DB",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/768554690480701472/f8595b1bf1392b8a59f41cb730746695.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "821753691752366082",
+      "type": "Default",
+      "timestamp": "2021-03-17T14:35:47.559+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "don't hold back \uD83D\uDE42",
+      "author": {
+        "id": "768554690480701472",
+        "name": "Andy | Eco",
+        "discriminator": "0001",
+        "nickname": "Andy | Eco",
+        "color": "#3498DB",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/768554690480701472/f8595b1bf1392b8a59f41cb730746695.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "821753752033558648",
+      "type": "Default",
+      "timestamp": "2021-03-17T14:36:01.931+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "if we can't answer the questions, we don't deserve support",
+      "author": {
+        "id": "768554690480701472",
+        "name": "Andy | Eco",
+        "discriminator": "0001",
+        "nickname": "Andy | Eco",
+        "color": "#3498DB",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/768554690480701472/f8595b1bf1392b8a59f41cb730746695.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "821754229769109525",
+      "type": "Reply",
+      "timestamp": "2021-03-17T14:37:55.832+00:00",
+      "timestampEdited": "2021-03-17T14:40:54.903+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Love your dedication. In fact it's the first time I talk to CEO in a public chat and first time a CEO is 100% approachable. This alone tells about skin in the game. Love'm who this much engaged.",
+      "author": {
+        "id": "818185538552463410",
+        "name": "uzhakbas",
+        "discriminator": "2044",
+        "nickname": "uzhakbas",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/818185538552463410/06f5b44bb5015cff1f0a8dd907ac0c00.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "812531599089729590",
+            "name": "eco",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/812531599089729590.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "818160704904888421",
+            "name": "eco_pulse",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/818160704904888421.gif"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "768554690480701472",
+          "name": "Andy | Eco",
+          "discriminator": "0001",
+          "nickname": "Andy | Eco",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "821753680625532939",
+        "channelId": "821728019047514132",
+        "guildId": null
+      }
+    },
+    {
+      "id": "821754622665293824",
+      "type": "Default",
+      "timestamp": "2021-03-17T14:39:29.506+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What is ahead of us as discord community? Blow our minds one step further :eco_troll:",
+      "author": {
+        "id": "428872614035849216",
+        "name": "cooloNe",
+        "discriminator": "6314",
+        "nickname": "cooloNe",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/428872614035849216/ff3d7fa2d1ed456bde2a75e928593f2d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "815574921034858496",
+            "name": "think",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/815574921034858496.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "821755423891390565",
+      "type": "Default",
+      "timestamp": "2021-03-17T14:42:40.533+00:00",
+      "timestampEdited": "2021-03-17T15:42:57.432+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Andy | Eco \nRelations between russia and the united states will not affect eco development in russia?\nHow does discord help eco financial development?\nAndy, why did you leave the coinlist?\nHow did you get started in crypto?\nHow did the idea of creating ECO come about?\nAre you planning to sell points on the coinlist?",
+      "author": {
+        "id": "813817808328720394",
+        "name": "David~A",
+        "discriminator": "8768",
+        "nickname": "David~A",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/813817808328720394/8539b35b51b8bfdf2a829da8b1c2a73b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "812531599438512129",
+            "name": "ecox",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/812531599438512129.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "768554690480701472",
+          "name": "Andy | Eco",
+          "discriminator": "0001",
+          "nickname": "Andy | Eco",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "821757217778565160",
+      "type": "Default",
+      "timestamp": "2021-03-17T14:49:48.229+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Andy, tell us about your life and professional way. The way to success. How did it all begin?",
+      "author": {
+        "id": "804426495077908531",
+        "name": "parallacs",
+        "discriminator": "9904",
+        "nickname": "parallacs",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/804426495077908531/62d40f31b5372f690f17a9596a3f4b22.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "821759204343021618",
+      "type": "Reply",
+      "timestamp": "2021-03-17T14:57:41.863+00:00",
+      "timestampEdited": "2021-03-17T14:57:51.047+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "not an ECOlogical question imho \uD83D\uDE42",
+      "author": {
+        "id": "818185538552463410",
+        "name": "uzhakbas",
+        "discriminator": "2044",
+        "nickname": "uzhakbas",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/818185538552463410/06f5b44bb5015cff1f0a8dd907ac0c00.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "813817808328720394",
+          "name": "David~A",
+          "discriminator": "8768",
+          "nickname": "David~A",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "821758501109891123",
+        "channelId": "821728019047514132",
+        "guildId": null
+      }
+    },
+    {
+      "id": "821759704996511805",
+      "type": "Reply",
+      "timestamp": "2021-03-17T14:59:41.228+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Not. This is part of the Andy story. This is one of the reasons for the emergence of ECO, possibly.",
+      "author": {
+        "id": "813817808328720394",
+        "name": "David~A",
+        "discriminator": "8768",
+        "nickname": "David~A",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/813817808328720394/8539b35b51b8bfdf2a829da8b1c2a73b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "818185538552463410",
+          "name": "uzhakbas",
+          "discriminator": "2044",
+          "nickname": "uzhakbas",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "821759204343021618",
+        "channelId": "821728019047514132",
+        "guildId": null
+      }
+    },
+    {
+      "id": "821759848001306656",
+      "type": "Reply",
+      "timestamp": "2021-03-17T15:00:15.323+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'd love myself to hear the story to be honest",
+      "author": {
+        "id": "818185538552463410",
+        "name": "uzhakbas",
+        "discriminator": "2044",
+        "nickname": "uzhakbas",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/818185538552463410/06f5b44bb5015cff1f0a8dd907ac0c00.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "817974400330629171",
+            "name": "eco_smile",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/817974400330629171.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "813817808328720394",
+          "name": "David~A",
+          "discriminator": "8768",
+          "nickname": "David~A",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "821759704996511805",
+        "channelId": "821728019047514132",
+        "guildId": null
+      }
+    },
+    {
+      "id": "821760641147732009",
+      "type": "Default",
+      "timestamp": "2021-03-17T15:03:24.424+00:00",
+      "timestampEdited": "2021-03-17T15:05:21.118+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Since project unites two worlds - classic finance and crypto, how difficult will it be to fit both of them under the watchful eye of SEC?",
+      "author": {
+        "id": "313020822954704898",
+        "name": "Bready",
+        "discriminator": "8105",
+        "nickname": "Bready",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/313020822954704898/1b49842123edf0d95ad7d00b0d9117ba.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "819721366503948318",
+            "name": "eco_thumbs_up",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721366503948318.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "821762337500561459",
+      "type": "Default",
+      "timestamp": "2021-03-17T15:10:08.866+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Will we be able to eventual deposit crypto on ECO and use that instead of fiat ?",
+      "author": {
+        "id": "535859539635863565",
+        "name": "Kam",
+        "discriminator": "2843",
+        "nickname": "Kam",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/535859539635863565/2aecab17a19171d142b81640f3299406.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "819721365099642880",
+            "name": "eco_callme",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721365099642880.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "821764457415311421",
+      "type": "Default",
+      "timestamp": "2021-03-17T15:18:34.293+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Andy | Eco When is the presentation of the development team planned?",
+      "author": {
+        "id": "386922336483278852",
+        "name": "budovskiy",
+        "discriminator": "4624",
+        "nickname": "budovskiy",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/386922336483278852/ca5eb4b748959f419ea47ce2f857161f.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "768554690480701472",
+          "name": "Andy | Eco",
+          "discriminator": "0001",
+          "nickname": "Andy | Eco",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "821771099447885824",
+      "type": "Default",
+      "timestamp": "2021-03-17T15:44:57.877+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Moving forward, what are some of the teams main objectives/strategies to spearhead eco into the forefront / spark mass adoption ?\n|\nAnd what, if any at this time, would you say are some additional things we in the community can best contribute to expedite and help make the above even more of a likely outcome ? \n|\nLastly, what would keep an established competitor from mirroring what eco is setting out to do ?\n\nThanks! Looking forward to Saturday! Hope everyone has a great rest of their week!",
+      "author": {
+        "id": "813990818746073109",
+        "name": "palm",
+        "discriminator": "8440",
+        "nickname": "palm",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/813990818746073109/39e9159fcb56043703de95bfc0ca65f9.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "821778353740709908",
+      "type": "Default",
+      "timestamp": "2021-03-17T16:13:47.435+00:00",
+      "timestampEdited": "2021-03-17T16:48:00.46+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Did the core idea behind Eco transform during these years? Did team's growth and new members affected it? If yes, how?",
+      "author": {
+        "id": "200356389061656586",
+        "name": "passenger",
+        "discriminator": "5420",
+        "nickname": "passenger",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/200356389061656586/b7813d1e59583bf49a4b38e9a0a461e0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "821789379327950960",
+      "type": "Default",
+      "timestamp": "2021-03-17T16:57:36.14+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi, Andy! Will the elements of decentralization be introduced into the work of ECO, following the example of decentralized blockchains? For example, the ability for holders of eco-tokens to vote on project issues, the ability for users to create independent nodes, etc. Thank you for answer!)",
+      "author": {
+        "id": "818814217096396853",
+        "name": "MoneyProfy",
+        "discriminator": "3821",
+        "nickname": "MoneyProfy",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/818814217096396853/11a89836b7013a5e6b9aac76a06d4024.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "819721366503948318",
+            "name": "eco_thumbs_up",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721366503948318.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "821812916084801597",
+      "type": "Default",
+      "timestamp": "2021-03-17T18:31:07.74+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Eco have seen a tremendous community engagement in such a small period. How do you plan to keep the engagement going on ? How much the community involvement is important for Eco development ?",
+      "author": {
+        "id": "449693997695500288",
+        "name": "Redallica",
+        "discriminator": "2485",
+        "nickname": "Redallica",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/449693997695500288/775d821532840f39df97b90529d8104b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "819721366503948318",
+            "name": "eco_thumbs_up",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721366503948318.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "817983798356475925",
+            "name": "eco_thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/817983798356475925.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "821813280632340489",
+      "type": "Default",
+      "timestamp": "2021-03-17T18:32:34.655+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "From APY generator for your cash deposit, to an Eco card to paying my utility bills to .... ? what is the end vision for Eco that you can share ?",
+      "author": {
+        "id": "449693997695500288",
+        "name": "Redallica",
+        "discriminator": "2485",
+        "nickname": "Redallica",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/449693997695500288/775d821532840f39df97b90529d8104b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "821813621310488576",
+      "type": "Default",
+      "timestamp": "2021-03-17T18:33:55.879+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What are your expectations regarding the Banking industry answer to Eco ? We have seen today that Morgan Stanley is launching 2 bitcoin Funds, so they are coming to crypto world.",
+      "author": {
+        "id": "449693997695500288",
+        "name": "Redallica",
+        "discriminator": "2485",
+        "nickname": "Redallica",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/449693997695500288/775d821532840f39df97b90529d8104b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "821814928439640074",
+      "type": "Default",
+      "timestamp": "2021-03-17T18:39:07.523+00:00",
+      "timestampEdited": "2021-03-17T18:39:50.256+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey @Andy | Eco  just checked the announcement **Eco-State of the Discord** .I think it is a good idea to scour this section and make a list of questions that users here asked quite often and make a list of Q and As and post the answers in some relevant section or may be a new one ..(most common questions I noticed are like when is the sale? what are points for ? where is the whitepaper ? who is the team?when eco is coming to my country etc).So that there me some more meaningful and productive session and less time answering routine and the already replied",
+      "author": {
+        "id": "382638466430664705",
+        "name": "uno",
+        "discriminator": "3909",
+        "nickname": "uno",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/382638466430664705/3eee0659872d1f177a83d10d295864b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "768554690480701472",
+          "name": "Andy | Eco",
+          "discriminator": "0001",
+          "nickname": "Andy | Eco",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "821822451712393217",
+      "type": "Default",
+      "timestamp": "2021-03-17T19:09:01.211+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "How decentralized is ECO? how is this achieved?",
+      "author": {
+        "id": "415929366871146497",
+        "name": "alexedo",
+        "discriminator": "7692",
+        "nickname": "alexedo",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/415929366871146497/8db82ce3f924e9499be7c0a8be051f87.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "819721366503948318",
+            "name": "eco_thumbs_up",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721366503948318.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "821829665953808455",
+      "type": "Default",
+      "timestamp": "2021-03-17T19:37:41.22+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "doest eco have a telegram channel",
+      "author": {
+        "id": "679654892138266629",
+        "name": "Cosmos",
+        "discriminator": "8695",
+        "nickname": "Cosmos",
+        "color": "#979C9F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822007406850211891",
+      "type": "Default",
+      "timestamp": "2021-03-18T07:23:57.952+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Andy | Eco, have you read Nassim Taleb and, if so, how do you feel about his theory of investing?",
+      "author": {
+        "id": "804426495077908531",
+        "name": "parallacs",
+        "discriminator": "9904",
+        "nickname": "parallacs",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/804426495077908531/62d40f31b5372f690f17a9596a3f4b22.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "819721368185995334",
+            "name": "eco_troll",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721368185995334.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "768554690480701472",
+          "name": "Andy | Eco",
+          "discriminator": "0001",
+          "nickname": "Andy | Eco",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "822030655172116530",
+      "type": "Default",
+      "timestamp": "2021-03-18T08:56:20.784+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Not a question but a request... Please, give as much information as possible, as much detailed and technical as possible, about the decentralization of the Eco-system and how that's incorporated in the Eco Points' cryptocurrency.",
+      "author": {
+        "id": "403183888798711809",
+        "name": "Saulo",
+        "discriminator": "1681",
+        "nickname": "Saulo",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/403183888798711809/7a9b5a9803da2b5d01635d4444a72560.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822032200882716692",
+      "type": "Default",
+      "timestamp": "2021-03-18T09:02:29.31+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Now the questions... How do you see other services partnering or implementing Eco in their ecosystems? To which extend and sectors do you see other services or entities making a bridge or connecting with Eco to expand its usage?",
+      "author": {
+        "id": "403183888798711809",
+        "name": "Saulo",
+        "discriminator": "1681",
+        "nickname": "Saulo",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/403183888798711809/7a9b5a9803da2b5d01635d4444a72560.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822044779902795796",
+      "type": "Default",
+      "timestamp": "2021-03-18T09:52:28.382+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Andy | Eco zero commissions + cashback + high APY means huge costs, but what is the profit model of Eco? \nI can clearly see how it can be (and is actually) profitable for customers, but how Eco will break even with all these costs?",
+      "author": {
+        "id": "375719428232577024",
+        "name": "Sergio [Nodes.Guru]",
+        "discriminator": "9134",
+        "nickname": "Sergio [Nodes.Guru]",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/375719428232577024/171341c3004e10f93d8fbfd627d16ba1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "768554690480701472",
+          "name": "Andy | Eco",
+          "discriminator": "0001",
+          "nickname": "Andy | Eco",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "822097294849605672",
+      "type": "Default",
+      "timestamp": "2021-03-18T13:21:08.921+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What quantity of Eco users is needed for Eco to be viable and durable?",
+      "author": {
+        "id": "458370159665479690",
+        "name": "Subspace",
+        "discriminator": "4043",
+        "nickname": "Subspace",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/458370159665479690/353440eefa1c854c675bdbd6ea70997e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822097610869178388",
+      "type": "Default",
+      "timestamp": "2021-03-18T13:22:24.266+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "When is the Android App going to be available, and also the web version?",
+      "author": {
+        "id": "458370159665479690",
+        "name": "Subspace",
+        "discriminator": "4043",
+        "nickname": "Subspace",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/458370159665479690/353440eefa1c854c675bdbd6ea70997e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822097982563680337",
+      "type": "Default",
+      "timestamp": "2021-03-18T13:23:52.885+00:00",
+      "timestampEdited": "2021-03-18T13:24:36.46+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Since Eco is backed by/is crypto, what will mining look like?",
+      "author": {
+        "id": "458370159665479690",
+        "name": "Subspace",
+        "discriminator": "4043",
+        "nickname": "Subspace",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/458370159665479690/353440eefa1c854c675bdbd6ea70997e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822166748923953152",
+      "type": "Default",
+      "timestamp": "2021-03-18T17:57:08.063+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Andy | Eco do you have a 20+years roadmap for Eco-system?:eco_heart: :eco: :ecox:",
+      "author": {
+        "id": "365897994605690884",
+        "name": "ihar",
+        "discriminator": "7824",
+        "nickname": "ihar",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/365897994605690884/b924a7d41c3153b5c261012da5dcd937.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "768554690480701472",
+          "name": "Andy | Eco",
+          "discriminator": "0001",
+          "nickname": "Andy | Eco",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "822172279655759952",
+      "type": "Default",
+      "timestamp": "2021-03-18T18:19:06.692+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If I fully commit to Eco, will the ecosystem provide me the convenience of a debit card?",
+      "author": {
+        "id": "458370159665479690",
+        "name": "Subspace",
+        "discriminator": "4043",
+        "nickname": "Subspace",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/458370159665479690/353440eefa1c854c675bdbd6ea70997e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822173369201983519",
+      "type": "Default",
+      "timestamp": "2021-03-18T18:23:26.46+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What s your favorite food, team Eco?",
+      "author": {
+        "id": "361197786466746380",
+        "name": "Anjin_san",
+        "discriminator": "3889",
+        "nickname": "Anjin_san",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/361197786466746380/f284455953d2eecf6b6f54c20a56ab66.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822173660365455421",
+      "type": "Default",
+      "timestamp": "2021-03-18T18:24:35.879+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If I have all my direct deposits go to Eco, how will I get cash, when I need it?",
+      "author": {
+        "id": "458370159665479690",
+        "name": "Subspace",
+        "discriminator": "4043",
+        "nickname": "Subspace",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/458370159665479690/353440eefa1c854c675bdbd6ea70997e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822178331331919893",
+      "type": "Default",
+      "timestamp": "2021-03-18T18:43:09.524+00:00",
+      "timestampEdited": "2021-03-18T18:43:40.827+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Which aspects of the March 1, 2018 Design Proposal remain consistent with the vision and the roadmap three years on now in March of 2021?\n\nhttps://www.allcryptowhitepapers.com/ecocoin-whitepaper/",
+      "author": {
+        "id": "817798004022968370",
+        "name": "Exarare",
+        "discriminator": "2358",
+        "nickname": "Exarare",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817798004022968370/6cdbf4da169d3e6d198adc8fef0828e8.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "EcoCoin Whitepaper",
+          "url": "https://www.allcryptowhitepapers.com/ecocoin-whitepaper/",
+          "timestamp": null,
+          "description": "Check out this Whitepaper and many more on: www.allcryptowhitepapers.com, the biggest database of Cryptocurrency and ICO whitepapers!",
+          "thumbnail": {
+            "url": "https://www.allcryptowhitepapers.com/wp-content/uploads/2018/06/ACW-logo.jpg",
+            "width": 2480,
+            "height": 3507
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "817983798918512720",
+            "name": "eco_100",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/817983798918512720.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "819721366503948318",
+            "name": "eco_thumbs_up",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721366503948318.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "822197095062569003",
+      "type": "Reply",
+      "timestamp": "2021-03-18T19:57:43.146+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this one I'll answer quickly... it's not the exact same project \uD83D\uDE42 but will address at length in the chat on saturday!",
+      "author": {
+        "id": "768554690480701472",
+        "name": "Andy | Eco",
+        "discriminator": "0001",
+        "nickname": "Andy | Eco",
+        "color": "#3498DB",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/768554690480701472/f8595b1bf1392b8a59f41cb730746695.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "817798004022968370",
+          "name": "Exarare",
+          "discriminator": "2358",
+          "nickname": "Exarare",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "822178331331919893",
+        "channelId": "821728019047514132",
+        "guildId": null
+      }
+    },
+    {
+      "id": "822197389028491344",
+      "type": "Reply",
+      "timestamp": "2021-03-18T19:58:53.233+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thx \uD83D\uDE4F",
+      "author": {
+        "id": "817798004022968370",
+        "name": "Exarare",
+        "discriminator": "2358",
+        "nickname": "Exarare",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817798004022968370/6cdbf4da169d3e6d198adc8fef0828e8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "819721366503948318",
+            "name": "eco_thumbs_up",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721366503948318.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "768554690480701472",
+          "name": "Andy | Eco",
+          "discriminator": "0001",
+          "nickname": "Andy | Eco",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "822197095062569003",
+        "channelId": "821728019047514132",
+        "guildId": null
+      }
+    },
+    {
+      "id": "822331148759334922",
+      "type": "Default",
+      "timestamp": "2021-03-19T04:50:24.038+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "How ECO foundation and their backers going to benefit, if main idea of platform is giving value back to end users?",
+      "author": {
+        "id": "818317277539598367",
+        "name": "ZXland",
+        "discriminator": "5852",
+        "nickname": "ZXland",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/818317277539598367/891102c67eb49e0772016cd9c4918005.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822370589381492786",
+      "type": "Default",
+      "timestamp": "2021-03-19T07:27:07.415+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Will Eco send out a 1099 for interest earned?",
+      "author": {
+        "id": "802072900962222092",
+        "name": "skim",
+        "discriminator": "8057",
+        "nickname": "skim",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/802072900962222092/2953d681f593bf7412f5d26315c13cc3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "822495482596818944",
+      "type": "Default",
+      "timestamp": "2021-03-19T15:43:24.278+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Does Eco have any competitors? Have you heard of projects that want to do the same as you?",
+      "author": {
+        "id": "401139250281840640",
+        "name": "salova",
+        "discriminator": "8363",
+        "nickname": "salova",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/401139250281840640/4ee6fa50e2f832a89a87e1b60229a346.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822511060900118529",
+      "type": "Reply",
+      "timestamp": "2021-03-19T16:45:18.435+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sharering is probably the closest competition i have found they have sharepay but i think it is currently more focused on information connection",
+      "author": {
+        "id": "809458701613400064",
+        "name": "tjjones393",
+        "discriminator": "6610",
+        "nickname": "tjjones393",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "819721366503948318",
+            "name": "eco_thumbs_up",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721366503948318.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "401139250281840640",
+          "name": "salova",
+          "discriminator": "8363",
+          "nickname": "salova",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "822495482596818944",
+        "channelId": "821728019047514132",
+        "guildId": null
+      }
+    },
+    {
+      "id": "822600168267972699",
+      "type": "Reply",
+      "timestamp": "2021-03-19T22:39:23.287+00:00",
+      "timestampEdited": "2021-03-19T22:39:36.876+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I have come across donut.app offering 5 percent APR with similar crypto DeFI staking feature ..but I don’t think they have cash back rewards",
+      "author": {
+        "id": "382638466430664705",
+        "name": "uno",
+        "discriminator": "3909",
+        "nickname": "uno",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/382638466430664705/3eee0659872d1f177a83d10d295864b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "819721366503948318",
+            "name": "eco_thumbs_up",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721366503948318.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "401139250281840640",
+          "name": "salova",
+          "discriminator": "8363",
+          "nickname": "salova",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "822495482596818944",
+        "channelId": "821728019047514132",
+        "guildId": null
+      }
+    },
+    {
+      "id": "822699827133153300",
+      "type": "Default",
+      "timestamp": "2021-03-20T05:15:23.812+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "How crypto involved in eco?",
+      "author": {
+        "id": "365573779432407041",
+        "name": "amahodler",
+        "discriminator": "4246",
+        "nickname": "amahodler",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/365573779432407041/13d152f3a3e4c3fed7487f13ad53d42e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822745334698213387",
+      "type": "Default",
+      "timestamp": "2021-03-20T08:16:13.661+00:00",
+      "timestampEdited": "2021-03-20T08:17:10.124+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "During the last two days our community asked a lot of questions about the project. We’ve chosen some of the best questions through voting. And now I’m ready to ask these questions to you. \n\nQ1  is asked by @Anjin_san : Tell us, how did you come up with the idea to create an Eco app and how did you assemble a team?\n\nQ2  is asked by @Agrafen   My question is about the international expansion and the currency that is used in the backend of the app. It’s probably necessary to use the local currency because if we use the dollar as the base currency and just convert it, many users will be faced with the currency fluctuations and the currency conversion fee. How is the team going to deal with this problem? \n\nQ3  is asked by @OlegF   Will Eco-points in Discord be linked to Eco-points in an Eco app? And if you will earn 2.5 eco-points for every dollar you spent in the app, is it possible to calculate an average cost of a point in discord $0.4?\n\nQ4 is asked by @ragnarok2day  As we can see, ECO points will be produced again and again, and its inflation could rise faster than the US dollars inflation. Unless you are going to buy them back and “burn” them in order to reduce the total turnover.\nHow serious you were when you talked about the salary of the CEO which may be paid in ECO points?\nWill the salary for the jobs you offer also be in ECO and how much it will be for the Financial Lead?\n\nQ5  is asked by @Valirini  Does Eco have any real competitors today (if so, please, name some of them) and what are the advantages of Eco compared to them?\n.",
+      "author": {
+        "id": "396492488656814091",
+        "name": "Mikhail SH",
+        "discriminator": "7177",
+        "nickname": "Mikhail SH",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/396492488656814091/13e4dd441101a88e45ac00d07a35afe8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "819721366503948318",
+            "name": "eco_thumbs_up",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721366503948318.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "756269579445207072",
+          "name": "Agrafen",
+          "discriminator": "6815",
+          "nickname": "Agrafen",
+          "isBot": false
+        },
+        {
+          "id": "454285372864724993",
+          "name": "Valirini",
+          "discriminator": "1374",
+          "nickname": "Valirini",
+          "isBot": false
+        },
+        {
+          "id": "809723180167069707",
+          "name": "OlegF",
+          "discriminator": "4856",
+          "nickname": "OlegF",
+          "isBot": false
+        },
+        {
+          "id": "361197786466746380",
+          "name": "Anjin_san",
+          "discriminator": "3889",
+          "nickname": "Anjin_san",
+          "isBot": false
+        },
+        {
+          "id": "817848996449484880",
+          "name": "ragnarok2day",
+          "discriminator": "8677",
+          "nickname": "ragnarok2day",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "822745409964605490",
+      "type": "Default",
+      "timestamp": "2021-03-20T08:16:31.606+00:00",
+      "timestampEdited": "2021-03-20T08:16:53.845+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Q6  is asked by @Artem_Dmitriev Does Eco plan to launch an IPO and enter the stock market?\n\nQ7  is asked by @monetochka  When exactly the app will be released in Russia and whether it will ever happen at all?\n\nQ8  is asked by @alexedo  How much will the Eco blockchain be decentralized and how it will be achieved? \n\nQ9  is asked by @Xandrell  Have you ever met the Russian community (maybe in the other projects) and what were your impressions of the interaction with it?\n\n\nLast question : Could you give us a hint what the future holds for discord Eco community?",
+      "author": {
+        "id": "396492488656814091",
+        "name": "Mikhail SH",
+        "discriminator": "7177",
+        "nickname": "Mikhail SH",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/396492488656814091/13e4dd441101a88e45ac00d07a35afe8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "812531599089729590",
+            "name": "eco",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/812531599089729590.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": [
+        {
+          "id": "415929366871146497",
+          "name": "alexedo",
+          "discriminator": "7692",
+          "nickname": "alexedo",
+          "isBot": false
+        },
+        {
+          "id": "812428363750309908",
+          "name": "Artem_Dmitriev",
+          "discriminator": "9956",
+          "nickname": "Artem_Dmitriev",
+          "isBot": false
+        },
+        {
+          "id": "812720510097162261",
+          "name": "monetochka",
+          "discriminator": "4125",
+          "nickname": "monetochka",
+          "isBot": false
+        },
+        {
+          "id": "747127778108899503",
+          "name": "Xandrell",
+          "discriminator": "9401",
+          "nickname": "Xandrell",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "822798352701718548",
+      "type": "Reply",
+      "timestamp": "2021-03-20T11:46:54.138+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i wouldn’t do that juss yet. as of rn if you’re a frequent user of amazon it’ll greatly benefit you",
+      "author": {
+        "id": "448032797853220864",
+        "name": "ispankmyhoes",
+        "discriminator": "8362",
+        "nickname": "ispankmyhoes",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/448032797853220864/3bce228e8f5e17a134177ae250b7e26c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "458370159665479690",
+          "name": "Subspace",
+          "discriminator": "4043",
+          "nickname": "Subspace",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "822172279655759952",
+        "channelId": "821728019047514132",
+        "guildId": null
+      }
+    },
+    {
+      "id": "822811486875025418",
+      "type": "Default",
+      "timestamp": "2021-03-20T12:39:05.569+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Andy | Eco  for “Eco-State of the Discord” this Saturday March 20th at 9:30am EST \n How is ECO going to compete with the big banks, given their money and influence ???\nThanks",
+      "author": {
+        "id": "812258944101384222",
+        "name": "Artem G",
+        "discriminator": "0108",
+        "nickname": "Artem G",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "768554690480701472",
+          "name": "Andy | Eco",
+          "discriminator": "0001",
+          "nickname": "Andy | Eco",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "822812448792641536",
+      "type": "Default",
+      "timestamp": "2021-03-20T12:42:54.908+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "When exactly will the application be released in Ukraine and will it happen at all?",
+      "author": {
+        "id": "820303639452450837",
+        "name": "coindotgo",
+        "discriminator": "0337",
+        "nickname": "coindotgo",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/820303639452450837/39cf0ca74611fbd5b7e8a21fba489928.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822813459468648458",
+      "type": "Default",
+      "timestamp": "2021-03-20T12:46:55.872+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "O Cool!!!",
+      "author": {
+        "id": "749974373632442418",
+        "name": "Vagif",
+        "discriminator": "6511",
+        "nickname": "Vagif",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/749974373632442418/347c6366b204a09861d2639523e2fd28.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822814057945497630",
+      "type": "Default",
+      "timestamp": "2021-03-20T12:49:18.56+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If eco is not a bank ,is it classified as a prepaid card ? Do you have any arrangement with a third party bank ? What about wire transfers and check deposits ?",
+      "author": {
+        "id": "382638466430664705",
+        "name": "uno",
+        "discriminator": "3909",
+        "nickname": "uno",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/382638466430664705/3eee0659872d1f177a83d10d295864b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822831108324327435",
+      "type": "Reply",
+      "timestamp": "2021-03-20T13:57:03.687+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://support.eco.com/en/articles/4681891-why-does-eco-ask-me-to-agree-to-terms-and-conditions-from-third-parties",
+      "author": {
+        "id": "810362798169129011",
+        "name": "LBrian",
+        "discriminator": "6883",
+        "nickname": "LBrian",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/810362798169129011/7c6fbbfb5d7203f1aa14eaf9bd2bbb51.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Why does Eco ask me to agree to terms and conditions from third par...",
+          "url": "https://support.eco.com/en/articles/4681891-why-does-eco-ask-me-to-agree-to-terms-and-conditions-from-third-parties",
+          "timestamp": null,
+          "description": "",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "819721366503948318",
+            "name": "eco_thumbs_up",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721366503948318.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "382638466430664705",
+          "name": "uno",
+          "discriminator": "3909",
+          "nickname": "uno",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "822814057945497630",
+        "channelId": "821728019047514132",
+        "guildId": null
+      }
+    },
+    {
+      "id": "822831148971327521",
+      "type": "Default",
+      "timestamp": "2021-03-20T13:57:13.378+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What’s your fillings about decentralization, how could this apply to Eco ? What do you think would be possible short & long term ?",
+      "author": {
+        "id": "209855484637741066",
+        "name": "Jeremie",
+        "discriminator": "7539",
+        "nickname": "Jeremie",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/209855484637741066/e8003f11f5e039d2aeee90d68fa3896f.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822831265203879947",
+      "type": "Reply",
+      "timestamp": "2021-03-20T13:57:41.09+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://support.eco.com/en/articles/4620361-when-will-my-payroll-deposit-arrive-in-my-eco-account",
+      "author": {
+        "id": "810362798169129011",
+        "name": "LBrian",
+        "discriminator": "6883",
+        "nickname": "LBrian",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/810362798169129011/7c6fbbfb5d7203f1aa14eaf9bd2bbb51.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "When will my payroll deposit arrive in my Eco account?",
+          "url": "https://support.eco.com/en/articles/4620361-when-will-my-payroll-deposit-arrive-in-my-eco-account",
+          "timestamp": null,
+          "description": "",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "382638466430664705",
+          "name": "uno",
+          "discriminator": "3909",
+          "nickname": "uno",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "822814057945497630",
+        "channelId": "821728019047514132",
+        "guildId": null
+      }
+    },
+    {
+      "id": "822831721845227571",
+      "type": "Default",
+      "timestamp": "2021-03-20T13:59:29.962+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "faster. \uD83D\uDE42",
+      "author": {
+        "id": "458370159665479690",
+        "name": "Subspace",
+        "discriminator": "4043",
+        "nickname": "Subspace",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/458370159665479690/353440eefa1c854c675bdbd6ea70997e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822831845452021761",
+      "type": "Default",
+      "timestamp": "2021-03-20T13:59:59.432+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "How can we as an Internet website about crypto contribute to ECO project? Do you have any collaboration programs?",
+      "author": {
+        "id": "310693165852000258",
+        "name": "uHoT ☚",
+        "discriminator": "6573",
+        "nickname": "[CDF]KennyMustSurvive",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/310693165852000258/f6e80efbada29246123f6333ac4b3fcb.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "811678480797794346",
+            "name": "take_my_money",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/811678480797794346.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "815580452336566332",
+            "name": "chadbod",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/815580452336566332.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDE8",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1e8.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDE9",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1e9.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDDEB",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f1eb.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "822833393532272640",
+      "type": "Default",
+      "timestamp": "2021-03-20T14:06:08.523+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "How do you think of protecting ECO from influencers who ruins markets natural grow. This is such a promising project and I don't want it to be a dump/pump toy of some rich guys",
+      "author": {
+        "id": "703310841230917693",
+        "name": "katsuyusama",
+        "discriminator": "3323",
+        "nickname": "katsuyusama",
+        "color": "#979C9F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/703310841230917693/8cd421401f6f4a16342c7cfbc9e92023.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822833656430198795",
+      "type": "Default",
+      "timestamp": "2021-03-20T14:07:11.203+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Can we test your application in europe and russia? Is it possible instal it on android device?",
+      "author": {
+        "id": "431047699903545346",
+        "name": "Pavel-LV",
+        "discriminator": "7698",
+        "nickname": "Pavel-LV",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/431047699903545346/5fa83814b74968250c2a61c70eb31877.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822835058531368970",
+      "type": "Default",
+      "timestamp": "2021-03-20T14:12:45.49+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What continent are you planning to get into after USA?\nHave you thought about in-Eco messenger? People can communicate in Eco messenger and send/receive money through the app.",
+      "author": {
+        "id": "757970768977199206",
+        "name": "Crypto",
+        "discriminator": "9968",
+        "nickname": "Crypto",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/757970768977199206/df5304ce644f407fbf4afbf0ab014789.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822835191651237899",
+      "type": "Default",
+      "timestamp": "2021-03-20T14:13:17.228+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "cool talk so far, thank you. Why Eco needs blockchain?",
+      "author": {
+        "id": "397844153913966594",
+        "name": "Leopold",
+        "discriminator": "8689",
+        "nickname": "Leopold",
+        "color": "#979C9F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/397844153913966594/14e6e36f0815b441be784303e5955f40.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822835575479337020",
+      "type": "Default",
+      "timestamp": "2021-03-20T14:14:48.74+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Are you planning to advertise during sporting events or by signing advertisement contracts with athletes, for example tennis players?",
+      "author": {
+        "id": "757970768977199206",
+        "name": "Crypto",
+        "discriminator": "9968",
+        "nickname": "Crypto",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/757970768977199206/df5304ce644f407fbf4afbf0ab014789.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822836774065012736",
+      "type": "Default",
+      "timestamp": "2021-03-20T14:19:34.505+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "930am on a saturday, you're killing me andy! It was well worth it (a reason to crack open the Bailey's & Coffee :eco_wink: ). Do you have a schedule for more events like this? I believe this style of community event is amazing for rallying the community to get involved. It got me up earlier than normal, I'm sure it could to a lot for the rest of the community, new and old.",
+      "author": {
+        "id": "696913963191107634",
+        "name": "Qmeme",
+        "discriminator": "4271",
+        "nickname": "Qmeme",
+        "color": "#979C9F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/696913963191107634/bd49869995f1b3d0cad2e72d242d6ca5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE06",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f606.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDD25",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f525.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "822837041242963989",
+      "type": "Default",
+      "timestamp": "2021-03-20T14:20:38.205+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Cash is trash. Ray Dalio \uD83D\uDE42",
+      "author": {
+        "id": "818185538552463410",
+        "name": "uzhakbas",
+        "discriminator": "2044",
+        "nickname": "uzhakbas",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/818185538552463410/06f5b44bb5015cff1f0a8dd907ac0c00.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822838345519464448",
+      "type": "Default",
+      "timestamp": "2021-03-20T14:25:49.169+00:00",
+      "timestampEdited": "2021-03-20T14:28:35.916+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Are you planning to provide an opportunity for people to invest through Eco? Mutual funds, stocks, crypto indexes, etc? You can even hand pick some projects and place those projects into Eco for people to invest. This way you will be covering more and more different circles of people, also those who want to grow their money (investors).",
+      "author": {
+        "id": "757970768977199206",
+        "name": "Crypto",
+        "discriminator": "9968",
+        "nickname": "Crypto",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/757970768977199206/df5304ce644f407fbf4afbf0ab014789.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822838599816314880",
+      "type": "Reply",
+      "timestamp": "2021-03-20T14:26:49.798+00:00",
+      "timestampEdited": "2021-03-20T14:27:36.7+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "So ? Even possible to deposit payroll or tax refund on prepaid cards through ACH.I meant check deposit",
+      "author": {
+        "id": "382638466430664705",
+        "name": "uno",
+        "discriminator": "3909",
+        "nickname": "uno",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/382638466430664705/3eee0659872d1f177a83d10d295864b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "810362798169129011",
+          "name": "LBrian",
+          "discriminator": "6883",
+          "nickname": "LBrian",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "822831265203879947",
+        "channelId": "821728019047514132",
+        "guildId": null
+      }
+    },
+    {
+      "id": "822840468973944902",
+      "type": "Default",
+      "timestamp": "2021-03-20T14:34:15.44+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Andy | Eco Andy, amazing talk, great information + at the same time you are sharing your business experience with us, your vision, your ideas related to competitors, market penetration, expansion, success. This is a valuable information, people pay a lot of money to listen to such events. Thank you! :eco_thumbs_up:",
+      "author": {
+        "id": "757970768977199206",
+        "name": "Crypto",
+        "discriminator": "9968",
+        "nickname": "Crypto",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/757970768977199206/df5304ce644f407fbf4afbf0ab014789.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "768554690480701472",
+          "name": "Andy | Eco",
+          "discriminator": "0001",
+          "nickname": "Andy | Eco",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "822840631025074226",
+      "type": "Default",
+      "timestamp": "2021-03-20T14:34:54.076+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Do you plan on doing something with education about blockchain and crypto space as a strategy to help with mass adoption?",
+      "author": {
+        "id": "395747800455053315",
+        "name": "Castiel",
+        "discriminator": "4990",
+        "nickname": "Castiel",
+        "color": "#979C9F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/395747800455053315/3cb8bff030f13f64a8a4c076d4df4880.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822841017802817569",
+      "type": "Default",
+      "timestamp": "2021-03-20T14:36:26.291+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "How do you feel about other novel companies using Eco to provide the same financial services as the original Eco company is going to offer?",
+      "author": {
+        "id": "458370159665479690",
+        "name": "Subspace",
+        "discriminator": "4043",
+        "nickname": "Subspace",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/458370159665479690/353440eefa1c854c675bdbd6ea70997e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822841142978281493",
+      "type": "Default",
+      "timestamp": "2021-03-20T14:36:56.135+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "How do you feel about the modern financial system ?",
+      "author": {
+        "id": "812258944101384222",
+        "name": "Artem G",
+        "discriminator": "0108",
+        "nickname": "Artem G",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822841664863076392",
+      "type": "Default",
+      "timestamp": "2021-03-20T14:39:00.562+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "6:30am. Ugh. But worth it. Espresso.",
+      "author": {
+        "id": "458370159665479690",
+        "name": "Subspace",
+        "discriminator": "4043",
+        "nickname": "Subspace",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/458370159665479690/353440eefa1c854c675bdbd6ea70997e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "819721366503948318",
+            "name": "eco_thumbs_up",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721366503948318.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "822841842482806814",
+      "type": "Default",
+      "timestamp": "2021-03-20T14:39:42.91+00:00",
+      "timestampEdited": "2021-03-20T14:50:01.598+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks, @Andy | Eco for answer)",
+      "author": {
+        "id": "804426495077908531",
+        "name": "parallacs",
+        "discriminator": "9904",
+        "nickname": "parallacs",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/804426495077908531/62d40f31b5372f690f17a9596a3f4b22.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "768554690480701472",
+          "name": "Andy | Eco",
+          "discriminator": "0001",
+          "nickname": "Andy | Eco",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "822842060519637003",
+      "type": "Default",
+      "timestamp": "2021-03-20T14:40:34.894+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I recommend for Eco to get a blockchain domain eco.crypto , it is reserved for you at www.unstoppabledomains.com .crypto domains will be huge in the near future. These domains are NFTs on blockchain.",
+      "author": {
+        "id": "757970768977199206",
+        "name": "Crypto",
+        "discriminator": "9968",
+        "nickname": "Crypto",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/757970768977199206/df5304ce644f407fbf4afbf0ab014789.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822842173778559006",
+      "type": "Default",
+      "timestamp": "2021-03-20T14:41:01.897+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "People are afraid of the unknown. It's just human nature. \uD83D\uDE42",
+      "author": {
+        "id": "395747800455053315",
+        "name": "Castiel",
+        "discriminator": "4990",
+        "nickname": "Castiel",
+        "color": "#979C9F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/395747800455053315/3cb8bff030f13f64a8a4c076d4df4880.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822842680273928254",
+      "type": "Default",
+      "timestamp": "2021-03-20T14:43:02.655+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "are there any ways to invest in Eco?",
+      "author": {
+        "id": "779108860006891540",
+        "name": "yoda7771",
+        "discriminator": "2614",
+        "nickname": "yoda7771",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822842765020758051",
+      "type": "Reply",
+      "timestamp": "2021-03-20T14:43:22.86+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "on it :eco_thumbs_up:",
+      "author": {
+        "id": "344148051973373952",
+        "name": "Dave | Eco",
+        "discriminator": "2900",
+        "nickname": "Dave | Eco",
+        "color": "#3498DB",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/344148051973373952/36a74cd90ff1801132be950b74a6935e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "817983798918512720",
+            "name": "eco_100",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/817983798918512720.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE80",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f680.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "757970768977199206",
+          "name": "Crypto",
+          "discriminator": "9968",
+          "nickname": "Crypto",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "822842060519637003",
+        "channelId": "821728019047514132",
+        "guildId": null
+      }
+    },
+    {
+      "id": "822842765707575306",
+      "type": "Default",
+      "timestamp": "2021-03-20T14:43:23.024+00:00",
+      "timestampEdited": "2021-03-20T14:44:30.305+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What have you learned over the last two weeks that you didn't expect? Or that surprised you?",
+      "author": {
+        "id": "718891212613877820",
+        "name": "jkg2014",
+        "discriminator": "2779",
+        "nickname": "jkg2014",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/718891212613877820/c14984ba27f63a4994fcab91106f4c10.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822843046907084831",
+      "type": "Default",
+      "timestamp": "2021-03-20T14:44:30.067+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Education is important.\nAre you planning to fund any educational initiatives?",
+      "author": {
+        "id": "420483453033775104",
+        "name": "lyn",
+        "discriminator": "2616",
+        "nickname": "lyn",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/420483453033775104/1048d1bc27570af2c1127446c10f6f49.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822843050983555092",
+      "type": "Default",
+      "timestamp": "2021-03-20T14:44:31.039+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Andy | Eco Andy, within last 4 years I have built a 17k LinkedIn network. All these contacts are high quality and all are related to blockchain, digital economy, crypto, investments. Will be happy to post an article about Eco on my LinkedIn account, we have to prepare the text together.",
+      "author": {
+        "id": "757970768977199206",
+        "name": "Crypto",
+        "discriminator": "9968",
+        "nickname": "Crypto",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/757970768977199206/df5304ce644f407fbf4afbf0ab014789.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "768554690480701472",
+          "name": "Andy | Eco",
+          "discriminator": "0001",
+          "nickname": "Andy | Eco",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "822843689763733554",
+      "type": "Default",
+      "timestamp": "2021-03-20T14:47:03.336+00:00",
+      "timestampEdited": "2021-03-20T14:47:43.822+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Do you study what  Tinkoff or Qiwi have done on their path to success? I mean these guys made a killing in the space in Russia",
+      "author": {
+        "id": "818185538552463410",
+        "name": "uzhakbas",
+        "discriminator": "2044",
+        "nickname": "uzhakbas",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/818185538552463410/06f5b44bb5015cff1f0a8dd907ac0c00.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822844100234969166",
+      "type": "Default",
+      "timestamp": "2021-03-20T14:48:41.2+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Exactly! That's what made them a great company. But they're evil never the less",
+      "author": {
+        "id": "818185538552463410",
+        "name": "uzhakbas",
+        "discriminator": "2044",
+        "nickname": "uzhakbas",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/818185538552463410/06f5b44bb5015cff1f0a8dd907ac0c00.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822844160381943908",
+      "type": "Default",
+      "timestamp": "2021-03-20T14:48:55.54+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Andy, thank you very much! Amazing!",
+      "author": {
+        "id": "757970768977199206",
+        "name": "Crypto",
+        "discriminator": "9968",
+        "nickname": "Crypto",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/757970768977199206/df5304ce644f407fbf4afbf0ab014789.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822844208893263873",
+      "type": "Default",
+      "timestamp": "2021-03-20T14:49:07.106+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thank you!",
+      "author": {
+        "id": "428872614035849216",
+        "name": "cooloNe",
+        "discriminator": "6314",
+        "nickname": "cooloNe",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/428872614035849216/ff3d7fa2d1ed456bde2a75e928593f2d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822844215200448542",
+      "type": "Default",
+      "timestamp": "2021-03-20T14:49:08.61+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "muchas gracias",
+      "author": {
+        "id": "458370159665479690",
+        "name": "Subspace",
+        "discriminator": "4043",
+        "nickname": "Subspace",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/458370159665479690/353440eefa1c854c675bdbd6ea70997e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822844241591795742",
+      "type": "Default",
+      "timestamp": "2021-03-20T14:49:14.902+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thank you so much, @Andy | Eco . Very interesting! Amazing talk!",
+      "author": {
+        "id": "779108860006891540",
+        "name": "yoda7771",
+        "discriminator": "2614",
+        "nickname": "yoda7771",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "768554690480701472",
+          "name": "Andy | Eco",
+          "discriminator": "0001",
+          "nickname": "Andy | Eco",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "822844275670515720",
+      "type": "Default",
+      "timestamp": "2021-03-20T14:49:23.027+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":hattip:",
+      "author": {
+        "id": "310693165852000258",
+        "name": "uHoT ☚",
+        "discriminator": "6573",
+        "nickname": "[CDF]KennyMustSurvive",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/310693165852000258/f6e80efbada29246123f6333ac4b3fcb.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822844291885563904",
+      "type": "Default",
+      "timestamp": "2021-03-20T14:49:26.893+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pumped up now for my weekend! :eco_thumbs_up:",
+      "author": {
+        "id": "757970768977199206",
+        "name": "Crypto",
+        "discriminator": "9968",
+        "nickname": "Crypto",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/757970768977199206/df5304ce644f407fbf4afbf0ab014789.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "811681675326128169",
+            "name": "hogan",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/811681675326128169.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "822844400635609118",
+      "type": "Default",
+      "timestamp": "2021-03-20T14:49:52.821+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thank you very much for time and effort! have a nice day",
+      "author": {
+        "id": "818185538552463410",
+        "name": "uzhakbas",
+        "discriminator": "2044",
+        "nickname": "uzhakbas",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/818185538552463410/06f5b44bb5015cff1f0a8dd907ac0c00.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "815573725994680360",
+            "name": "peepohappy",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/815573725994680360.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "822844417324744734",
+      "type": "Default",
+      "timestamp": "2021-03-20T14:49:56.8+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks for putting this together, Eco team!",
+      "author": {
+        "id": "718891212613877820",
+        "name": "jkg2014",
+        "discriminator": "2779",
+        "nickname": "jkg2014",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/718891212613877820/c14984ba27f63a4994fcab91106f4c10.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "818932956177367041",
+            "name": "eco_heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/818932956177367041.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "822848370129371216",
+      "type": "Reply",
+      "timestamp": "2021-03-20T15:05:39.222+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This section of their FAQ page should help answer your questions about funding an Eco account https://support.eco.com/en/collections/2634609-funding-your-eco-account",
+      "author": {
+        "id": "810362798169129011",
+        "name": "LBrian",
+        "discriminator": "6883",
+        "nickname": "LBrian",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/810362798169129011/7c6fbbfb5d7203f1aa14eaf9bd2bbb51.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Funding your Eco account | Eco Help Center",
+          "url": "https://support.eco.com/en/collections/2634609-funding-your-eco-account",
+          "timestamp": null,
+          "description": "",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "382638466430664705",
+          "name": "uno",
+          "discriminator": "3909",
+          "nickname": "uno",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "822838599816314880",
+        "channelId": "821728019047514132",
+        "guildId": null
+      }
+    },
+    {
+      "id": "822849569548402728",
+      "type": "Default",
+      "timestamp": "2021-03-20T15:10:25.186+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks",
+      "author": {
+        "id": "813684162807857164",
+        "name": "prontera",
+        "discriminator": "3425",
+        "nickname": "prontera",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/813684162807857164/a4e100766b5eb13b57c95ca20ae5ee02.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822850147863887912",
+      "type": "Default",
+      "timestamp": "2021-03-20T15:12:43.067+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "AMA record",
+      "author": {
+        "id": "428872614035849216",
+        "name": "cooloNe",
+        "discriminator": "6314",
+        "nickname": "cooloNe",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/428872614035849216/ff3d7fa2d1ed456bde2a75e928593f2d.png"
+      },
+      "attachments": [
+        {
+          "id": "822850144575684638",
+          "url": "https://cdn.discordapp.com/attachments/821728019047514132/822850144575684638/FIRST_ama_with_Discord_community.mp3",
+          "fileName": "FIRST_ama_with_Discord_community.mp3",
+          "fileSizeBytes": 74747739
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "812531599089729590",
+            "name": "eco",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/812531599089729590.png"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDD09",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f509.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "818433302519611402",
+            "name": "eco_fr",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/818433302519611402.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "819721366503948318",
+            "name": "eco_thumbs_up",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721366503948318.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCAF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f4af.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "822852421763596298",
+      "type": "Default",
+      "timestamp": "2021-03-20T15:21:45.207+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hello guys",
+      "author": {
+        "id": "231144135082508289",
+        "name": "padla",
+        "discriminator": "8349",
+        "nickname": "padla",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231144135082508289/c3a86a2337cb39276fb1737f756c7a5d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822859645487153172",
+      "type": "Reply",
+      "timestamp": "2021-03-20T15:50:27.477+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Have you read and found answer?",
+      "author": {
+        "id": "382638466430664705",
+        "name": "uno",
+        "discriminator": "3909",
+        "nickname": "uno",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/382638466430664705/3eee0659872d1f177a83d10d295864b0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "810362798169129011",
+          "name": "LBrian",
+          "discriminator": "6883",
+          "nickname": "LBrian",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "822848370129371216",
+        "channelId": "821728019047514132",
+        "guildId": null
+      }
+    },
+    {
+      "id": "822859789636862022",
+      "type": "Default",
+      "timestamp": "2021-03-20T15:51:01.845+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Great session. Love it \uD83D\uDE80",
+      "author": {
+        "id": "449693997695500288",
+        "name": "Redallica",
+        "discriminator": "2485",
+        "nickname": "Redallica",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/449693997695500288/775d821532840f39df97b90529d8104b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822870614305407077",
+      "type": "Default",
+      "timestamp": "2021-03-20T16:34:02.647+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!grant @cooloNe 100 points for doing that recording!",
+      "author": {
+        "id": "344148051973373952",
+        "name": "Dave | Eco",
+        "discriminator": "2900",
+        "nickname": "Dave | Eco",
+        "color": "#3498DB",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/344148051973373952/36a74cd90ff1801132be950b74a6935e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "428872614035849216",
+          "name": "cooloNe",
+          "discriminator": "6314",
+          "nickname": "cooloNe",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "822870614724706344",
+      "type": "Default",
+      "timestamp": "2021-03-20T16:34:02.747+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Dave | Eco, I recorded that @cooloNe has been granted :points:100. They now have :points:3,416 total.",
+      "author": {
+        "id": "814589660692349019",
+        "name": "The Accountant",
+        "discriminator": "9794",
+        "nickname": "The Accountant",
+        "color": "#206694",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/814589660692349019/d5e178a543e2d91e25e9aca9f47184f4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "344148051973373952",
+          "name": "Dave | Eco",
+          "discriminator": "2900",
+          "nickname": "Dave | Eco",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "822916417501921342",
+      "type": "Default",
+      "timestamp": "2021-03-20T19:36:02.98+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Published a transcript of Andy's inspiring speech today.\nI'm already making a translation into Russian.\nLater there will be a transcript and translation of questions and answers.\n\nhttps://vodol.medium.com/eco-first-ama-state-of-the-discord-with-andy-bromberg-cb28053e6a6f",
+      "author": {
+        "id": "366304731867381801",
+        "name": "Anton_StakerHouse.com",
+        "discriminator": "3624",
+        "nickname": "Anton_StakerHouse.com",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/366304731867381801/c45faf80cd202f22a72948a0524f14e6.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Eco: First AMA “State of the Discord” with Andy Bromberg",
+          "url": "https://vodol.medium.com/eco-first-ama-state-of-the-discord-with-andy-bromberg-cb28053e6a6f",
+          "timestamp": null,
+          "description": "Andy Bromberg: CEO at Eco, Co-founder at Coinlist, Founding research scientist at the Stanford Bitcoin Group.",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/1156/1*FOrd53ISJrCylZ3bRYF3qg.jpeg",
+            "width": 1156,
+            "height": 571
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "822927449775276053",
+      "type": "Default",
+      "timestamp": "2021-03-20T20:19:53.279+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!grant @Anton_StakerHouse.com 100 points",
+      "author": {
+        "id": "344148051973373952",
+        "name": "Dave | Eco",
+        "discriminator": "2900",
+        "nickname": "Dave | Eco",
+        "color": "#3498DB",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/344148051973373952/36a74cd90ff1801132be950b74a6935e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "366304731867381801",
+          "name": "Anton_StakerHouse.com",
+          "discriminator": "3624",
+          "nickname": "Anton_StakerHouse.com",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "822927450362085376",
+      "type": "Default",
+      "timestamp": "2021-03-20T20:19:53.419+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Dave | Eco, I recorded that @Anton_StakerHouse.com has been granted :points:100. They now have :points:100 total.",
+      "author": {
+        "id": "814589660692349019",
+        "name": "The Accountant",
+        "discriminator": "9794",
+        "nickname": "The Accountant",
+        "color": "#206694",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/814589660692349019/d5e178a543e2d91e25e9aca9f47184f4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "344148051973373952",
+          "name": "Dave | Eco",
+          "discriminator": "2900",
+          "nickname": "Dave | Eco",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "822927538510364673",
+      "type": "Reply",
+      "timestamp": "2021-03-20T20:20:14.435+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Incredible, thank you so much @Anton_StakerHouse.com :peepohappy::eco_heart:",
+      "author": {
+        "id": "344148051973373952",
+        "name": "Dave | Eco",
+        "discriminator": "2900",
+        "nickname": "Dave | Eco",
+        "color": "#3498DB",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/344148051973373952/36a74cd90ff1801132be950b74a6935e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "366304731867381801",
+          "name": "Anton_StakerHouse.com",
+          "discriminator": "3624",
+          "nickname": "Anton_StakerHouse.com",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "822916417501921342",
+        "channelId": "821728019047514132",
+        "guildId": null
+      }
+    },
+    {
+      "id": "822944760548687922",
+      "type": "Default",
+      "timestamp": "2021-03-20T21:28:40.489+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Here is the translation of the first part of the AMA by Andy Bromberg into Russian.\nhttps://vodol.medium.com/вопросы-и-ответы-о-проете-eco-от-его-основателя-andy-bromberg-567e6e314fc6",
+      "author": {
+        "id": "366304731867381801",
+        "name": "Anton_StakerHouse.com",
+        "discriminator": "3624",
+        "nickname": "Anton_StakerHouse.com",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/366304731867381801/c45faf80cd202f22a72948a0524f14e6.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Вопросы и ответы о проете ECO от его основателя Andy Bromberg",
+          "url": "https://vodol.medium.com/%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B-%D0%B8-%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%8B-%D0%BE-%D0%BF%D1%80%D0%BE%D0%B5%D1%82%D0%B5-eco-%D0%BE%D1%82-%D0%B5%D0%B3%D0%BE-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F-andy-bromberg-567e6e314fc6",
+          "timestamp": null,
+          "description": "Andy Bromberg: CEO в Eco, сооснователь Coinlist, Ученый-основатель Stanford Bitcoin Group.",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/1156/1*FOrd53ISJrCylZ3bRYF3qg.jpeg",
+            "width": 1156,
+            "height": 571
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "823154301072441344",
+      "type": "Default",
+      "timestamp": "2021-03-21T11:21:18.843+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/yawnface-gif-4425271",
+      "author": {
+        "id": "551125775227551760",
+        "name": "DiabLo",
+        "discriminator": "3511",
+        "nickname": "DiabLo",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/551125775227551760/fad96a8c2196dee57d4b5e964d4b09b7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "shocked",
+          "url": "https://tenor.com/view/yawnface-gif-4425271",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://media.tenor.co/images/ec20e88184eda940c9e3f3fe2df07223/raw",
+            "width": 396,
+            "height": 298
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "823342581021671435",
+      "type": "Default",
+      "timestamp": "2021-03-21T23:49:28.281+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thank you",
+      "author": {
+        "id": "823340699251507210",
+        "name": "Mln030",
+        "discriminator": "4191",
+        "nickname": "Mln030",
+        "color": "#979C9F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "823488624695050281",
+      "type": "Reply",
+      "timestamp": "2021-03-22T09:29:47.806+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":eco_thumbs_up:  Amazing ! Will translate it in French as well",
+      "author": {
+        "id": "449693997695500288",
+        "name": "Redallica",
+        "discriminator": "2485",
+        "nickname": "Redallica",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/449693997695500288/775d821532840f39df97b90529d8104b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "366304731867381801",
+          "name": "Anton_StakerHouse.com",
+          "discriminator": "3624",
+          "nickname": "Anton_StakerHouse.com",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "822916417501921342",
+        "channelId": "821728019047514132",
+        "guildId": null
+      }
+    },
+    {
+      "id": "823611426941698048",
+      "type": "Default",
+      "timestamp": "2021-03-22T17:37:46.143+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Redallica @siouxx , i've generated a transcript of the audio thanks to Amazon. Not sure what it worth but maybe it can speed up the process a bit",
+      "author": {
+        "id": "209855484637741066",
+        "name": "Jeremie",
+        "discriminator": "7539",
+        "nickname": "Jeremie",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/209855484637741066/e8003f11f5e039d2aeee90d68fa3896f.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "819721366503948318",
+            "name": "eco_thumbs_up",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721366503948318.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDD25",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f525.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "817983798918512720",
+            "name": "eco_100",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/817983798918512720.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "449693997695500288",
+          "name": "Redallica",
+          "discriminator": "2485",
+          "nickname": "Redallica",
+          "isBot": false
+        },
+        {
+          "id": "820708514552873032",
+          "name": "siouxx",
+          "discriminator": "8737",
+          "nickname": "siouxx",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "823611441189617665",
+      "type": "Default",
+      "timestamp": "2021-03-22T17:37:49.54+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "¯\\_(ツ)_/¯",
+      "author": {
+        "id": "209855484637741066",
+        "name": "Jeremie",
+        "discriminator": "7539",
+        "nickname": "Jeremie",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/209855484637741066/e8003f11f5e039d2aeee90d68fa3896f.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "823611455345393684",
+      "type": "Default",
+      "timestamp": "2021-03-22T17:37:52.915+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://docs.google.com/document/d/1ZK034PWHQN_1MA2BuHSkxNKJ0nsrPVTBw2_9vwrIxrc/edit?usp=sharing",
+      "author": {
+        "id": "209855484637741066",
+        "name": "Jeremie",
+        "discriminator": "7539",
+        "nickname": "Jeremie",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/209855484637741066/e8003f11f5e039d2aeee90d68fa3896f.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AMA -1",
+          "url": "https://docs.google.com/document/d/1ZK034PWHQN_1MA2BuHSkxNKJ0nsrPVTBw2_9vwrIxrc/edit?usp=sharing",
+          "timestamp": null,
+          "description": "ok and , uh , 33 my time . So in in one minute , we'll get started . Start going through what's going on ? Discord . And , uh , answer some questions . Be back in a minute . Alright , everyone . Let's let's get started here with the first ever eco state of the discord . Uh , really excited to be ...",
+          "thumbnail": {
+            "url": "https://lh6.googleusercontent.com/9vb5Y9G8BfirDJurdUx06IOKHRd-CR9ROmwF0_dDKrKBZ3opOvVMaifMUuUAo0t9P3xfploQChSocQ=w1200-h630-p",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "823612242662654033",
+      "type": "Default",
+      "timestamp": "2021-03-22T17:41:00.626+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If others go through this doc, don't hesitates to correct, and add space & line breaks as needed. not really readable as it is :/",
+      "author": {
+        "id": "209855484637741066",
+        "name": "Jeremie",
+        "discriminator": "7539",
+        "nickname": "Jeremie",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/209855484637741066/e8003f11f5e039d2aeee90d68fa3896f.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "823628004416552971",
+      "type": "Reply",
+      "timestamp": "2021-03-22T18:43:38.521+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "well done @Jeremie \uD83D\uDE09 Will check that and see how we could manage the localization in French",
+      "author": {
+        "id": "449693997695500288",
+        "name": "Redallica",
+        "discriminator": "2485",
+        "nickname": "Redallica",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/449693997695500288/775d821532840f39df97b90529d8104b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "209855484637741066",
+          "name": "Jeremie",
+          "discriminator": "7539",
+          "nickname": "Jeremie",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "823611426941698048",
+        "channelId": "821728019047514132",
+        "guildId": null
+      }
+    },
+    {
+      "id": "823628187887992852",
+      "type": "Default",
+      "timestamp": "2021-03-22T18:44:22.264+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Redallica  you are better to check this one  : \nhttps://discord.com/channels/768556386404794448/803404854697525278/823620584948236328",
+      "author": {
+        "id": "209855484637741066",
+        "name": "Jeremie",
+        "discriminator": "7539",
+        "nickname": "Jeremie",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/209855484637741066/e8003f11f5e039d2aeee90d68fa3896f.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "449693997695500288",
+          "name": "Redallica",
+          "discriminator": "2485",
+          "nickname": "Redallica",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "823630523569405973",
+      "type": "Reply",
+      "timestamp": "2021-03-22T18:53:39.134+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDE4C  @Jeremie",
+      "author": {
+        "id": "449693997695500288",
+        "name": "Redallica",
+        "discriminator": "2485",
+        "nickname": "Redallica",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/449693997695500288/775d821532840f39df97b90529d8104b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "209855484637741066",
+          "name": "Jeremie",
+          "discriminator": "7539",
+          "nickname": "Jeremie",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "823628187887992852",
+        "channelId": "821728019047514132",
+        "guildId": null
+      }
+    },
+    {
+      "id": "824755887679209503",
+      "type": "Default",
+      "timestamp": "2021-03-25T21:25:26.846+00:00",
+      "timestampEdited": "2021-03-25T21:59:22.87+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Andy | Eco \nQuestion for State of the Discord:\n\n**Will there be an Eco cryptocurrency?**",
+      "author": {
+        "id": "152671200730939392",
+        "name": "Locke",
+        "discriminator": "5930",
+        "nickname": "Locke",
+        "color": "#979C9F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/152671200730939392/9302d58b85090dea645c3fa0331bfbce.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "810315145414574120",
+            "name": "troll",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/810315145414574120.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": [
+        {
+          "id": "768554690480701472",
+          "name": "Andy | Eco",
+          "discriminator": "0001",
+          "nickname": "Andy | Eco",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "825337682090917898",
+      "type": "Default",
+      "timestamp": "2021-03-27T11:57:17.443+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Andy | Eco \nQuestion for State of the Discord:\n\nI am not sure if I bring it a little bit far by asking this but since ECO wants to replace banks, I guess we can go for it. \n\nMany people has to go to bank to loan some money. Is there a plan of ECO for lending money?",
+      "author": {
+        "id": "703310841230917693",
+        "name": "katsuyusama",
+        "discriminator": "3323",
+        "nickname": "katsuyusama",
+        "color": "#979C9F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/703310841230917693/8cd421401f6f4a16342c7cfbc9e92023.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "812531599089729590",
+            "name": "eco",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/812531599089729590.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "819721366503948318",
+            "name": "eco_thumbs_up",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721366503948318.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "768554690480701472",
+          "name": "Andy | Eco",
+          "discriminator": "0001",
+          "nickname": "Andy | Eco",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "825339245035913266",
+      "type": "Default",
+      "timestamp": "2021-03-27T12:03:30.078+00:00",
+      "timestampEdited": "2021-03-27T12:37:50.652+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Andy | Eco Everyone is now waiting for any news about the project, discord.\nWhat's new next week? Or is it not time yet?\nHow many people are already using the beta app right now?",
+      "author": {
+        "id": "401139250281840640",
+        "name": "salova",
+        "discriminator": "8363",
+        "nickname": "salova",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/401139250281840640/4ee6fa50e2f832a89a87e1b60229a346.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "812531599089729590",
+            "name": "eco",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/812531599089729590.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "819721366503948318",
+            "name": "eco_thumbs_up",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721366503948318.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "768554690480701472",
+          "name": "Andy | Eco",
+          "discriminator": "0001",
+          "nickname": "Andy | Eco",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "825340243179732992",
+      "type": "Default",
+      "timestamp": "2021-03-27T12:07:28.054+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Andy | Eco Hi Andy! Please find below some of my questions for \"Eco-State of the Discord\":",
+      "author": {
+        "id": "757970768977199206",
+        "name": "Crypto",
+        "discriminator": "9968",
+        "nickname": "Crypto",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/757970768977199206/df5304ce644f407fbf4afbf0ab014789.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "768554690480701472",
+          "name": "Andy | Eco",
+          "discriminator": "0001",
+          "nickname": "Andy | Eco",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "825340423265845270",
+      "type": "Default",
+      "timestamp": "2021-03-27T12:08:10.99+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Are you planning to get into partnerships with any car manufacturers? Maybe Tesla first? \n\nOn the previous call, I have provided an idea about implementing a messenger within Eco app. Have you thought about it? \n\nDo you think it is possible to make Eco app available in other countries with limited options? I understand that for all options that are active in USA there are many legal aspects needed. When going abroad, maybe Eco app can work a wallet and as a way to transfer crypto first? This way millions of unbanked people can start using an app and send funds to relatives and friends. Combined with a messenger option, this can be a good starting point in expanding outside USD. Please comment. Thank you! \n\nAny thoughts about getting into partnership with airlines, so passengers can receive Eco miles? \n\nAny thoughts about creating a section of Eco app that can store NFTs? This way people can receive, send, collect NFTs within an app. \n\nPeer to peer lending within an app can be an option that will attract new users. For example, users can get an Eco credit score and based on this score, lenders can choose who to lend funds. If possible, please comment if such option can be implemented. Thanks!",
+      "author": {
+        "id": "757970768977199206",
+        "name": "Crypto",
+        "discriminator": "9968",
+        "nickname": "Crypto",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/757970768977199206/df5304ce644f407fbf4afbf0ab014789.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "819721366503948318",
+            "name": "eco_thumbs_up",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721366503948318.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "819721367233626142",
+            "name": "eco_scroll",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721367233626142.gif"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "825340987789279312",
+      "type": "Default",
+      "timestamp": "2021-03-27T12:10:25.583+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Andy | Eco Hi Andy, what are your thoughts in including anchor protocol from Terra to power your stable APY savings rate or built up on the terra network? To me its not clear how we can succeed against conventional financial institutions if several projects at a time try the same. It would be very powerful if those projects team up in a partnership. Any thoughts from your side?",
+      "author": {
+        "id": "787637759857655808",
+        "name": "sizelord",
+        "discriminator": "7110",
+        "nickname": "sizelord",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/787637759857655808/630908f840b79b223620627f1385f65d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "768554690480701472",
+          "name": "Andy | Eco",
+          "discriminator": "0001",
+          "nickname": "Andy | Eco",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "825361057480441868",
+      "type": "Default",
+      "timestamp": "2021-03-27T13:30:10.57+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Andy | Eco Morning! Hope you are all doing well this morning.\nIt may have been answered in the past but I am relatively new to this community. Is ECO Planning on having any physical Payment debit/credit card.? As  of now i see it as a \"I own my my bank type o apps\" Are we planning to integrate eventually a decentralized ECO-wallet such as Argent which would let the user connect to various Web 3.0 an keeps his/her crypto in Eco-wallet.\nI understand the APY idea currently incorporated- That being said are we planning to also have a Celsius/Nexo type of system incorporated with ECO?\nRegards!",
+      "author": {
+        "id": "707994415360376853",
+        "name": "babacool",
+        "discriminator": "8094",
+        "nickname": "babacool",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/707994415360376853/57c76a90a967919f9277012a43585489.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "768554690480701472",
+          "name": "Andy | Eco",
+          "discriminator": "0001",
+          "nickname": "Andy | Eco",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "825361060990156860",
+      "type": "Default",
+      "timestamp": "2021-03-27T13:30:11.407+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Opening the #\uD83D\uDCAClive-event-chat channel for discussion \uD83D\uDE42",
+      "author": {
+        "id": "344148051973373952",
+        "name": "Dave | Eco",
+        "discriminator": "2900",
+        "nickname": "Dave | Eco",
+        "color": "#3498DB",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/344148051973373952/36a74cd90ff1801132be950b74a6935e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "825361080401657876",
+      "type": "Default",
+      "timestamp": "2021-03-27T13:30:16.035+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Andy | Eco What's your opinion about decentralized gouvernance ?  Would you have some readings to recommend or projects going in this direction to check out ?",
+      "author": {
+        "id": "209855484637741066",
+        "name": "Jeremie",
+        "discriminator": "7539",
+        "nickname": "Jeremie",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/209855484637741066/e8003f11f5e039d2aeee90d68fa3896f.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "812531599089729590",
+            "name": "eco",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/812531599089729590.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": [
+        {
+          "id": "768554690480701472",
+          "name": "Andy | Eco",
+          "discriminator": "0001",
+          "nickname": "Andy | Eco",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "825362001781194782",
+      "type": "Default",
+      "timestamp": "2021-03-27T13:33:55.709+00:00",
+      "timestampEdited": "2021-03-27T13:44:51.825+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Andy | Eco\nHi, Andy! I've got few questions.\n1. Eco website says \"we're talking about crypto as little as possible in public at the moment\", so when crypto core of this project will be presented to the public? And when are you planning to tell public more details about crypto aspects of Eco?\n2. Eco economy topic always seemed interesting to me. I tried to find answer on the question \"what the mechanism of ECO monetization as a company since it's not about comissions?\" and first couldn't find answers. Then my assumptions came true, when i met the info, that \"Eco holds user funds in the form of USD and USDC and lends these funds to trading desks and platforms, where the funds are used as liquidity to reap high returns\". So can you tell us about this in more detail? And it could be perceived as something risky by users, what can convince them it's not?",
+      "author": {
+        "id": "664162702666760212",
+        "name": "one2fckU",
+        "discriminator": "6431",
+        "nickname": "one2fckU",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/664162702666760212/fed3672c6aa85f2b62a2669dfed0e5c2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "768554690480701472",
+          "name": "Andy | Eco",
+          "discriminator": "0001",
+          "nickname": "Andy | Eco",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "825364693027127346",
+      "type": "Default",
+      "timestamp": "2021-03-27T13:44:37.352+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Andy | Eco Hello, could you give examples and simulate a situation in which ECO will be more attractive to the end user in comparison with centralized financial services? I think that understanding this by the end user is the most important thing that will affect the success of the project.",
+      "author": {
+        "id": "317996201188392961",
+        "name": "alexandr",
+        "discriminator": "2117",
+        "nickname": "Alexander (CoinDataFlow)",
+        "color": "#979C9F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/317996201188392961/4023752b173e42edf2718fd61b20bbd9.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "815574921034858496",
+            "name": "think",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/815574921034858496.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "768554690480701472",
+          "name": "Andy | Eco",
+          "discriminator": "0001",
+          "nickname": "Andy | Eco",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "825365519317991434",
+      "type": "Default",
+      "timestamp": "2021-03-27T13:47:54.355+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Andy | Eco Will it be also possible in the future to loan money for buying a car or a house to pay back in 20 years or something?",
+      "author": {
+        "id": "703310841230917693",
+        "name": "katsuyusama",
+        "discriminator": "3323",
+        "nickname": "katsuyusama",
+        "color": "#979C9F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/703310841230917693/8cd421401f6f4a16342c7cfbc9e92023.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "768554690480701472",
+          "name": "Andy | Eco",
+          "discriminator": "0001",
+          "nickname": "Andy | Eco",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "825365669994299392",
+      "type": "Default",
+      "timestamp": "2021-03-27T13:48:30.279+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Andy | Eco Hey, Andy. Do you think it will be possible to make transaction fee on ECO less that bank system offers?",
+      "author": {
+        "id": "310549575293468673",
+        "name": "BlackKenny",
+        "discriminator": "7636",
+        "nickname": "BlackKenny",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/310549575293468673/ba369eddb8d1b848bd08abcdd0c9da71.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "768554690480701472",
+          "name": "Andy | Eco",
+          "discriminator": "0001",
+          "nickname": "Andy | Eco",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "825366182173212672",
+      "type": "Default",
+      "timestamp": "2021-03-27T13:50:32.392+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Andy | Eco there are statistics on how many people downloaded the ECO app and how much money they spent through the app?",
+      "author": {
+        "id": "486915956195459072",
+        "name": "Angry",
+        "discriminator": "6307",
+        "nickname": "Angry",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/486915956195459072/d3b97453bf6095af520fcdfbb0ba6c32.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "768554690480701472",
+          "name": "Andy | Eco",
+          "discriminator": "0001",
+          "nickname": "Andy | Eco",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "825366220650971157",
+      "type": "Default",
+      "timestamp": "2021-03-27T13:50:41.566+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Andy | Eco its been in discussions for a while. Latest statement I saw: USDC is one of deposit options. Will list of crypto-assets depositing increase?",
+      "author": {
+        "id": "200356389061656586",
+        "name": "passenger",
+        "discriminator": "5420",
+        "nickname": "passenger",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/200356389061656586/b7813d1e59583bf49a4b38e9a0a461e0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "819721366503948318",
+            "name": "eco_thumbs_up",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721366503948318.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "768554690480701472",
+          "name": "Andy | Eco",
+          "discriminator": "0001",
+          "nickname": "Andy | Eco",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "825366396246163478",
+      "type": "Default",
+      "timestamp": "2021-03-27T13:51:23.431+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Why did ECO choose Prime Trust as a custodian? Does Prime Trust or it's management or investors have equity positions with ECO?",
+      "author": {
+        "id": "817798004022968370",
+        "name": "Exarare",
+        "discriminator": "2358",
+        "nickname": "Exarare",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817798004022968370/6cdbf4da169d3e6d198adc8fef0828e8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "❓",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2753.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "825366448536289350",
+      "type": "Default",
+      "timestamp": "2021-03-27T13:51:35.898+00:00",
+      "timestampEdited": "2021-03-27T13:55:08.062+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Andy | Eco Who do you consider your competitors or role models you follow: CashApp, Chime, Alipay, Wechat, Revolut? Who do you fear most? What do you understand about your business that other companies in it just don't get?",
+      "author": {
+        "id": "317996201188392961",
+        "name": "alexandr",
+        "discriminator": "2117",
+        "nickname": "Alexander (CoinDataFlow)",
+        "color": "#979C9F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/317996201188392961/4023752b173e42edf2718fd61b20bbd9.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "815574921034858496",
+            "name": "think",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/815574921034858496.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "819721366503948318",
+            "name": "eco_thumbs_up",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721366503948318.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "768554690480701472",
+          "name": "Andy | Eco",
+          "discriminator": "0001",
+          "nickname": "Andy | Eco",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "825367179301486594",
+      "type": "Default",
+      "timestamp": "2021-03-27T13:54:30.126+00:00",
+      "timestampEdited": "2021-03-27T13:57:35.253+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Andy | Eco , how do think economic will transform in the nearest 50 years, is there a chance for fiat to live? If so, in what form? Just interesting in your opinion about fiat.",
+      "author": {
+        "id": "559360198020562945",
+        "name": "Saurois",
+        "discriminator": "0323",
+        "nickname": "Saurois",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/559360198020562945/925ff54dc70906197be19701754fef24.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "❓",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2753.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "768554690480701472",
+          "name": "Andy | Eco",
+          "discriminator": "0001",
+          "nickname": "Andy | Eco",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "825367429429461043",
+      "type": "Default",
+      "timestamp": "2021-03-27T13:55:29.761+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Fred's article: https://www.fehrsam.xyz/blog/governance-minimization",
+      "author": {
+        "id": "817798004022968370",
+        "name": "Exarare",
+        "discriminator": "2358",
+        "nickname": "Exarare",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817798004022968370/6cdbf4da169d3e6d198adc8fef0828e8.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Governance Minimization — Fred Ehrsam",
+          "url": "https://www.fehrsam.xyz/blog/governance-minimization",
+          "timestamp": null,
+          "description": "Governance minimized protocols will see the most use.",
+          "thumbnail": {
+            "url": "http://static1.squarespace.com/static/5cbbdc65a09a7e798dff7615/t/60458bfa3d664150213e3abb/1615170556597/Screen+Shot+2021-03-07+at+6.28.34+PM.png?format=1500w",
+            "width": 92,
+            "height": 92
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "825367588066164808",
+      "type": "Default",
+      "timestamp": "2021-03-27T13:56:07.583+00:00",
+      "timestampEdited": "2021-03-27T13:58:06.933+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This idea crossed my mind : \nif a fully decentralized organization really champions the interest of his users, and is open to everyone to collaborate to it then I'm not sure trying competing with  it would even make sense, it's maybe just better to join forces.  This would potentially accelerate innovation by a big factor. \n\nIs this idea just an utopie ? Why ?",
+      "author": {
+        "id": "209855484637741066",
+        "name": "Jeremie",
+        "discriminator": "7539",
+        "nickname": "Jeremie",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/209855484637741066/e8003f11f5e039d2aeee90d68fa3896f.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "825368169123414048",
+      "type": "Default",
+      "timestamp": "2021-03-27T13:58:26.118+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Andy | Eco Andy, if you get a nice offer, will you sell Eco project at this stage? \uD83D\uDE09  Or you will go till the end and WorldWide mass adoption of Eco?",
+      "author": {
+        "id": "757970768977199206",
+        "name": "Crypto",
+        "discriminator": "9968",
+        "nickname": "Crypto",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/757970768977199206/df5304ce644f407fbf4afbf0ab014789.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "815580519348568094",
+            "name": "elon",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/815580519348568094.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": [
+        {
+          "id": "768554690480701472",
+          "name": "Andy | Eco",
+          "discriminator": "0001",
+          "nickname": "Andy | Eco",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "825369993062645781",
+      "type": "Default",
+      "timestamp": "2021-03-27T14:05:40.979+00:00",
+      "timestampEdited": "2021-03-27T14:06:00.843+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Andy | Eco HI! why are you focused on CREATIVE contests for building ECO community?:pandalove:",
+      "author": {
+        "id": "810973900305334273",
+        "name": "sofochain",
+        "discriminator": "2691",
+        "nickname": "sofochain",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/810973900305334273/15a0c605fefa56e7ed865944d87ab217.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "❓",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2753.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "768554690480701472",
+          "name": "Andy | Eco",
+          "discriminator": "0001",
+          "nickname": "Andy | Eco",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "825370374849691698",
+      "type": "Default",
+      "timestamp": "2021-03-27T14:07:12.004+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Andy | Eco Hello! What can we expect from eco team in the coming month?",
+      "author": {
+        "id": "408370621873913858",
+        "name": "misha256nya",
+        "discriminator": "5097",
+        "nickname": "misha256nya",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/408370621873913858/01dfc09fdc63baaf18f81bbb7eae6784.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "768554690480701472",
+          "name": "Andy | Eco",
+          "discriminator": "0001",
+          "nickname": "Andy | Eco",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "825370863678521344",
+      "type": "Default",
+      "timestamp": "2021-03-27T14:09:08.55+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Andy | Eco , are you trying to decrease \"supply\" of the eco points, I've noticed points for latest content bounties were much lesser then for the first ones",
+      "author": {
+        "id": "804384305211637800",
+        "name": "Modestolich",
+        "discriminator": "0001",
+        "nickname": "Modestolich",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/804384305211637800/21e42e93b42830bf36e0e22c7bb960ed.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "768554690480701472",
+          "name": "Andy | Eco",
+          "discriminator": "0001",
+          "nickname": "Andy | Eco",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "825371163219066948",
+      "type": "Default",
+      "timestamp": "2021-03-27T14:10:19.966+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "TY!",
+      "author": {
+        "id": "559360198020562945",
+        "name": "Saurois",
+        "discriminator": "0323",
+        "nickname": "Saurois",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/559360198020562945/925ff54dc70906197be19701754fef24.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "825371180239945769",
+      "type": "Default",
+      "timestamp": "2021-03-27T14:10:24.024+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thank you!!!",
+      "author": {
+        "id": "757970768977199206",
+        "name": "Crypto",
+        "discriminator": "9968",
+        "nickname": "Crypto",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/757970768977199206/df5304ce644f407fbf4afbf0ab014789.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "825371188250673162",
+      "type": "Default",
+      "timestamp": "2021-03-27T14:10:25.934+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks!",
+      "author": {
+        "id": "817798004022968370",
+        "name": "Exarare",
+        "discriminator": "2358",
+        "nickname": "Exarare",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/817798004022968370/6cdbf4da169d3e6d198adc8fef0828e8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "825371200099319809",
+      "type": "Default",
+      "timestamp": "2021-03-27T14:10:28.759+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks",
+      "author": {
+        "id": "209855484637741066",
+        "name": "Jeremie",
+        "discriminator": "7539",
+        "nickname": "Jeremie",
+        "color": "#E74C3C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/209855484637741066/e8003f11f5e039d2aeee90d68fa3896f.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "825371224132812831",
+      "type": "Default",
+      "timestamp": "2021-03-27T14:10:34.489+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":peepohappy:  Bye",
+      "author": {
+        "id": "408370621873913858",
+        "name": "misha256nya",
+        "discriminator": "5097",
+        "nickname": "misha256nya",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/408370621873913858/01dfc09fdc63baaf18f81bbb7eae6784.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "825371241863053353",
+      "type": "Default",
+      "timestamp": "2021-03-27T14:10:38.716+00:00",
+      "timestampEdited": "2021-03-27T14:10:52.163+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks for the answers, bye",
+      "author": {
+        "id": "664162702666760212",
+        "name": "one2fckU",
+        "discriminator": "6431",
+        "nickname": "one2fckU",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/664162702666760212/fed3672c6aa85f2b62a2669dfed0e5c2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "825371277464174592",
+      "type": "Default",
+      "timestamp": "2021-03-27T14:10:47.204+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDC4B :eco_heart:",
+      "author": {
+        "id": "768554690480701472",
+        "name": "Andy | Eco",
+        "discriminator": "0001",
+        "nickname": "Andy | Eco",
+        "color": "#3498DB",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/768554690480701472/f8595b1bf1392b8a59f41cb730746695.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "818932956177367041",
+            "name": "eco_heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/818932956177367041.png"
+          },
+          "count": 9
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDD25",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f525.png"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "825371335810220043",
+      "type": "Default",
+      "timestamp": "2021-03-27T14:11:01.115+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thanks",
+      "author": {
+        "id": "810973900305334273",
+        "name": "sofochain",
+        "discriminator": "2691",
+        "nickname": "sofochain",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/810973900305334273/15a0c605fefa56e7ed865944d87ab217.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "825371467990564895",
+      "type": "Default",
+      "timestamp": "2021-03-27T14:11:32.629+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks  \uD83D\uDE0A",
+      "author": {
+        "id": "804426495077908531",
+        "name": "parallacs",
+        "discriminator": "9904",
+        "nickname": "parallacs",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/804426495077908531/62d40f31b5372f690f17a9596a3f4b22.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "825660201339322410",
+      "type": "Default",
+      "timestamp": "2021-03-28T09:18:52.024+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://woxinfei666.medium.com/60-q-as-from-first-ama-state-of-the-discord-with-andy-bromberg-ba77b900a2d2 guys, here are more than 60+ Q&As for the first AMA I sorted out, It can be used to translate for localization",
+      "author": {
+        "id": "469231135139037215",
+        "name": "mini",
+        "discriminator": "1734",
+        "nickname": "mini",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/469231135139037215/36671e5dbdb6738109fde415be90ee73.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "60+ Q&As from first AMA “State of the Discord” with Andy Bromberg",
+          "url": "https://woxinfei666.medium.com/60-q-as-from-first-ama-state-of-the-discord-with-andy-bromberg-ba77b900a2d2",
+          "timestamp": null,
+          "description": "—\u200A—\u200A—\u00A0\nQ: Where do you see ECO discord community in 1 month from now?\u00A0\nA: And that’s a great question. It’s hard to predict and things are…",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "819721366503948318",
+            "name": "eco_thumbs_up",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721366503948318.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "825663068939485224",
+      "type": "Default",
+      "timestamp": "2021-03-28T09:30:15.713+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://woxinfei666.medium.com/discord%E4%B8%8A%E7%AC%AC%E4%B8%80%E6%AC%A1ama%E4%B8%8E%E5%AE%89%E8%BF%AA-%E5%B8%83%E6%9C%97%E4%BC%AF%E6%A0%BC%E7%9A%8460%E5%A4%9A%E4%B8%AA%E9%97%AE%E7%AD%94-b9ac48604388 chinese version",
+      "author": {
+        "id": "469231135139037215",
+        "name": "mini",
+        "discriminator": "1734",
+        "nickname": "mini",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/469231135139037215/36671e5dbdb6738109fde415be90ee73.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Discord上第一次AMA与安迪·布朗伯格的60多个问答",
+          "url": "https://woxinfei666.medium.com/discord%E4%B8%8A%E7%AC%AC%E4%B8%80%E6%AC%A1ama%E4%B8%8E%E5%AE%89%E8%BF%AA-%E5%B8%83%E6%9C%97%E4%BC%AF%E6%A0%BC%E7%9A%8460%E5%A4%9A%E4%B8%AA%E9%97%AE%E7%AD%94-b9ac48604388",
+          "timestamp": null,
+          "description": "—\u200A—\u200A—\u00A0\n问：从现在开始的1个月后，您在哪里看到ECO Discord社区？…",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "825693830795493376",
+      "type": "Default",
+      "timestamp": "2021-03-28T11:32:29.911+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!grant @mini 100 :points: for a wonderful \uD83C\uDDE8\uD83C\uDDF3 translation of the first *Eco State-of-the-Discord*",
+      "author": {
+        "id": "344148051973373952",
+        "name": "Dave | Eco",
+        "discriminator": "2900",
+        "nickname": "Dave | Eco",
+        "color": "#3498DB",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/344148051973373952/36a74cd90ff1801132be950b74a6935e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "819721366503948318",
+            "name": "eco_thumbs_up",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721366503948318.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "469231135139037215",
+          "name": "mini",
+          "discriminator": "1734",
+          "nickname": "mini",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "825693831378108426",
+      "type": "Default",
+      "timestamp": "2021-03-28T11:32:30.05+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Dave | Eco, I recorded that @mini has been granted :points:100. They now have :points:100 total.",
+      "author": {
+        "id": "814589660692349019",
+        "name": "The Accountant",
+        "discriminator": "9794",
+        "nickname": "The Accountant",
+        "color": "#206694",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/814589660692349019/d5e178a543e2d91e25e9aca9f47184f4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "344148051973373952",
+          "name": "Dave | Eco",
+          "discriminator": "2900",
+          "nickname": "Dave | Eco",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "825721732660592660",
+      "type": "Reply",
+      "timestamp": "2021-03-28T13:23:22.234+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!grant @mini 100 extra points ... so much work!",
+      "author": {
+        "id": "768554690480701472",
+        "name": "Andy | Eco",
+        "discriminator": "0001",
+        "nickname": "Andy | Eco",
+        "color": "#3498DB",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/768554690480701472/f8595b1bf1392b8a59f41cb730746695.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "469231135139037215",
+          "name": "mini",
+          "discriminator": "1734",
+          "nickname": "mini",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "825660201339322410",
+        "channelId": "821728019047514132",
+        "guildId": null
+      }
+    },
+    {
+      "id": "825721733725159434",
+      "type": "Default",
+      "timestamp": "2021-03-28T13:23:22.488+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Andy | Eco, I recorded that @mini has been granted :points:100. They now have :points:200 total.",
+      "author": {
+        "id": "814589660692349019",
+        "name": "The Accountant",
+        "discriminator": "9794",
+        "nickname": "The Accountant",
+        "color": "#206694",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/814589660692349019/d5e178a543e2d91e25e9aca9f47184f4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "768554690480701472",
+          "name": "Andy | Eco",
+          "discriminator": "0001",
+          "nickname": "Andy | Eco",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "825897211308802130",
+      "type": "Default",
+      "timestamp": "2021-03-29T01:00:39.604+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Andy | Eco @Dave | Eco thanks very much! happy to help :eco_thumbs_up: :doge:",
+      "author": {
+        "id": "469231135139037215",
+        "name": "mini",
+        "discriminator": "1734",
+        "nickname": "mini",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/469231135139037215/36671e5dbdb6738109fde415be90ee73.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "819721366294888500",
+            "name": "eco_underlined",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721366294888500.gif"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "768554690480701472",
+          "name": "Andy | Eco",
+          "discriminator": "0001",
+          "nickname": "Andy | Eco",
+          "isBot": false
+        },
+        {
+          "id": "344148051973373952",
+          "name": "Dave | Eco",
+          "discriminator": "2900",
+          "nickname": "Dave | Eco",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "826379198070521906",
+      "type": "Default",
+      "timestamp": "2021-03-30T08:55:54.203+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hi 안녕하세요~~^^*",
+      "author": {
+        "id": "825954704810967060",
+        "name": "DaeHo, PARK",
+        "discriminator": "8997",
+        "nickname": "DaeHo, PARK",
+        "color": "#979C9F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "828275673046450208",
+      "type": "Default",
+      "timestamp": "2021-04-04T14:31:49.072+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Just wanted to let someone know; I was reading the FAQ in EN under helpful-links and nearly every link from  FAQ Token Sale page onward are broken or link to a page in another language.",
+      "author": {
+        "id": "746958997122187365",
+        "name": "dixonjeans",
+        "discriminator": "2826",
+        "nickname": "dixonjeans",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "828320504930762783",
+      "type": "Reply",
+      "timestamp": "2021-04-04T17:29:57.826+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "By making the research platform plane/understanding to the end users.",
+      "author": {
+        "id": "826897719976263711",
+        "name": "Bextxl",
+        "discriminator": "1785",
+        "nickname": "Bextxl",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826897719976263711/6a600175044c13d4b7d9cba1fa93db6c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "317996201188392961",
+          "name": "alexandr",
+          "discriminator": "2117",
+          "nickname": "Alexander (CoinDataFlow)",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "825364693027127346",
+        "channelId": "821728019047514132",
+        "guildId": null
+      }
+    },
+    {
+      "id": "828333819718271006",
+      "type": "Reply",
+      "timestamp": "2021-04-04T18:22:52.319+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thanks for the heads up —\u00A0@Dave | Eco can you take a look?",
+      "author": {
+        "id": "768554690480701472",
+        "name": "Andy | Eco",
+        "discriminator": "0001",
+        "nickname": "Andy | Eco",
+        "color": "#3498DB",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/768554690480701472/f8595b1bf1392b8a59f41cb730746695.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "819721366503948318",
+            "name": "eco_thumbs_up",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721366503948318.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "344148051973373952",
+          "name": "Dave | Eco",
+          "discriminator": "2900",
+          "nickname": "Dave | Eco",
+          "isBot": false
+        },
+        {
+          "id": "746958997122187365",
+          "name": "dixonjeans",
+          "discriminator": "2826",
+          "nickname": "dixonjeans",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "828275673046450208",
+        "channelId": "821728019047514132",
+        "guildId": null
+      }
+    },
+    {
+      "id": "828350596574347274",
+      "type": "Default",
+      "timestamp": "2021-04-04T19:29:32.233+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@dixonjeans can you DM me, I think I know the issue \uD83D\uDE42",
+      "author": {
+        "id": "344148051973373952",
+        "name": "Dave | Eco",
+        "discriminator": "2900",
+        "nickname": "Dave | Eco",
+        "color": "#3498DB",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/344148051973373952/36a74cd90ff1801132be950b74a6935e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "746958997122187365",
+          "name": "dixonjeans",
+          "discriminator": "2826",
+          "nickname": "dixonjeans",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "828360627478331432",
+      "type": "Reply",
+      "timestamp": "2021-04-04T20:09:23.787+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sure thing.",
+      "author": {
+        "id": "746958997122187365",
+        "name": "dixonjeans",
+        "discriminator": "2826",
+        "nickname": "dixonjeans",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "344148051973373952",
+          "name": "Dave | Eco",
+          "discriminator": "2900",
+          "nickname": "Dave | Eco",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "828350596574347274",
+        "channelId": "821728019047514132",
+        "guildId": null
+      }
+    },
+    {
+      "id": "835272190903189524",
+      "type": "Default",
+      "timestamp": "2021-04-23T21:53:28.918+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Andy | Eco thanks for everything",
+      "author": {
+        "id": "830838319083421697",
+        "name": "mmtgnc",
+        "discriminator": "2083",
+        "nickname": "mmtgnc",
+        "color": "#979C9F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "818932956177367041",
+            "name": "eco_heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/818932956177367041.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "768554690480701472",
+          "name": "Andy | Eco",
+          "discriminator": "0001",
+          "nickname": "Andy | Eco",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "835795415831412737",
+      "type": "Default",
+      "timestamp": "2021-04-25T08:32:35.462+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thanks",
+      "author": {
+        "id": "585377750114762753",
+        "name": "pipiko",
+        "discriminator": "2955",
+        "nickname": "pipiko",
+        "color": "#979C9F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "843266408514060318",
+      "type": "Default",
+      "timestamp": "2021-05-15T23:19:38.922+00:00",
+      "timestampEdited": "2021-05-16T01:49:55.787+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Russian translation of Andy Bromberg discord speech dated on May 15 2021. Перевод на русский язык речи Энди. https://disgaea.medium.com/andys-frontier-speech-may-15-2021-%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4-%D0%BD%D0%B0-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-%D1%8F%D0%B7%D1%8B%D0%BA-6a97c33ae68f",
+      "author": {
+        "id": "428872614035849216",
+        "name": "cooloNe",
+        "discriminator": "6314",
+        "nickname": "cooloNe",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/428872614035849216/ff3d7fa2d1ed456bde2a75e928593f2d.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Andy’s Frontier Speech May 15 2021\u200A—\u200AПеревод на русский язык",
+          "url": "https://disgaea.medium.com/andys-frontier-speech-may-15-2021-%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4-%D0%BD%D0%B0-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-%D1%8F%D0%B7%D1%8B%D0%BA-6a97c33ae68f",
+          "timestamp": null,
+          "description": "“Мы обращаемся к тебе здесь как к исследователю. Кто-то, у кого такие же идеи и амбиции, такие как у вас. Есть не много вещей которые мне нравятся более чем исследование мира и как люди живут с этим…",
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "819721366503948318",
+            "name": "eco_thumbs_up",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721366503948318.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "843563126293397544",
+      "type": "Reply",
+      "timestamp": "2021-05-16T18:58:41.953+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!grant @cooloNe 75 points, thank you!",
+      "author": {
+        "id": "768554690480701472",
+        "name": "Andy | Eco",
+        "discriminator": "0001",
+        "nickname": "Andy | Eco",
+        "color": "#3498DB",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/768554690480701472/f8595b1bf1392b8a59f41cb730746695.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "✅",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2705.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "428872614035849216",
+          "name": "cooloNe",
+          "discriminator": "6314",
+          "nickname": "cooloNe",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "843266408514060318",
+        "channelId": "821728019047514132",
+        "guildId": null
+      }
+    },
+    {
+      "id": "844207688849293322",
+      "type": "Default",
+      "timestamp": "2021-05-18T13:39:57.642+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "LOve the points, and What can I do next to get it \uD83D\uDE04 ?",
+      "author": {
+        "id": "842601905603346463",
+        "name": "nguyenmung",
+        "discriminator": "0072",
+        "nickname": "nguyenmung",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "844208239855796275",
+      "type": "Default",
+      "timestamp": "2021-05-18T13:42:09.012+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What is the Eco economy ?",
+      "author": {
+        "id": "842601905603346463",
+        "name": "nguyenmung",
+        "discriminator": "0072",
+        "nickname": "nguyenmung",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "845399335692271676",
+      "type": "Default",
+      "timestamp": "2021-05-21T20:35:08.389+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ECO-nomic",
+      "author": {
+        "id": "826897719976263711",
+        "name": "Bextxl",
+        "discriminator": "1785",
+        "nickname": "Bextxl",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/826897719976263711/6a600175044c13d4b7d9cba1fa93db6c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "846895534220116018",
+      "type": "Default",
+      "timestamp": "2021-05-25T23:40:29.916+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hi qdmins",
+      "author": {
+        "id": "826552229132632094",
+        "name": "manivir",
+        "discriminator": "6660",
+        "nickname": "manivir",
+        "color": "#979C9F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "846895590113804318",
+      "type": "Default",
+      "timestamp": "2021-05-25T23:40:43.242+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "admins* , how to invite friends to this eco group",
+      "author": {
+        "id": "826552229132632094",
+        "name": "manivir",
+        "discriminator": "6660",
+        "nickname": "manivir",
+        "color": "#979C9F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "846997066139435028",
+      "type": "Default",
+      "timestamp": "2021-05-26T06:23:57.012+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "As of now, you cannot create invite links through Discord. You will have to refer your friends to the eco.com website where they have to put in their email address and fill out the questionnaire to get access to the invite link.",
+      "author": {
+        "id": "761834826533568542",
+        "name": "SpaceTraveler",
+        "discriminator": "3020",
+        "nickname": "Stefan | Space Traveler",
+        "color": "#C27C0E",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/761834826533568542/efcc78a03c99228f83c9864b0f16143a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "849195584166297650",
+      "type": "Default",
+      "timestamp": "2021-06-01T08:00:04.556+00:00",
+      "timestampEdited": "2021-06-01T08:33:00.306+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi guys, I translated this amazing work \"60+ Q&As from first AMA “State of the Discord” with Andy Bromberg\", created by user @mini , into Russian. A couple of my Russian friends read it and joined ECO! \nI hope my work will be helpful for some of you!\n\nhttps://haxton.medium.com/60-%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2-%D0%B8-%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D0%BE%D0%B2-%D1%81-%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%B3%D0%BE-ama-state-of-the-discord-%D1%81-%D1%8D%D0%BD%D0%B4%D0%B8-%D0%B1%D1%80%D0%BE%D0%BC%D0%B1%D0%B5%D1%80%D0%B3%D0%BE%D0%BC-a580254c6b6f",
+      "author": {
+        "id": "656534984504377354",
+        "name": "haxton911",
+        "discriminator": "2662",
+        "nickname": "haxton911",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "60+ вопросов и ответов с первого AMA “State of the Discord” с Энди ...",
+          "url": "https://haxton.medium.com/60-%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2-%D0%B8-%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D0%BE%D0%B2-%D1%81-%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%B3%D0%BE-ama-state-of-the-discord-%D1%81-%D1%8D%D0%BD%D0%B4%D0%B8-%D0%B1%D1%80%D0%BE%D0%BC%D0%B1%D0%B5%D1%80%D0%B3%D0%BE%D0%BC-a580254c6b6f",
+          "timestamp": null,
+          "description": "Оригинал перевода- https://woxinfei666.medium.com/60-q-as-from-first-ama-state-of-the-discord-with-andy-bromberg-ba77b900a2d2",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/1140/1*r_m5XbZrL6OOnSvmgPKFVA.png",
+            "width": 1140,
+            "height": 694
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "819721366503948318",
+            "name": "eco_thumbs_up",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/819721366503948318.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "469231135139037215",
+          "name": "mini",
+          "discriminator": "1734",
+          "nickname": "mini",
+          "isBot": false
+        }
+      ]
+    }
+  ],
+  "messageCount": 173
+}
