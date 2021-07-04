@@ -21,14 +21,14 @@ public class Execute {
         return message.author.nickname+"#"+ message.author.discriminator;
     }
 
-    public static String fullNameMentionet (Mention mention){
+    public static String fullNameMentioned(Mention mention){
         return mention.nickname+"#"+ mention.discriminator;
     }
 
     public static ArrayList<String> mentionedInThisMessage(Message message) {
         ArrayList<String> listMentioned= new ArrayList<>();
         for (Mention mention : message.mentions) {
-           listMentioned.add(fullNameMentionet(mention));
+           listMentioned.add(fullNameMentioned(mention));
         }
         return listMentioned;
     }

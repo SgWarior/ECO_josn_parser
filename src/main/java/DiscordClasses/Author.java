@@ -10,6 +10,7 @@ public class Author{
     public String avatarUrl;
     public String url;
     public String iconUrl;
+
 }
 
 

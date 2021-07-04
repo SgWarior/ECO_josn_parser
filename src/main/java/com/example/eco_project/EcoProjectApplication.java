@@ -14,6 +14,7 @@ import java.io.StringReader;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.sql.SQLOutput;
 import java.util.*;
 
 
@@ -49,10 +50,10 @@ public class EcoProjectApplication {
             listMessages.add(message);
         }
 
-        Execute.EcoStoryBotSends(listMessages);
-
         Files.walkFileTree(start,new DiscordSimpleFileTreeVisitor());
+        SaldoTable.createReport(listMessages);
 
-    }
-
+        }
 }
+
+
