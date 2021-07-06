@@ -13,11 +13,13 @@ import java.nio.file.SimpleFileVisitor;
 import java.nio.file.attribute.BasicFileAttributes;
 import java.util.ArrayList;
 
+import static com.example.eco_project.EcoProjectApplication.globalListMessages;
+
 public class DiscordSimpleFileTreeVisitor extends SimpleFileVisitor {
 
     @SneakyThrows
     @Override
-    public FileVisitResult visitFile(Object file, BasicFileAttributes attrs) throws IOException {
+    public FileVisitResult visitFile(Object file, BasicFileAttributes attrs){
         ArrayList<Message> allMessageList = new ArrayList<>();
 
         {//parse, cast to json, mapping add all mesage in list
@@ -27,34 +29,17 @@ public class DiscordSimpleFileTreeVisitor extends SimpleFileVisitor {
             JSONArray jsonArrayMessages = (JSONArray) jsonObject.get("messages");        //get json Messages
             ObjectMapper mapper = new ObjectMapper();
 
-
             for (Object objects : jsonArrayMessages
             ) {
                 StringReader reader = new StringReader(((JSONObject) objects).toJSONString());
                 Message message = mapper.readValue(reader, Message.class);
-                EcoProjectApplication.listMessages.add(message);
+                globalListMessages.add(message);
                 allMessageList.add(message);
             }
         }
-        Execute.extractTheData(allMessageList, file.toString());
-
+       // Execute.extractTheDataAndWrittenFile(allMessageList, file.toString());
+        if(file.toString().contains("points-log")) CrossTransfers.getTranzactions(allMessageList);
         return super.visitFile(file, attrs);
-    }
-
-    @Override
-    public FileVisitResult postVisitDirectory(Object dir, IOException exc) throws IOException {
-        Execute.extractTheData(EcoProjectApplication.listMessages, "AllInOne.txt");
-        try(BufferedWriter writer = new BufferedWriter(new FileWriter("allUsers.txt"))){
-            EcoProjectApplication.allUsersAutor.forEach( userID -> {
-                        try {
-                            writer.write("<@"+ userID+"> ");
-                        } catch (IOException e) {
-                            e.printStackTrace();
-                        }
-                    }
-            );
-        }
-        return super.postVisitDirectory(dir, exc);
     }
 
 }

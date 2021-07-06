@@ -12,6 +12,10 @@ public class SaldoTable {
 
     private static Set<String> teamID = new HashSet<>(
             Arrays.asList("818215417956925460","344148051973373952","804530443188961300","313479401419309063","768554690480701472"));
+    //@Bryce  | Eco#0263   @Dave | Eco#2900     @Hen | Eco#7458   @Henry  |  Eco#9415    @Andy | Eco#0001
+
+    private static Set<String> UmeeTeam = new HashSet<>(
+            Arrays.asList("290622208718667787","761092353553334303","362803151679651841","704831357947478036","705833333116108860","415587388249604106"));
 
     static HashMap<String,DiscordUser> discordUserHashMap = new HashMap<>();
 
@@ -23,7 +27,6 @@ public class SaldoTable {
         }
         writeMapIntoFile("EcoStatsDiscord.txt", discordUserHashMap);
         return discordUserHashMap;
-
     }
 
     private static void updateInfoAboutDiscordAuthor(Message message) {
@@ -52,7 +55,7 @@ public class SaldoTable {
      //   if (message.mentions!=null || message.mentions.size()>0)
              for (Mention mention : message.mentions) {
             discordUserHashMap.putIfAbsent(mention.id,
-                new DiscordUser(mention.id, mention.nickname + mention.discriminator));
+                new DiscordUser(mention.id, mention.nickname +'#'+ mention.discriminator));
         }
     }
 

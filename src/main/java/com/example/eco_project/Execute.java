@@ -17,18 +17,11 @@ public class Execute {
 
     @org.jetbrains.annotations.NotNull
     @org.jetbrains.annotations.Contract(pure = true)
-    public static String fullNameAuthor (Message message){
-        return message.author.nickname+"#"+ message.author.discriminator;
-    }
-
-    public static String fullNameMentioned(Mention mention){
-        return mention.nickname+"#"+ mention.discriminator;
-    }
 
     public static ArrayList<String> mentionedInThisMessage(Message message) {
         ArrayList<String> listMentioned= new ArrayList<>();
         for (Mention mention : message.mentions) {
-           listMentioned.add(fullNameMentioned(mention));
+           listMentioned.add(mention.nickname+"#"+ mention.discriminator);
         }
         return listMentioned;
     }
@@ -51,8 +44,8 @@ public class Execute {
         return null;
     }
 
-    @SneakyThrows
-    public static void extractTheData(ArrayList<Message> listMessages, String fileNameOut) {
+   /* @SneakyThrows
+    public static void extractTheDataAndWrittenFile(ArrayList<Message> listMessages, String fileNameOut) {
         TreeMap<String, Integer> mapGranted= new TreeMap<>();
 
         String pattern = " (\\d+) ";
@@ -62,7 +55,6 @@ public class Execute {
         Matcher matcher;
 
         for (Message message : listMessages) {
-            EcoProjectApplication.allUsersAutor.add(message.author.id);
             if (EcoProjectApplication.teamID.contains(message.author.id) && message.content.contains("!grant"))
             {
                 matcher = patrn.matcher(message.content);
@@ -75,10 +67,11 @@ public class Execute {
         }
 
         File file = new File(fileNameOut);
-        try(BufferedWriter writer = new BufferedWriter(new FileWriter(file.getName().replace(".json", ".txt")))){
-        mapGranted.forEach( (s, integer) -> {
+        try(BufferedWriter writer = new BufferedWriter(
+                new FileWriter(file.getName().replace(".json", ".txt")))){
+        mapGranted.forEach( (s, value) -> {
                     try {
-                        writer.write(s+"\t"+ integer.toString()+"\n");
+                        writer.write(s+"\t"+ value.toString()+"\n");
                     } catch (IOException e) {
                         e.printStackTrace();
                     }
@@ -86,4 +79,6 @@ public class Execute {
         );
        }
     }
+   */
 }
+
