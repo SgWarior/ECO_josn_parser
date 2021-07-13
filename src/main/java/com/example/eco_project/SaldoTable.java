@@ -17,7 +17,7 @@ public class SaldoTable {
     private static Set<String> UmeeTeam = new HashSet<>(
             Arrays.asList("290622208718667787","761092353553334303","362803151679651841","704831357947478036","705833333116108860","415587388249604106"));
 
-    static HashMap<String,DiscordUser> discordUserHashMap = new HashMap<>();
+    public static HashMap<String,DiscordUser> discordUserHashMap = new HashMap<>();
 
     public static HashMap<String,DiscordUser> createReport(ArrayList<Message> listMessages) throws IOException {
         for (Message message : listMessages) {
@@ -44,7 +44,7 @@ public class SaldoTable {
             findNumber.trim();
             //---> todo прочитаь следующий за этим сумму поинтов double or Integer
         }
-        else if(message.content.startsWith("!points")) author.chekPoints++;
+        else if(message.content.equals("!points")) author.userChekPointsIncrement();
 
     }
 
@@ -75,7 +75,7 @@ public class SaldoTable {
     private static void writeMapIntoFile(String fileName, HashMap<String, DiscordUser> map) throws IOException {
         try(BufferedWriter writer = new BufferedWriter(new FileWriter(fileName))){
             writer.write(
-                    "DiscordName\tSentMessage\tMadeMentions\tEmojisPlaced\twasMentioned\tmakeTeamMentions\tWasMentionedByTeam\n");
+                    "DiscordName\tSentMessage\tMadeMentions\tEmojisPlaced\twasMentioned\tmakeTeamMentions\tWasMentionedByTeam\t\"!points\" called\n");
             for (Map.Entry<String, DiscordUser> userEntry : map.entrySet()) {
                 writer.write(userEntry.getValue().toString());
             }

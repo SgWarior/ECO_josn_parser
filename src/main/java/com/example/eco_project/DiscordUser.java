@@ -4,6 +4,10 @@ import java.util.Objects;
 
 public class DiscordUser {
 
+    public String getDiscordNameAndDiscriminator() {
+        return discordNameAndDiscriminator;
+    }
+
     private String ID;
     private String discordNameAndDiscriminator;
 
@@ -15,8 +19,9 @@ public class DiscordUser {
     private int makeMentionsTeam     = 0;
     private int wasMentionedBuyTeam  = 0;
 
+    private int chekPoints = 0;
     Double balance=0.0;
-    int chekPoints = 0;
+
     double pointsGranted = 0.0;
     double pointsReceived = 0.0;
 
@@ -48,6 +53,8 @@ public class DiscordUser {
         this.emojisPlaced += emojiPlaced;
     }
 
+    public void userChekPointsIncrement(){this.chekPoints++;}
+
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
@@ -75,6 +82,7 @@ public class DiscordUser {
                         emojisPlaced + '\t'+
                         wasMentioned + '\t'+
                         makeMentionsTeam + '\t'+
-                        wasMentionedBuyTeam+'\n';
+                        wasMentionedBuyTeam+'\t'+
+                        chekPoints+'\n';
     }
 }

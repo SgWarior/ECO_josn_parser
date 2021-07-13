@@ -14,6 +14,7 @@ import java.nio.file.attribute.BasicFileAttributes;
 import java.util.ArrayList;
 
 import static com.example.eco_project.EcoProjectApplication.globalListMessages;
+import static com.example.eco_project.EcoProjectApplication.pointsLogMessages;
 
 public class DiscordSimpleFileTreeVisitor extends SimpleFileVisitor {
 
@@ -38,7 +39,7 @@ public class DiscordSimpleFileTreeVisitor extends SimpleFileVisitor {
             }
         }
        // Execute.extractTheDataAndWrittenFile(allMessageList, file.toString());
-        if(file.toString().contains("points-log")) CrossTransfers.getTranzactions(allMessageList);
+        if(file.toString().contains("points-log")) pointsLogMessages = allMessageList;
         return super.visitFile(file, attrs);
     }
 

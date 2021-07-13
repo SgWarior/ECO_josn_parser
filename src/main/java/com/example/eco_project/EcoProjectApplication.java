@@ -13,7 +13,8 @@ import java.util.*;
 @SpringBootApplication
 public class EcoProjectApplication {
 
-    public static ArrayList<Message> globalListMessages = new ArrayList<>();
+    public static ArrayList<Message> globalListMessages = new ArrayList<>(100000);
+    public static  ArrayList<Message> pointsLogMessages = new ArrayList<>();
 
     @SneakyThrows
     public static void main(String[] args) {
@@ -31,8 +32,9 @@ public class EcoProjectApplication {
      //     listMessages.add(message);
      // }
 
-        Files.walkFileTree(Path.of("src/main/resources/Jsons"),new DiscordSimpleFileTreeVisitor());
+        Files.walkFileTree(Path.of("src/main/resources/Jsons/ECO"),new DiscordSimpleFileTreeVisitor());
         SaldoTable.createReport(globalListMessages);
+        CrossTransfers.getTransactions(pointsLogMessages);
 
         }
 }
