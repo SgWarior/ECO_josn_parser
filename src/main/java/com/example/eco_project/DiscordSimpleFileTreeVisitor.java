@@ -9,12 +9,13 @@ import org.json.simple.parser.JSONParser;
 
 import java.io.*;
 import java.nio.file.FileVisitResult;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.nio.file.SimpleFileVisitor;
 import java.nio.file.attribute.BasicFileAttributes;
 import java.util.ArrayList;
 
-import static com.example.eco_project.EcoProjectApplication.globalListMessages;
-import static com.example.eco_project.EcoProjectApplication.pointsLogMessages;
+import static com.example.eco_project.EcoProjectApplication.*;
 
 public class DiscordSimpleFileTreeVisitor extends SimpleFileVisitor {
 
@@ -40,6 +41,10 @@ public class DiscordSimpleFileTreeVisitor extends SimpleFileVisitor {
         }
        // Execute.extractTheDataAndWrittenFile(allMessageList, file.toString());
         if(file.toString().contains("points-log")) pointsLogMessages = allMessageList;
+        if(file.toString().contains("check-your")) chekPointslist = allMessageList;
+
+        Path nameFile = Paths.get(file.toString());
+        System.out.println(nameFile.getFileName() +" : "+ allMessageList.size());
         return super.visitFile(file, attrs);
     }
 

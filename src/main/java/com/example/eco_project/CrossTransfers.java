@@ -23,8 +23,7 @@ public class CrossTransfers {
         //список всех упомянуты юзверей
         for (Message message : allMessageList) {
             for (Mention mention : message.mentions) {
-                if (message.content.contains("sent :points:"))usersInPointLog.add(mention.id);
-
+              usersInPointLog.add(mention.id);
             }
         }
     }
@@ -70,10 +69,23 @@ public class CrossTransfers {
                     tableEntity.get(recipient.id).merge(recipient.id, amount, Double::sum);
                 }
             }
-           // else for (Mention recipient : message.mentions)
+            else if(message.content.contains("granted :points:"))
+                for (Mention recipient : message.mentions){
+                    tableEntity.get(recipient.id).merge(donor, amount, Double::sum);
+                    tableEntity.get(recipient.id).merge(recipient.id, amount, Double::sum);
+            }
         }
 
         reportTableInFile(tableEntity);
+    }
+
+    public static void getAllUsersWhatMadeATransaction(ArrayList<Message> allMessageLis){
+        for (Message msg:allMessageLis
+             ) {
+            for (Mention mention : msg.mentions) {
+                EcoProjectApplication.AllUsersMadetTranz.add("<@"+mention.id+">");
+            }
+        }
     }
 
     @SneakyThrows

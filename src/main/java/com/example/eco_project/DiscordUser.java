@@ -75,14 +75,45 @@ public class DiscordUser {
 
     @Override
     public String toString() {
-        return
-                discordNameAndDiscriminator + '\t' +
-                        sendMessages + '\t'+
-                        make_mentions + '\t'+
-                        emojisPlaced + '\t'+
-                        wasMentioned + '\t'+
-                        makeMentionsTeam + '\t'+
-                        wasMentionedBuyTeam+'\t'+
-                        chekPoints+'\n';
+        StringBuilder sb = new StringBuilder();
+        sb
+                .append(discordNameAndDiscriminator)
+                .append('\t')
+                .append(sendMessages)
+                .append('\t')
+                .append(make_mentions)
+                .append('\t')
+                .append(emojisPlaced)
+                .append('\t')
+                .append(wasMentioned)
+                .append('\t')
+                .append(makeMentionsTeam)
+                .append('\t')
+                .append(wasMentionedBuyTeam)
+                .append('\t')
+                .append(chekPoints)
+                .append('\n');
+        return sb.toString();
+
+    }
+
+    public String getReviewToUser() {
+        StringBuilder sb = new StringBuilder();
+        sb
+                .append(discordNameAndDiscriminator)
+                .append(" Message sent : ")
+                .append(sendMessages-chekPoints)
+                .append(". Make_mentions : ")
+                .append(make_mentions--)
+                .append(". Emoji under messages : ")
+                .append(emojisPlaced)
+                .append(". WasMentioned : ")
+                .append(wasMentioned)
+                .append(". MakeMentionsTeam(-1) : ")
+                .append(makeMentionsTeam)
+                .append(" .WasMentionedBuyTeam : ")
+                .append(wasMentionedBuyTeam);
+        return sb.toString();
+
     }
 }

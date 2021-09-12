@@ -15,28 +15,25 @@ public class EcoProjectApplication {
 
     public static ArrayList<Message> globalListMessages = new ArrayList<>(100000);
     public static  ArrayList<Message> pointsLogMessages = new ArrayList<>();
+    public static  ArrayList<Message> chekPointslist = new ArrayList<>();
+    public static  HashSet<String> AllUsersMadetTranz = new HashSet<>();
 
     @SneakyThrows
     public static void main(String[] args) {
         SpringApplication.run(EcoProjectApplication.class, args);
 
-     // JSONParser parser = new JSONParser();
-     // Object obj = parser.parse(new FileReader("src/main/resources/Jsons/Eco.json"));
-     // JSONObject jsonObject = (JSONObject) obj;
-     // JSONArray jsonArrayMessages = (JSONArray) jsonObject.get("messages");
-     // ObjectMapper mapper = new ObjectMapper();
-     // for (Object objec : jsonArrayMessages
-     //      ) {
-     //     StringReader reader = new StringReader(((JSONObject) objec).toJSONString());
-     //     Message message = mapper.readValue(reader, Message.class);
-     //     listMessages.add(message);
-     // }
-
         Files.walkFileTree(Path.of("src/main/resources/Jsons/ECO"),new DiscordSimpleFileTreeVisitor());
         SaldoTable.createReport(globalListMessages);
         CrossTransfers.getTransactions(pointsLogMessages);
+        CrossTransfers.getAllUsersWhatMadeATransaction(pointsLogMessages);
+        LeaderBoardCreator.createLeaderBoard(chekPointslist);
 
+        for (String s : AllUsersMadetTranz) {
+            System.out.print(s+" ");
         }
+
+
+    }
 }
 
 
