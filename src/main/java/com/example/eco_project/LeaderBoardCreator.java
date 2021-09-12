@@ -13,26 +13,18 @@ public class LeaderBoardCreator {
 
     public static void createLeaderBoard(ArrayList<Message> messageArrayList){
         HashMap<String, Double> leaderBoardMap = new HashMap<>();
-        HashMap<String, String> userNickName = new HashMap<>();
-
 
         for (Message message : messageArrayList) {
+
             String pointsQuant = null;
             if (message.author.isBot && message.content.contains("currently has :points:")) {
 
-                pointsQuant = message.content.split("currently has :points:")[1].replaceAll(".$", "");
+                String pointOwner = message.content.split(", by my calculation, @")[1].split(" currently has")[0];
 
-                Double havePoints = Double.parseDouble(pointsQuant.replaceAll(",", ""));
+                Double havePoints =
+                        Double.parseDouble(message.content.split("currently has :points:")[1].replaceAll(".$", "").replaceAll(",", ""));
 
-                if (message.content.contains(", @" + message.mentions.get(0).nickname)||message.mentions.size()==1) {
-                    leaderBoardMap.put(message.mentions.get(0).id, havePoints);
-                    userNickName.put(message.mentions.get(0).id, message.mentions.get(0).nickname+message.mentions.get(0).discriminator);
-                }
-                else
-                {
-                    leaderBoardMap.put(message.mentions.get(1).id, havePoints);
-                    userNickName.put(message.mentions.get(1).id, message.mentions.get(1).nickname+message.mentions.get(1).discriminator);
-                }
+                    leaderBoardMap.put(pointOwner, havePoints);
 
             }
 
@@ -40,7 +32,7 @@ public class LeaderBoardCreator {
 
         try (BufferedWriter writer = new BufferedWriter(new FileWriter("LeaderBoard.txt"))) {
             for (Map.Entry<String, Double> stringDoubleEntry : leaderBoardMap.entrySet()) {
-                writer.write(userNickName.get(stringDoubleEntry.getKey()) + "\t" + stringDoubleEntry.getValue()+"\n");
+                writer.write(stringDoubleEntry.getKey() + "\t" + stringDoubleEntry.getValue().toString().replace('.',',')+"\n");
 
             }
 
@@ -48,7 +40,6 @@ public class LeaderBoardCreator {
             e.printStackTrace();
         }
 
-        System.out.println(messageArrayList.size());
     }
 
 

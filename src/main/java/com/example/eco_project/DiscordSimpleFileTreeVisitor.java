@@ -38,6 +38,7 @@ public class DiscordSimpleFileTreeVisitor extends SimpleFileVisitor {
                 globalListMessages.add(message);
                 allMessageList.add(message);
             }
+
         }
        // Execute.extractTheDataAndWrittenFile(allMessageList, file.toString());
         if(file.toString().contains("points-log")) pointsLogMessages = allMessageList;
