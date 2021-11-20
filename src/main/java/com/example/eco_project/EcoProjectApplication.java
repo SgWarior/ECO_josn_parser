@@ -17,6 +17,7 @@ public class EcoProjectApplication {
     public static  ArrayList<Message> pointsLogMessages = new ArrayList<>();
     public static  ArrayList<Message> chekPointslist = new ArrayList<>();
     public static  HashSet<String> AllUsersMadetTranz = new HashSet<>();
+    public static  HashSet<String> AllUsers = new HashSet<>();
 
     @SneakyThrows
     public static void main(String[] args) {
@@ -31,6 +32,7 @@ public class EcoProjectApplication {
         for (String s : AllUsersMadetTranz) {
             System.out.print(s+" ");
         }
+
 
 
     }

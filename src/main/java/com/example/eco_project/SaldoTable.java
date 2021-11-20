@@ -10,12 +10,15 @@ import java.util.*;
 
 public class SaldoTable {
 
-    private static Set<String> teamID = new HashSet<>(
+    private static Set<String> teamECOID = new HashSet<>(
             Arrays.asList("818215417956925460","344148051973373952","804530443188961300","313479401419309063","768554690480701472"));
     //@Bryce  | Eco#0263   @Dave | Eco#2900     @Hen | Eco#7458   @Henry  |  Eco#9415    @Andy | Eco#0001
 
     private static Set<String> UmeeTeam = new HashSet<>(
             Arrays.asList("290622208718667787","761092353553334303","362803151679651841","704831357947478036","705833333116108860","415587388249604106"));
+
+    private static Set<String> teamID = new HashSet<>(
+            Arrays.asList("795219597620019240","769276873238642728","178912792554766336","683871239005011998","804079207302430741","883561033980063765", "615745878996549632"));
 
     public static HashMap<String,DiscordUser> discordUserHashMap = new HashMap<>();
 
@@ -25,7 +28,8 @@ public class SaldoTable {
             updateInfoAboutDiscordAuthor(message);
             if(message.mentions.size()>0)updateInfoAboutMentioned(message);
         }
-        writeMapIntoFile("EcoStatsDiscord.txt", discordUserHashMap);
+        writeMapIntoFile("StatsDiscord.txt", discordUserHashMap);
+
         return discordUserHashMap;
     }
 
@@ -81,6 +85,8 @@ public class SaldoTable {
             }
         }
     }
+
+
 
 }
 
